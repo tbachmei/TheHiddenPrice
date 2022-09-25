@@ -1,0 +1,353 @@
+- ChildDeathCount: 1
+  CivilianDeathCount: 2
+  Country: Ukraine
+  CountryID: UA
+  EventName: Russian air strikes on apartment block
+  InjuredCount: 20
+  Latitude: 49.8363648
+  Location: Chuhuiv
+  Longitude: 36.6898157
+  Perpetrator: Russia
+  SourceA: https://www.thenationalnews.com/world/2022/02/24/civilians-killed-as-stray-russian-missile-hits-apartment-block-in-ukraine/
+  SourceB: https://vchasnoua.com/en/392-russia-attacked-ukraine-online-update
+  SourceC: https://nypost.com/2022/02/24/ukraine-teacher-credits-guardian-angel-for-surviving-russia-missile-strike/
+  StartDate: '2022-02-24'
+  Tags:
+  - ProjectileStrike
+  - Invasion
+  airtable_createdTime: '2022-09-15T04:25:45.000Z'
+  airtable_id: rec2X1z4auZMmLWJo
+- AbductedCount: 5
+  CivilianDeathCount: 9
+  Country: Ukraine
+  CountryID: UA
+  EndDate: '2022-03-31'
+  EventName: Russian forces at Chernobyl
+  Latitude: 51.4059655
+  Location: Pripyat
+  Longitude: 30.0573963
+  Perpetrator: Russia
+  SourceA: https://www.mirror.co.uk/news/world-news/russian-forces-chernobyl-killed-9-27136555
+  SourceB: https://apnews.com/article/russia-ukraine-business-health-europe-accidents-edcd5bc0e6bde3cbf6d7300bebc9343f
+  StartDate: '2022-02-24'
+  Tags:
+  - Invasion
+  airtable_createdTime: '2022-09-15T04:09:43.000Z'
+  airtable_id: rec6M2SVFjdp1qUvy
+- ChildDeathCount: 1
+  CivilianDeathCount: 3
+  Country: Ukraine
+  CountryID: UA
+  EventName: Cluster munitions kill child and two other civilians taking shelter at
+    a preschool
+  InjuredCount: 1
+  Latitude: 50.3115386
+  Location: Okhtyrka
+  Longitude: 34.8868923
+  Notes: Used cluster munitions which is a war crime in it of itself
+  Perpetrator: Russia
+  SourceA: https://www.amnesty.org/en/latest/news/2022/02/ukraine-cluster-munitions-kill-child-and-two-other-civilians-taking-shelter-at-a-preschool/
+  StartDate: '2022-02-25'
+  Tags:
+  - Invasion
+  - BannedWeaponry
+  - Bombing
+  airtable_createdTime: '2022-09-15T04:50:15.000Z'
+  airtable_id: rec916puplN9Wbc9d
+- CivilianDeathCount: 3
+  Country: Iraq
+  CountryID: IQ
+  EventName: Turkey fights PKK with drones in Iraq
+  Latitude: 37.0919695
+  Location: Amedi region
+  Longitude: 43.4874378
+  Notes: "\"Turkey and the PKK have fought a cat-and-mouse war since the rebels launched\
+    \ a full-scale, Marxist-inspired insurgency against the Turkish state\u2019s repression\
+    \ in 1984. More than 40,000 people have died in the violence since then, the vast\
+    \ majority civilians, and the PKK has been designated as a terrorist organisation\
+    \ by Turkey and most of its western allies.\""
+  Perpetrator: Turkey
+  SourceA: https://www.theguardian.com/world/2021/apr/04/iraq-turkey-pkk-drones-kurds-kurdistan
+  StartDate: '2021-12-07'
+  Tags:
+  - DroneStrike
+  airtable_createdTime: '2022-09-06T03:10:39.000Z'
+  airtable_id: recBUyajm43Nyuk49
+- CivilianDeathCount: 2
+  Country: Ukraine
+  CountryID: UA
+  EventName: Russian tank blows up civilian car killing elderly couple inside
+  Latitude: 50.4500336
+  Location: Kyiv
+  Longitude: 30.5241361
+  Perpetrator: Russia
+  SourceA: https://www.dailyrecord.co.uk/news/uk-world-news/horror-russian-tank-blows-up-26418918
+  SourceB: https://www.mirror.co.uk/news/world-news/russian-tank-caught-graphic-footage-26415984
+  StartDate: '2022-02-28'
+  Tags:
+  - Invasion
+  - ProjectileStrike
+  airtable_createdTime: '2022-09-15T07:51:18.000Z'
+  airtable_id: recDGRqRH2ISVhyNP
+- ChildDeathCount: 1
+  CivilianDeathCount: 1
+  Country: Ukraine
+  CountryID: UA
+  EventName: Kyiv children's hospital shelled, child killed
+  InjuredCount: 4
+  Latitude: 50.4500336
+  Location: Kyiv
+  Longitude: 30.5241361
+  Perpetrator: Russia
+  SourceA: https://www.pravda.com.ua/eng/news/2022/02/26/7326263/
+  SourceB: https://www.nbcnews.com/news/world/blog/russia-ukraine-live-updates-n1290057/ncrd1290068#blogHeader
+  StartDate: '2022-02-25'
+  Tags:
+  - Invasion
+  - Shelling
+  airtable_createdTime: '2022-09-15T07:05:07.000Z'
+  airtable_id: recDgKZsu04dBfpGW
+- ChildDeathCount: 2
+  CivilianDeathCount: 21
+  Country: Ukraine
+  CountryID: UA
+  EventName: Sumy airstrikes
+  Latitude: 50.9119775
+  Location: Sumy
+  Longitude: 34.8027723
+  Perpetrator: Russia
+  SourceA: https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say
+  airtable_createdTime: '2022-09-08T05:59:28.000Z'
+  airtable_id: recKQppAKmCXcIVzh
+- CivilianDeathCount: 12
+  Country: Ukraine
+  CountryID: UA
+  EndDate: '2022-03-02'
+  EventName: Dead bodies lie in the streets of the Greek village of Sartana
+  InjuredCount: 4
+  Latitude: 47.1701321
+  Location: Sartana
+  Longitude: 37.6952892
+  Perpetrator: Russia
+  SourceA: https://neoskosmos.com/en/2022/03/02/news/world/dead-bodies-lie-in-the-streets-of-the-greek-village-of-sartana-dragged-by-dogs/
+  SourceB: https://geopolitiki.com/ukraine-greek-minority-village-of-sartana/
+  StartDate: '2022-02-26'
+  Tags:
+  - Invasion
+  - Bombing
+  airtable_createdTime: '2022-09-15T07:28:54.000Z'
+  airtable_id: recN57z43rm9T86S0
+- CivilianDeathCount: 767
+  Country: Ethiopia
+  CountryID: ET
+  EventName: ' Tigray Massacre'
+  Latitude: 10.2116702
+  Location: REDO COORDINATES
+  Longitude: 38.6521203
+  Notes: Look into other Tigray events
+  Perpetrator: Samri and other Tigrayan civilians, police and militia
+  SourceA: https://www.washingtonpost.com/world/africa/ethiopia-tigray-mai-kadra-massacre/2020/11/24/2fcb4218-2e76-11eb-9dd6-2d0179981719_story.html
+  SourceB: https://www.reuters.com/investigates/special-report/ethiopia-conflict-expulsions/
+  StartDate: '2020-11-09'
+  Tags:
+  - EthnicCleansing
+  airtable_createdTime: '2022-09-06T03:34:35.000Z'
+  airtable_id: recOAcgdesjMQs21b
+- CivilianDeathCount: 3
+  Country: Ukraine
+  CountryID: UA
+  EventName: Journalist shot dead and first responders burned to death in ambulance
+  InjuredCount: 1
+  Latitude: 46.5421715
+  Location: Kherson
+  Longitude: 33.4079326
+  Perpetrator: Russia
+  SourceA: https://www.pravda.com.ua/eng/news/2022/02/26/7326302/
+  SourceB: https://www.ukrinform.net/rubric-ato/3414210-journalist-shot-dead-by-russian-occupiers-in-kherson-region.html
+  StartDate: '2022-02-26'
+  Tags:
+  - Invasion
+  airtable_createdTime: '2022-09-15T07:15:49.000Z'
+  airtable_id: recPUfkZj6BRaoc4l
+- CivilianDeathCount: 2
+  Country: Ukraine
+  CountryID: UA
+  EventName: Two teachers dead in attack on school
+  Latitude: 48.3058686
+  Location: Gorlovka
+  Longitude: 38.0027664
+  Perpetrator: Russia
+  SourceA: https://tass.com/politics/1410695
+  SourceB: https://www.express.co.uk/news/world/1573271/russia-ukraine-news-vladimir-putin-kyv-invasion-world-war-3
+  StartDate: '2022-02-25'
+  Tags:
+  - Invasion
+  - Shelling
+  airtable_createdTime: '2022-09-15T07:40:05.000Z'
+  airtable_id: recPyCH2CU1CMKRU6
+- Country: Ukraine
+  CountryID: UA
+  EventName: Mariupol theater airstrike
+  Latitude: 47.0957648
+  Location: Mariupol
+  Longitude: 37.5499621
+  Perpetrator: Russia
+  SourceA: https://apnews.com/article/Russia-ukraine-war-mariupol-theater-c321a196fbd568899841b506afcac7a1
+  airtable_createdTime: '2022-09-08T06:05:14.000Z'
+  airtable_id: recQ1Z6nDG5MffYqW
+- CivilianDeathCount: 1
+  Country: Ukraine
+  CountryID: UA
+  EventName: Ukrainian cyclist hit by missile
+  Latitude: 48.7497621
+  Location: Uman
+  Longitude: 30.2203052
+  Perpetrator: Russia
+  SourceA: https://www.mirror.co.uk/news/world-news/cyclist-seen-being-hit-explosive-26318197
+  SourceB: https://www.dailystar.co.uk/news/world-news/horror-moment-ukrainian-cyclist-hit-26318118
+  StartDate: '2022-02-24'
+  Tags:
+  - ProjectileStrike
+  - Invasion
+  airtable_createdTime: '2022-09-15T04:15:54.000Z'
+  airtable_id: recUlOqTuToOq1lhP
+- ChildDeathCount: 1
+  CivilianDeathCount: 1
+  Country: Ukraine
+  CountryID: UA
+  EventName: 6-year-old girl killed in Russian shelling
+  Latitude: 47.0957648
+  Location: Mariupol
+  Longitude: 37.5499621
+  Perpetrator: Russia
+  SourceA: https://www.businessinsider.com/6-year-old-ukrainian-girl-was-killed-russian-shelling-report-2022-2
+  SourceB: https://www.nydailynews.com/news/ny-ukraine-shelling-hospital-20220228-47df3lwex5bknonnvohinptjau-story.html
+  SourceC: https://www.independent.co.uk/news/world/europe/russia-ukraine-girl-killed-shelling-b2024832.html
+  StartDate: '2022-02-27'
+  Tags:
+  - Invasion
+  - Shelling
+  airtable_createdTime: '2022-09-15T07:50:45.000Z'
+  airtable_id: reccU1r7dla6mdHTP
+- CivilianDeathCount: 4
+  Country: Ukraine
+  CountryID: UA
+  EventName: Civilians killed in Maryanivka
+  InjuredCount: 15
+  Latitude: 48.718899
+  Location: Maryanivka
+  Longitude: 35.21225
+  Perpetrator: Russia
+  SourceA: https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians
+  StartDate: '2022-02-25'
+  Tags:
+  - ProjectileStrike
+  - Invasion
+  airtable_createdTime: '2022-09-15T06:59:21.000Z'
+  airtable_id: rechTRhh9mmBrtYK9
+- Country: Ukraine
+  CountryID: UA
+  EventName: Attacks on Chernihiv apartment buildings
+  Latitude: 51.272593
+  Location: Chernihiv
+  Longitude: 31.7417235
+  Perpetrator: Russia
+  SourceA: https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv
+  airtable_createdTime: '2022-09-08T06:09:28.000Z'
+  airtable_id: recjDuyoIVkj78GbI
+- Country: Laos
+  CountryID: LA
+  EventName: America's secret war in Laos
+  Latitude: 19.996388986797925
+  Location: REDO COORDINATES
+  Longitude: 103.39157391866064
+  Notes: |
+    Maybe not recent enough for immediate data
+  SourceA: https://www-nbcnews-com.cdn.ampproject.org/v/s/www.nbcnews.com/news/amp/rcna28893?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIKAGwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16527202852996&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fworld%2Fpreserving-history-americas-secret-war-laos-rcna28893
+  SourceB: https://airwars.org/civilian-casualties/ti052-december-7-2020/
+  airtable_createdTime: '2022-09-06T03:10:39.000Z'
+  airtable_id: reck0qJOp3zRUakFV
+- CivilianDeathCount: 3
+  Country: Ukraine
+  CountryID: UA
+  EventName: Three people died during a shelling of a private house
+  Latitude: 50.64398193359375
+  Location: Borodyanka
+  Longitude: 29.894670486450195
+  Perpetrator: Russia
+  SourceA: https://hindustannewshub.com/russia-ukraine-news/in-borodyanka-three-people-died-during-a-shelling-of-a-residential-building/
+  SourceB: https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians
+  StartDate: '2022-02-26'
+  Tags:
+  - Invasion
+  - Shelling
+  airtable_createdTime: '2022-09-15T07:45:53.000Z'
+  airtable_id: recn7GzlleR1tZidP
+- CivilianDeathCount: 1
+  Country: Ukraine
+  CountryID: UA
+  EventName: Shelling kills one, injures three at Kharkiv blood bank
+  InjuredCount: 3
+  Latitude: 49.9923181
+  Location: Kharkiv
+  Longitude: 36.2310146
+  Perpetrator: Russia
+  SourceA: https://www.africanews.com/2022/02/27/kharkiv-blood-donation-centre-hit-by-shelling/
+  StartDate: '2022-02-25'
+  Tags:
+  - Invasion
+  - Shelling
+  airtable_createdTime: '2022-09-15T05:13:49.000Z'
+  airtable_id: recoQf3eliRtW9lM3
+- CivilianDeathCount: 4
+  Country: Ukraine
+  CountryID: UA
+  EventName: Russian Cluster Munition Hits Hospital
+  InjuredCount: 10
+  Latitude: 47.7805058
+  Location: Vuhledar
+  Longitude: 37.2484374
+  Notes: Used cluster munitions which is a war crime in it of itself
+  Perpetrator: Russia
+  SourceA: https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital
+  SourceB: https://www.emergency-live.com/news/ukraine-russian-bombardment-hits-hospital-four-dead-and-ten-wounded-martial-law-in-force/
+  StartDate: '2022-02-24'
+  Tags:
+  - Invasion
+  - BannedWeaponry
+  - Bombing
+  airtable_createdTime: '2022-09-15T04:47:22.000Z'
+  airtable_id: recqhogtitQanF3DP
+- CivilianDeathCount: 1
+  Country: Ukraine
+  CountryID: UA
+  EventName: Vadim Shishimarin kills 62 year old unarmed Ukrainian man
+  Latitude: 50.379852
+  Location: Chupakhivka
+  Longitude: 34.584534
+  Perpetrator: Russia
+  SourceA: https://www.washingtonpost.com/world/2022/05/23/ukraine-russia-soldier-war-crimes-verdict/
+  SourceB: https://www.bbc.com/news/world-europe-61549569
+  SourceC: https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial
+  StartDate: '2022-02-28'
+  Tags:
+  - Invasion
+  airtable_createdTime: '2022-09-15T07:51:16.000Z'
+  airtable_id: recvMv7BCFngguOSw
+- ChildDeathCount: 1
+  CivilianDeathCount: 22
+  Country: Ukraine
+  CountryID: UA
+  EventName: Independence Day attack on Ukraine's train system
+  InjuredCount: 50
+  Latitude: 48.12836
+  Location: Chaplyne
+  Longitude: 36.22673
+  Perpetrator: Russia
+  SourceA: https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-3507728aeaf8ebfc68a1cdbd3aa8c30e
+  SourceB: https://apnews.com/article/russia-ukraine-war-crimes-government-and-politics-0abd99fd89a62042287341e88758d32f
+  StartDate: '2022-08-24'
+  Tags:
+  - ProjectileStrike
+  airtable_createdTime: '2022-09-06T03:10:39.000Z'
+  airtable_id: recz5x2SuilaF4Ccv
