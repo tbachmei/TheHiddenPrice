@@ -27,9 +27,9 @@ jobs:
         pip install airtable-export
     - name: Backup Airtable to backups/
       env:
-        AIRTABLE_BASE_ID: ${{ secrets.appUhrUtuioBBhEZj }}
-        AIRTABLE_KEY: ${{ secrets.keyWmP8BOEbkbLccY }}
-        AIRTABLE_TABLES: ${{ secrets.MainTable }}
+        AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+        AIRTABLE_KEY: ${{ secrets.AIRTABLE_KEY }}
+        AIRTABLE_TABLES: ${{ secrets.AIRTABLE_TABLES }}
       run: |-
         airtable-export backups $AIRTABLE_BASE_ID $AIRTABLE_TABLES -v
     - name: Commit and push if it changed
