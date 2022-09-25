@@ -31,7 +31,6 @@ jobs:
         AIRTABLE_KEY: ${{ secrets.AIRTABLE_KEY }}
         AIRTABLE_TABLES: ${{ secrets.AIRTABLE_TABLES }}
       run: |-
-        airtable-export backups $AIRTABLE_BASE_ID $AIRTABLE_TABLES --ndjson -v
         airtable-export backups $AIRTABLE_BASE_ID $AIRTABLE_TABLES --json -v
     - name: Commit and push if it changed
       run: |-
