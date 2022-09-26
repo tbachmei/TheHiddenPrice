@@ -376,6 +376,17 @@
         "airtable_id": "recvMv7BCFngguOSw"
     },
     {
+        "Country": "Ukraine",
+        "CountryID": "UK",
+        "EventName": "People die",
+        "Location": "Kherson",
+        "Tags": [
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-26T23:30:07.000Z",
+        "airtable_id": "recxacvuKiqb6zGrO"
+    },
+    {
         "ChildDeathCount": 1,
         "CivilianDeathCount": 22,
         "Country": "Ukraine",
