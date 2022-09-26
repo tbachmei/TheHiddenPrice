@@ -297,19 +297,6 @@
         "airtable_id": "recjDuyoIVkj78GbI"
     },
     {
-        "Country": "Laos",
-        "CountryID": "LA",
-        "EventName": "America's secret war in Laos",
-        "Latitude": 19.996388986797925,
-        "Location": "REDO COORDINATES",
-        "Longitude": 103.39157391866064,
-        "Notes": "Maybe not recent enough for immediate data\n",
-        "SourceA": "https://www-nbcnews-com.cdn.ampproject.org/v/s/www.nbcnews.com/news/amp/rcna28893?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIKAGwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16527202852996&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fworld%2Fpreserving-history-americas-secret-war-laos-rcna28893",
-        "SourceB": "https://airwars.org/civilian-casualties/ti052-december-7-2020/",
-        "airtable_createdTime": "2022-09-06T03:10:39.000Z",
-        "airtable_id": "reck0qJOp3zRUakFV"
-    },
-    {
         "CivilianDeathCount": 3,
         "Country": "Ukraine",
         "CountryID": "UA",
