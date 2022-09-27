@@ -122,6 +122,25 @@
         "airtable_id": "recDgKZsu04dBfpGW"
     },
     {
+        "CivilianDeathCount": 13,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-08-10",
+        "EventName": "Russian shelling kills 13 in Nikopol",
+        "InjuredCount": 11,
+        "Location": "Nikopol",
+        "Perpetrator": "Russia",
+        "SourceA": "https://babel.ua/en/news/82725-russia-again-shelled-the-nikopol-district-in-the-dnipropetrovsk-oblast-during-the-night-11-killed#:~:text=There%20are%2011%20killed%20during%20the%20night&text=On%20the%20night%20of%20August,Valentin%20Reznichenko%2C%20reported%20on%20this.",
+        "SourceB": "https://ru.interfax.com.ua/news/general/851503.html",
+        "StartDate": "2022-08-10",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T21:17:30.000Z",
+        "airtable_id": "recImKmvV1JTLArRF"
+    },
+    {
         "ChildDeathCount": 2,
         "CivilianDeathCount": 21,
         "Country": "Ukraine",
@@ -226,6 +245,24 @@
         "airtable_id": "recQ1Z6nDG5MffYqW"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-09-09",
+        "EventName": "Two bodies with signs of torture found in Grakovo village",
+        "Location": "Grakovo",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.straitstimes.com/world/europe/explosions-everywhere-as-ukraine-forces-recapture-village",
+        "SourceB": "https://www.france24.com/en/live-news/20220910-explosions-everywhere-as-ukraine-forces-recapture-village",
+        "StartDate": "2022-09-07",
+        "Tags": [
+            "Torture",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-27T20:29:33.000Z",
+        "airtable_id": "recQdvHYpNvSHL5Uv"
+    },
+    {
         "CivilianDeathCount": 1,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -278,7 +315,8 @@
         "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
         "StartDate": "2022-09-11",
         "Tags": [
-            "Shelling"
+            "Shelling",
+            "Invasion"
         ],
         "airtable_createdTime": "2022-09-27T20:19:46.000Z",
         "airtable_id": "recg0yq3ZzZXCkgT0"
@@ -375,6 +413,25 @@
         "airtable_id": "recqhogtitQanF3DP"
     },
     {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-08-30",
+        "EventName": "Four people killed in shelling of Kharkiv residential area",
+        "InjuredCount": 7,
+        "Location": "Kharkiv",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.anews.com.tr/world/2022/08/30/at-least-four-killed-in-russian-shelling-of-ukraines-city-of-kharkiv-governor-says",
+        "SourceB": "https://uk.movies.yahoo.com/kharkiv-least-four-killed-russian-103410103.html",
+        "StartDate": "2022-08-30",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T21:00:01.000Z",
+        "airtable_id": "recr8rf7S8aNuUx1L"
+    },
+    {
         "CivilianDeathCount": 1,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -392,6 +449,24 @@
         ],
         "airtable_createdTime": "2022-09-15T07:51:16.000Z",
         "airtable_id": "recvMv7BCFngguOSw"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-08-31",
+        "EventName": "Civilian tortured, executed by Russian troops",
+        "Location": "Zdvyzhivka",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/09/1/7365702/",
+        "SourceB": "https://finance.yahoo.com/news/body-another-man-tortured-murdered-184800930.html",
+        "StartDate": "2022-08-31",
+        "Tags": [
+            "Torture",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-27T20:48:49.000Z",
+        "airtable_id": "recvdyip9uYiZ37e8"
     },
     {
         "ChildDeathCount": 1,
