@@ -266,6 +266,24 @@
         "airtable_id": "reccU1r7dla6mdHTP"
     },
     {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-09-11",
+        "EventName": "Russian shelling on residential buildings",
+        "InjuredCount": 19,
+        "Location": "Donetsk Oblast",
+        "Perpetrator": "Russia",
+        "SourceA": "https://sports.yahoo.com/10-civilians-killed-19-injured-085600729.html",
+        "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
+        "StartDate": "2022-09-11",
+        "Tags": [
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T20:19:46.000Z",
+        "airtable_id": "recg0yq3ZzZXCkgT0"
+    },
+    {
         "CivilianDeathCount": 4,
         "Country": "Ukraine",
         "CountryID": "UA",
