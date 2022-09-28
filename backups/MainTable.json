@@ -128,6 +128,26 @@
         "airtable_id": "recDgKZsu04dBfpGW"
     },
     {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-07-16",
+        "EventID": 29,
+        "EventName": "Missile strike on residential area kills 3",
+        "InjuredCount": 3,
+        "Location": "Kharkiv",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.reuters.com/world/europe/russian-strike-kills-three-people-kharkiv-region-governor-2022-07-16/",
+        "SourceB": "https://www.usnews.com/news/world/articles/2022-07-16/russian-strike-kills-three-people-in-kharkiv-region-governor",
+        "StartDate": "2022-07-16",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-28T20:56:27.000Z",
+        "airtable_id": "recHRT4T3mt4Suh32"
+    },
+    {
         "CivilianDeathCount": 13,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -324,10 +344,12 @@
         "CountryID": "UA",
         "EndDate": "2022-08-04",
         "EventID": 28,
-        "EventName": "At least 8 killed after Russian shelling in Toretsk",
+        "EventName": "8 killed after Russian shelling on bus stop in Toretsk",
         "InjuredCount": 4,
         "Location": "Toretsk",
         "Perpetrator": "Russia",
+        "SourceA": "https://www.reuters.com/world/europe/russian-shelling-kills-eight-eastern-town-toretsk-ukrainian-governor-2022-08-04/",
+        "SourceB": "https://www.dailysabah.com/world/europe/russian-shelling-kills-8-in-eastern-ukraine-town-of-toretsk",
         "StartDate": "2022-08-04",
         "Tags": [
             "Invasion",
