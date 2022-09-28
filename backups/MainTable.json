@@ -319,6 +319,24 @@
         "airtable_id": "reccU1r7dla6mdHTP"
     },
     {
+        "CivilianDeathCount": 8,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-08-04",
+        "EventID": 28,
+        "EventName": "At least 8 killed after Russian shelling in Toretsk",
+        "InjuredCount": 4,
+        "Location": "Toretsk",
+        "Perpetrator": "Russia",
+        "StartDate": "2022-08-04",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-28T20:16:07.000Z",
+        "airtable_id": "recdlhfORQuDvaKir"
+    },
+    {
         "CivilianDeathCount": 10,
         "Country": "Ukraine",
         "CountryID": "UA",
