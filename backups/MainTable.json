@@ -1,5 +1,10 @@
 [
     {
+        "EventID": 38,
+        "airtable_createdTime": "2022-09-29T03:56:11.000Z",
+        "airtable_id": "rec217ZU3qP88jKm0"
+    },
+    {
         "ChildDeathCount": 1,
         "CivilianDeathCount": 2,
         "Country": "Ukraine",
@@ -44,6 +49,25 @@
         "airtable_id": "rec6M2SVFjdp1qUvy"
     },
     {
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 32,
+        "EventName": "Bodies of seven civilians killed in Bucha unearthed from mass grave",
+        "Location": "Bucha",
+        "Notes": "Gunshot wounds to knees and head",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.voanews.com/a/bucolic-ukraine-forest-is-site-of-mass-grave-exhumation-/6616015.html#:~:text=The%20horrors%20of%20Bucha%20shocked,knees%20and%20head%2C%20Nebytov%20said.",
+        "SourceB": "https://www.arkansasonline.com/news/2022/jun/14/ukrainians-find-more-victims-near-bucha/",
+        "StartDate": "2022-06-13",
+        "Tags": [
+            "Invasion",
+            "Torture"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:57.000Z",
+        "airtable_id": "rec84WGSgbeLyfkEJ"
+    },
+    {
         "ChildDeathCount": 1,
         "CivilianDeathCount": 3,
         "Country": "Ukraine",
@@ -67,6 +91,59 @@
         "airtable_id": "rec916puplN9Wbc9d"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 8,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 36,
+        "EventName": "Woman and her 3-month-old baby killed on Saturday during a cruise missile strike on Odesa.",
+        "InjuredCount": 18,
+        "Location": "Odesa",
+        "Perpetrator": "Russia",
+        "SourceA": "https://thehill.com/policy/international/3461310-russian-missile-strike-on-odesa-kills-8-including-3-month-old-baby-girl-zelensky-says/",
+        "StartDate": "2022-04-23",
+        "airtable_createdTime": "2022-09-29T03:56:08.000Z",
+        "airtable_id": "rec98ovVmEx2nQ4oe"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-06-06",
+        "EventID": 31,
+        "EventName": "Four people killed by Russian strike on Lysychansk",
+        "InjuredCount": 7,
+        "Location": "Lysychansk",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/06/16/7352858/",
+        "SourceB": "https://www.dw.com/en/ukraine-war-russia-strikes-lysychansk/av-62166615",
+        "StartDate": "2022-06-16",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:53.000Z",
+        "airtable_id": "rec9oouYUfb6SUJ7Q"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 34,
+        "EventName": "Rocket attack at bus shelter outside factory kills 10",
+        "InjuredCount": 15,
+        "Location": "Avdiivka",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.timesnownews.com/world/russia-ukraine-war-10-killed-15-wounded-in-russian-strike-at-avdiivka-coke-plant-in-eastern-ukraine-article-91295318",
+        "StartDate": "2022-05-03",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:04.000Z",
+        "airtable_id": "recB4vEukVq0zHJy0"
+    },
+    {
         "CivilianDeathCount": 3,
         "Country": "Iraq",
         "CountryID": "IQ",
@@ -86,6 +163,22 @@
         "airtable_id": "recBUyajm43Nyuk49"
     },
     {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EndDate": "2022-06-27",
+        "EventID": 30,
+        "EventName": "Russian missile hits busy shopping mall, kills at least 10",
+        "InjuredCount": 40,
+        "Location": "Kremenchuk",
+        "Notes": "At least 10 dead and 40 injured",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.columbian.com/news/2022/jun/27/officials-russian-missile-strike-hits-crowded-shopping-mall/",
+        "StartDate": "2022-06-27",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
         "airtable_createdTime": "2022-09-28T23:47:38.000Z",
         "airtable_id": "recCSagIZtEnnFvE6"
     },
@@ -108,6 +201,11 @@
         ],
         "airtable_createdTime": "2022-09-15T07:51:18.000Z",
         "airtable_id": "recDGRqRH2ISVhyNP"
+    },
+    {
+        "EventID": 40,
+        "airtable_createdTime": "2022-09-29T03:56:16.000Z",
+        "airtable_id": "recDJVvLRjV5ky3ng"
     },
     {
         "ChildDeathCount": 1,
@@ -152,6 +250,27 @@
         "airtable_id": "recHRT4T3mt4Suh32"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 33,
+        "EventName": "Seven people die following Russian shelling",
+        "InjuredCount": 17,
+        "Location": "Kharkiv",
+        "Notes": "Seven people dead including a 9-year-old girl.",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.forbes.com/sites/katyasoldak/2022/05/26/thursday-may-26-russias-war-on-ukraine-news-and-information-from-ukraine/?sh=345a5a75475e",
+        "SourceB": "https://www.upi.com/Top_News/World-News/2022/05/26/ukraine-Ukraine-Russia-war/5591653595435/",
+        "StartDate": "2022-05-26",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:59.000Z",
+        "airtable_id": "recHY30py2DKDPaRA"
+    },
+    {
         "CivilianDeathCount": 13,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -170,6 +289,11 @@
         ],
         "airtable_createdTime": "2022-09-27T21:17:30.000Z",
         "airtable_id": "recImKmvV1JTLArRF"
+    },
+    {
+        "EventID": 39,
+        "airtable_createdTime": "2022-09-29T03:56:15.000Z",
+        "airtable_id": "recJ5KfwSLrBnNYwc"
     },
     {
         "ChildDeathCount": 2,
@@ -321,6 +445,23 @@
         "airtable_id": "recUlOqTuToOq1lhP"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 37,
+        "EventName": "Two civilians killed in burning car after Russian airstrikes on residential area",
+        "Location": "Kharkiv",
+        "Perpetrator": "Russia",
+        "SourceA": "https://apnews.com/article/russia-ukraine-putin-kyiv-business-europe-f0e1cd893715eda1e6bef696d9c47db3",
+        "StartDate": "2023-04-21",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:11.000Z",
+        "airtable_id": "recXeCUTS7DoPythl"
+    },
+    {
         "ChildDeathCount": 1,
         "CivilianDeathCount": 1,
         "Country": "Ukraine",
@@ -454,6 +595,24 @@
         ],
         "airtable_createdTime": "2022-09-15T05:13:49.000Z",
         "airtable_id": "recoQf3eliRtW9lM3"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 35,
+        "EventName": "Attack on residential building kills two children",
+        "Location": "Lyman",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.knkx.org/2022-04-26/photos-russian-missiles-strike-kyiv-as-battle-slows-down-in-eastern-ukraine",
+        "StartDate": "2022-04-25",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:07.000Z",
+        "airtable_id": "recohWbaV1DdFAFhQ"
     },
     {
         "CivilianDeathCount": 7,
