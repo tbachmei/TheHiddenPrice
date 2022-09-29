@@ -1,6 +1,19 @@
 [
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 9,
+        "Country": "Ukraine",
+        "CountryID": "UA",
         "EventID": 38,
+        "EventName": "9 bodies unearthed from shallow graves",
+        "Location": "Borodyanka",
+        "Notes": "15-year-old girl among those found.",
+        "Perpetrator": "Russia",
+        "SourceA": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-9-bodies-found-outside-kyiv-some-with-signs-of-torture/articleshow/90975737.cms",
+        "StartDate": "2022-04-20",
+        "Tags": [
+            "Invasion"
+        ],
         "airtable_createdTime": "2022-09-29T03:56:11.000Z",
         "airtable_id": "rec217ZU3qP88jKm0"
     },
@@ -203,7 +216,19 @@
         "airtable_id": "recDGRqRH2ISVhyNP"
     },
     {
+        "Country": "Ukraine",
+        "CountryID": "UA",
         "EventID": 40,
+        "EventName": "Missile strike in Kharkiv wounds four at community kitchen",
+        "InjuredCount": 4,
+        "Location": "Kharkiv",
+        "Perpetrator": "Russia",
+        "SourceA": "https://sports.yahoo.com/missile-struck-humanitarian-kitchen-ukraine-110802357.html",
+        "StartDate": "2022-04-16",
+        "Tags": [
+            "Shelling",
+            "Invasion"
+        ],
         "airtable_createdTime": "2022-09-29T03:56:16.000Z",
         "airtable_id": "recDJVvLRjV5ky3ng"
     },
@@ -291,7 +316,20 @@
         "airtable_id": "recImKmvV1JTLArRF"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
         "EventID": 39,
+        "EventName": "Russian forces firing into residential area",
+        "InjuredCount": 4,
+        "Location": "Luhansk",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.upi.com/Top_News/World-News/2022/04/17/ukraine-russian-forces-fire-on-civilians-luhansk-region-fighting-easter/3541650212190/",
+        "StartDate": "2022-04-17",
+        "Tags": [
+            "Invasion",
+            "ProjectileStrike"
+        ],
         "airtable_createdTime": "2022-09-29T03:56:15.000Z",
         "airtable_id": "recJ5KfwSLrBnNYwc"
     },
@@ -309,6 +347,11 @@
         "SourceA": "https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say",
         "airtable_createdTime": "2022-09-08T05:59:28.000Z",
         "airtable_id": "recKQppAKmCXcIVzh"
+    },
+    {
+        "EventID": 42,
+        "airtable_createdTime": "2022-09-29T05:07:35.000Z",
+        "airtable_id": "recKYZRYM57gmFRiD"
     },
     {
         "CivilianDeathCount": 12,
@@ -555,6 +598,26 @@
         "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
         "airtable_createdTime": "2022-09-08T06:09:28.000Z",
         "airtable_id": "recjDuyoIVkj78GbI"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 41,
+        "EventName": "Shelling of a residential area kills at least 7",
+        "InjuredCount": 34,
+        "Location": "Kharkiv",
+        "Notes": "7-month-old and 15-year-old among those killed.",
+        "Perpetrator": "Russia",
+        "SourceA": "https://www.ocregister.com/2022/04/15/police-more-than-900-civilian-bodies-found-in-kyiv-region/",
+        "StartDate": "2022-04-15",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T05:02:19.000Z",
+        "airtable_id": "recmeriz8N2FsYbPI"
     },
     {
         "CivilianDeathCount": 3,
