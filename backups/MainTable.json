@@ -349,7 +349,22 @@
         "airtable_id": "recKQppAKmCXcIVzh"
     },
     {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 50,
+        "Country": "Ukraine",
+        "CountryID": "UA",
         "EventID": 42,
+        "EventName": "Rocket strikes railway station used for civilian evacuation ",
+        "InjuredCount": 100,
+        "Location": "Kramatorsk",
+        "Notes": "5 children among those killed",
+        "Perpetrator": "Russia",
+        "SourceA": "https://abcnews.go.com/International/50-killed-attack-ukrainian-train-station/story?id=83960097#:~:text=Ukrainian%20officials%20say%20two%20Russian,Ukraine%20on%20Friday%2C%20authorities%20said.",
+        "StartDate": "2022-04-11",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
         "airtable_createdTime": "2022-09-29T05:07:35.000Z",
         "airtable_id": "recKYZRYM57gmFRiD"
     },
@@ -545,6 +560,24 @@
         ],
         "airtable_createdTime": "2022-09-28T20:16:07.000Z",
         "airtable_id": "recdlhfORQuDvaKir"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "EventID": 43,
+        "EventName": "Bodies with signs of torture found in cellar",
+        "Location": "Izyum",
+        "Notes": "Bodies had signs of torture and were set on fire.",
+        "Perpetrator": "Russia",
+        "SourceA": "https://atalayar.com/en/content/who-behind-bucha-crimes",
+        "StartDate": "2022-04-07",
+        "Tags": [
+            "Invasion",
+            "Torture"
+        ],
+        "airtable_createdTime": "2022-09-29T19:03:51.000Z",
+        "airtable_id": "recfvkYKLN6LKAV6Y"
     },
     {
         "CivilianDeathCount": 10,
