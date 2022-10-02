@@ -9,6 +9,7 @@
         "Location": "Borodyanka",
         "Notes": "15-year-old girl among those found.",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-9-bodies-found-outside-kyiv-some-with-signs-of-torture/articleshow/90975737.cms",
         "StartDate": "2022-04-20",
         "Tags": [
@@ -29,6 +30,7 @@
         "Location": "Chuhuiv",
         "Longitude": 36.6898157,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.thenationalnews.com/world/2022/02/24/civilians-killed-as-stray-russian-missile-hits-apartment-block-in-ukraine/",
         "SourceB": "https://vchasnoua.com/en/392-russia-attacked-ukraine-online-update",
         "SourceC": "https://nypost.com/2022/02/24/ukraine-teacher-credits-guardian-angel-for-surviving-russia-missile-strike/",
@@ -39,6 +41,26 @@
         ],
         "airtable_createdTime": "2022-09-15T04:25:45.000Z",
         "airtable_id": "rec2X1z4auZMmLWJo"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 45,
+        "EventName": "AFG0043",
+        "Location": "Lal Pura",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-08-06",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:45.000Z",
+        "airtable_id": "rec2gYqjXfvjFV7vu"
     },
     {
         "AbductedCount": 5,
@@ -52,6 +74,7 @@
         "Location": "Pripyat",
         "Longitude": 30.0573963,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.mirror.co.uk/news/world-news/russian-forces-chernobyl-killed-9-27136555",
         "SourceB": "https://apnews.com/article/russia-ukraine-business-health-europe-accidents-edcd5bc0e6bde3cbf6d7300bebc9343f",
         "StartDate": "2022-02-24",
@@ -62,6 +85,20 @@
         "airtable_id": "rec6M2SVFjdp1qUvy"
     },
     {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 54,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:23.000Z",
+        "airtable_id": "rec7tSpLAMSjCxMRH"
+    },
+    {
         "CivilianDeathCount": 7,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -70,6 +107,7 @@
         "Location": "Bucha",
         "Notes": "Gunshot wounds to knees and head",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.voanews.com/a/bucolic-ukraine-forest-is-site-of-mass-grave-exhumation-/6616015.html#:~:text=The%20horrors%20of%20Bucha%20shocked,knees%20and%20head%2C%20Nebytov%20said.",
         "SourceB": "https://www.arkansasonline.com/news/2022/jun/14/ukrainians-find-more-victims-near-bucha/",
         "StartDate": "2022-06-13",
@@ -93,6 +131,7 @@
         "Longitude": 34.8868923,
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.amnesty.org/en/latest/news/2022/02/ukraine-cluster-munitions-kill-child-and-two-other-civilians-taking-shelter-at-a-preschool/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -113,6 +152,7 @@
         "InjuredCount": 18,
         "Location": "Odesa",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://thehill.com/policy/international/3461310-russian-missile-strike-on-odesa-kills-8-including-3-month-old-baby-girl-zelensky-says/",
         "StartDate": "2022-04-23",
         "airtable_createdTime": "2022-09-29T03:56:08.000Z",
@@ -128,6 +168,7 @@
         "InjuredCount": 7,
         "Location": "Lysychansk",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/06/16/7352858/",
         "SourceB": "https://www.dw.com/en/ukraine-war-russia-strikes-lysychansk/av-62166615",
         "StartDate": "2022-06-16",
@@ -147,6 +188,7 @@
         "InjuredCount": 15,
         "Location": "Avdiivka",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.timesnownews.com/world/russia-ukraine-war-10-killed-15-wounded-in-russian-strike-at-avdiivka-coke-plant-in-eastern-ukraine-article-91295318",
         "StartDate": "2022-05-03",
         "Tags": [
@@ -167,6 +209,7 @@
         "Longitude": 43.4874378,
         "Notes": "\"Turkey and the PKK have fought a cat-and-mouse war since the rebels launched a full-scale, Marxist-inspired insurgency against the Turkish state\u2019s repression in 1984. More than 40,000 people have died in the violence since then, the vast majority civilians, and the PKK has been designated as a terrorist organisation by Turkey and most of its western allies.\"",
         "Perpetrator": "Turkey",
+        "PerpetratorID": "TR",
         "SourceA": "https://www.theguardian.com/world/2021/apr/04/iraq-turkey-pkk-drones-kurds-kurdistan",
         "StartDate": "2021-12-07",
         "Tags": [
@@ -186,6 +229,7 @@
         "Location": "Kremenchuk",
         "Notes": "At least 10 dead and 40 injured",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.columbian.com/news/2022/jun/27/officials-russian-missile-strike-hits-crowded-shopping-mall/",
         "StartDate": "2022-06-27",
         "Tags": [
@@ -205,6 +249,7 @@
         "Location": "Kyiv",
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.dailyrecord.co.uk/news/uk-world-news/horror-russian-tank-blows-up-26418918",
         "SourceB": "https://www.mirror.co.uk/news/world-news/russian-tank-caught-graphic-footage-26415984",
         "StartDate": "2022-02-28",
@@ -223,6 +268,7 @@
         "InjuredCount": 4,
         "Location": "Kharkiv",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://sports.yahoo.com/missile-struck-humanitarian-kitchen-ukraine-110802357.html",
         "StartDate": "2022-04-16",
         "Tags": [
@@ -244,6 +290,7 @@
         "Location": "Kyiv",
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326263/",
         "SourceB": "https://www.nbcnews.com/news/world/blog/russia-ukraine-live-updates-n1290057/ncrd1290068#blogHeader",
         "StartDate": "2022-02-25",
@@ -255,6 +302,20 @@
         "airtable_id": "recDgKZsu04dBfpGW"
     },
     {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 50,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "recDgyA1OchpUwDAs"
+    },
+    {
         "CivilianDeathCount": 3,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -264,6 +325,7 @@
         "InjuredCount": 3,
         "Location": "Kharkiv",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.reuters.com/world/europe/russian-strike-kills-three-people-kharkiv-region-governor-2022-07-16/",
         "SourceB": "https://www.usnews.com/news/world/articles/2022-07-16/russian-strike-kills-three-people-in-kharkiv-region-governor",
         "StartDate": "2022-07-16",
@@ -285,6 +347,7 @@
         "Location": "Kharkiv",
         "Notes": "Seven people dead including a 9-year-old girl.",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.forbes.com/sites/katyasoldak/2022/05/26/thursday-may-26-russias-war-on-ukraine-news-and-information-from-ukraine/?sh=345a5a75475e",
         "SourceB": "https://www.upi.com/Top_News/World-News/2022/05/26/ukraine-Ukraine-Russia-war/5591653595435/",
         "StartDate": "2022-05-26",
@@ -305,6 +368,7 @@
         "InjuredCount": 11,
         "Location": "Nikopol",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://babel.ua/en/news/82725-russia-again-shelled-the-nikopol-district-in-the-dnipropetrovsk-oblast-during-the-night-11-killed#:~:text=There%20are%2011%20killed%20during%20the%20night&text=On%20the%20night%20of%20August,Valentin%20Reznichenko%2C%20reported%20on%20this.",
         "SourceB": "https://ru.interfax.com.ua/news/general/851503.html",
         "StartDate": "2022-08-10",
@@ -324,6 +388,7 @@
         "InjuredCount": 4,
         "Location": "Luhansk",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.upi.com/Top_News/World-News/2022/04/17/ukraine-russian-forces-fire-on-civilians-luhansk-region-fighting-easter/3541650212190/",
         "StartDate": "2022-04-17",
         "Tags": [
@@ -332,6 +397,20 @@
         ],
         "airtable_createdTime": "2022-09-29T03:56:15.000Z",
         "airtable_id": "recJ5KfwSLrBnNYwc"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 57,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:26.000Z",
+        "airtable_id": "recKAjEvXbsNb1FDS"
     },
     {
         "ChildDeathCount": 2,
@@ -344,6 +423,7 @@
         "Location": "Sumy",
         "Longitude": 34.8027723,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say",
         "airtable_createdTime": "2022-09-08T05:59:28.000Z",
         "airtable_id": "recKQppAKmCXcIVzh"
@@ -359,6 +439,7 @@
         "Location": "Kramatorsk",
         "Notes": "5 children among those killed",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://abcnews.go.com/International/50-killed-attack-ukrainian-train-station/story?id=83960097#:~:text=Ukrainian%20officials%20say%20two%20Russian,Ukraine%20on%20Friday%2C%20authorities%20said.",
         "StartDate": "2022-04-11",
         "Tags": [
@@ -380,6 +461,7 @@
         "Location": "Sartana",
         "Longitude": 37.6952892,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://neoskosmos.com/en/2022/03/02/news/world/dead-bodies-lie-in-the-streets-of-the-greek-village-of-sartana-dragged-by-dogs/",
         "SourceB": "https://geopolitiki.com/ukraine-greek-minority-village-of-sartana/",
         "StartDate": "2022-02-26",
@@ -411,6 +493,20 @@
         "airtable_id": "recOAcgdesjMQs21b"
     },
     {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 47,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:50.000Z",
+        "airtable_id": "recOj0em8iOcPWi8M"
+    },
+    {
         "CivilianDeathCount": 3,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -421,6 +517,7 @@
         "Location": "Kherson",
         "Longitude": 33.4079326,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326302/",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3414210-journalist-shot-dead-by-russian-occupiers-in-kherson-region.html",
         "StartDate": "2022-02-26",
@@ -440,6 +537,7 @@
         "Location": "Gorlovka",
         "Longitude": 38.0027664,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://tass.com/politics/1410695",
         "SourceB": "https://www.express.co.uk/news/world/1573271/russia-ukraine-news-vladimir-putin-kyv-invasion-world-war-3",
         "StartDate": "2022-02-25",
@@ -459,6 +557,7 @@
         "Location": "Mariupol",
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://apnews.com/article/Russia-ukraine-war-mariupol-theater-c321a196fbd568899841b506afcac7a1",
         "airtable_createdTime": "2022-09-08T06:05:14.000Z",
         "airtable_id": "recQ1Z6nDG5MffYqW"
@@ -472,6 +571,7 @@
         "EventName": "Two bodies with signs of torture found in Grakovo village",
         "Location": "Grakovo",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.straitstimes.com/world/europe/explosions-everywhere-as-ukraine-forces-recapture-village",
         "SourceB": "https://www.france24.com/en/live-news/20220910-explosions-everywhere-as-ukraine-forces-recapture-village",
         "StartDate": "2022-09-07",
@@ -492,6 +592,7 @@
         "Location": "Uman",
         "Longitude": 30.2203052,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.mirror.co.uk/news/world-news/cyclist-seen-being-hit-explosive-26318197",
         "SourceB": "https://www.dailystar.co.uk/news/world-news/horror-moment-ukrainian-cyclist-hit-26318118",
         "StartDate": "2022-02-24",
@@ -510,6 +611,7 @@
         "EventName": "Two civilians killed in burning car after Russian airstrikes on residential area",
         "Location": "Kharkiv",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://apnews.com/article/russia-ukraine-putin-kyiv-business-europe-f0e1cd893715eda1e6bef696d9c47db3",
         "StartDate": "2023-04-21",
         "Tags": [
@@ -518,6 +620,20 @@
         ],
         "airtable_createdTime": "2022-09-29T03:56:11.000Z",
         "airtable_id": "recXeCUTS7DoPythl"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 53,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:23.000Z",
+        "airtable_id": "recc9weLh0Q2aysxq"
     },
     {
         "ChildDeathCount": 1,
@@ -530,6 +646,7 @@
         "Location": "Mariupol",
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.businessinsider.com/6-year-old-ukrainian-girl-was-killed-russian-shelling-report-2022-2",
         "SourceB": "https://www.nydailynews.com/news/ny-ukraine-shelling-hospital-20220228-47df3lwex5bknonnvohinptjau-story.html",
         "SourceC": "https://www.independent.co.uk/news/world/europe/russia-ukraine-girl-killed-shelling-b2024832.html",
@@ -542,6 +659,20 @@
         "airtable_id": "reccU1r7dla6mdHTP"
     },
     {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 46,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:47.000Z",
+        "airtable_id": "reccbilL9jMB1Q8QU"
+    },
+    {
         "CivilianDeathCount": 8,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -551,6 +682,7 @@
         "InjuredCount": 4,
         "Location": "Toretsk",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.reuters.com/world/europe/russian-shelling-kills-eight-eastern-town-toretsk-ukrainian-governor-2022-08-04/",
         "SourceB": "https://www.dailysabah.com/world/europe/russian-shelling-kills-8-in-eastern-ukraine-town-of-toretsk",
         "StartDate": "2022-08-04",
@@ -570,6 +702,7 @@
         "Location": "Izyum",
         "Notes": "Bodies had signs of torture and were set on fire.",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://atalayar.com/en/content/who-behind-bucha-crimes",
         "StartDate": "2022-04-07",
         "Tags": [
@@ -589,6 +722,7 @@
         "InjuredCount": 19,
         "Location": "Donetsk Oblast",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://sports.yahoo.com/10-civilians-killed-19-injured-085600729.html",
         "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
         "StartDate": "2022-09-11",
@@ -598,6 +732,34 @@
         ],
         "airtable_createdTime": "2022-09-27T20:19:46.000Z",
         "airtable_id": "recg0yq3ZzZXCkgT0"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 55,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:24.000Z",
+        "airtable_id": "recgsydSKItDuqfQg"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 52,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:22.000Z",
+        "airtable_id": "recgueoVztMaTw6sF"
     },
     {
         "CivilianDeathCount": 4,
@@ -610,6 +772,7 @@
         "Location": "Maryanivka",
         "Longitude": 35.21225,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -628,9 +791,38 @@
         "Location": "Chernihiv",
         "Longitude": 31.7417235,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
         "airtable_createdTime": "2022-09-08T06:09:28.000Z",
         "airtable_id": "recjDuyoIVkj78GbI"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 48,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "recjnbDciSpwpRZ8j"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 49,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "reclbEdnytY2Cmnlv"
     },
     {
         "ChildDeathCount": 2,
@@ -643,6 +835,7 @@
         "Location": "Kharkiv",
         "Notes": "7-month-old and 15-year-old among those killed.",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.ocregister.com/2022/04/15/police-more-than-900-civilian-bodies-found-in-kyiv-region/",
         "StartDate": "2022-04-15",
         "Tags": [
@@ -662,6 +855,7 @@
         "Location": "Borodyanka",
         "Longitude": 29.894670486450195,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://hindustannewshub.com/russia-ukraine-news/in-borodyanka-three-people-died-during-a-shelling-of-a-residential-building/",
         "SourceB": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-26",
@@ -683,6 +877,7 @@
         "Location": "Kharkiv",
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.africanews.com/2022/02/27/kharkiv-blood-donation-centre-hit-by-shelling/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -701,6 +896,7 @@
         "EventName": "Attack on residential building kills two children",
         "Location": "Lyman",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.knkx.org/2022-04-26/photos-russian-missiles-strike-kyiv-as-battle-slows-down-in-eastern-ukraine",
         "StartDate": "2022-04-25",
         "Tags": [
@@ -720,6 +916,7 @@
         "InjuredCount": 6,
         "Location": "Bakhmut",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.nytimes.com/2022/08/11/world/europe/ukraine-war-frontline.html",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3547712-7-killed-6-injured-in-russias-attack-on-bakhmut.html#:~:text=Law%20enforcement%20officers%20have%20opened,killed%20and%20six%20more%20injured.",
         "StartDate": "2022-08-10",
@@ -729,6 +926,20 @@
         ],
         "airtable_createdTime": "2022-09-27T21:26:43.000Z",
         "airtable_id": "recozbG15EPYj2bRh"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 51,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:22.000Z",
+        "airtable_id": "recpTf8ujVyNiPAWL"
     },
     {
         "CivilianDeathCount": 4,
@@ -742,6 +953,7 @@
         "Longitude": 37.2484374,
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital",
         "SourceB": "https://www.emergency-live.com/news/ukraine-russian-bombardment-hits-hospital-four-dead-and-ten-wounded-martial-law-in-force/",
         "StartDate": "2022-02-24",
@@ -754,14 +966,21 @@
         "airtable_id": "recqhogtitQanF3DP"
     },
     {
-        "CivilianDeathCount": 2,
+        "CivilianDeathCount": 14,
         "Country": "Afghanistan",
         "CountryID": "AF",
-        "EventName": "Aug. 5 Kandahar Province: two civilians and one security force killed",
-        "InjuredCount": 20,
-        "Location": "Kandahar ",
-        "SourceA": "https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html",
-        "StartDate": "2021-08-05",
+        "EventID": 44,
+        "EventName": "AFG1763",
+        "Location": "Farah",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-05-06",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
         "airtable_createdTime": "2022-10-02T06:13:43.000Z",
         "airtable_id": "recqrsh92HNw0ZgWV"
     },
@@ -775,6 +994,7 @@
         "InjuredCount": 7,
         "Location": "Kharkiv",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.anews.com.tr/world/2022/08/30/at-least-four-killed-in-russian-shelling-of-ukraines-city-of-kharkiv-governor-says",
         "SourceB": "https://uk.movies.yahoo.com/kharkiv-least-four-killed-russian-103410103.html",
         "StartDate": "2022-08-30",
@@ -795,6 +1015,7 @@
         "Location": "Chupakhivka",
         "Longitude": 34.584534,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.washingtonpost.com/world/2022/05/23/ukraine-russia-soldier-war-crimes-verdict/",
         "SourceB": "https://www.bbc.com/news/world-europe-61549569",
         "SourceC": "https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial",
@@ -814,6 +1035,7 @@
         "EventName": "Civilian tortured, executed by Russian troops",
         "Location": "Zdvyzhivka",
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/09/1/7365702/",
         "SourceB": "https://finance.yahoo.com/news/body-another-man-tortured-murdered-184800930.html",
         "StartDate": "2022-08-31",
@@ -823,6 +1045,20 @@
         ],
         "airtable_createdTime": "2022-09-27T20:48:49.000Z",
         "airtable_id": "recvdyip9uYiZ37e8"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 56,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:25.000Z",
+        "airtable_id": "recxrGKO37laY4LOD"
     },
     {
         "ChildDeathCount": 1,
@@ -836,6 +1072,7 @@
         "Location": "Chaplyne",
         "Longitude": 36.22673,
         "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
         "SourceA": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-3507728aeaf8ebfc68a1cdbd3aa8c30e",
         "SourceB": "https://apnews.com/article/russia-ukraine-war-crimes-government-and-politics-0abd99fd89a62042287341e88758d32f",
         "StartDate": "2022-08-24",
