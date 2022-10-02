@@ -754,6 +754,18 @@
         "airtable_id": "recqhogtitQanF3DP"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventName": "Aug. 5 Kandahar Province: two civilians and one security force killed",
+        "InjuredCount": 20,
+        "Location": "Kandahar ",
+        "SourceA": "https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html",
+        "StartDate": "2021-08-05",
+        "airtable_createdTime": "2022-10-02T06:13:43.000Z",
+        "airtable_id": "recqrsh92HNw0ZgWV"
+    },
+    {
         "CivilianDeathCount": 4,
         "Country": "Ukraine",
         "CountryID": "UA",
