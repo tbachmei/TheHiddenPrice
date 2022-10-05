@@ -1,5 +1,122 @@
 [
     {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 88,
+        "EventName": "AFG2390",
+        "InjuredCount": 4,
+        "Location": "Logar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-21",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:11.000Z",
+        "airtable_id": "rec0ERrwGF5dft2DX"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 96,
+        "EventName": "AFG1202",
+        "Location": "Faryab",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:18.000Z",
+        "airtable_id": "rec0giZSKJaivFffM"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 75,
+        "EventName": "AFG0374",
+        "InjuredCount": 25,
+        "Location": "Haska Mena",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-07-23",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:53.000Z",
+        "airtable_id": "rec0uy3HOJUcnqWz5"
+    },
+    {
+        "ChildDeathCount": 11,
+        "CivilianDeathCount": 12,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 68,
+        "EventName": "AFG0623",
+        "Location": "Wardak",
+        "Notes": "house was hit in the strike that killed civilians",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:39.000Z",
+        "airtable_id": "rec15I4q8r8kfOV2w"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 129,
+        "EventName": "AFG0142",
+        "Location": "Shegal",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-01-09",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:13.000Z",
+        "airtable_id": "rec1DUxf4uUHqaeLJ"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 128,
+        "EventName": "AFG0114",
+        "Location": "Achin",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-10-27",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:13.000Z",
+        "airtable_id": "rec1FpZlxgCoYOFt9"
+    },
+    {
         "ChildDeathCount": 1,
         "CivilianDeathCount": 9,
         "Country": "Ukraine",
@@ -43,6 +160,24 @@
         "airtable_id": "rec2X1z4auZMmLWJo"
     },
     {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 100,
+        "EventName": "AFG1589",
+        "Location": "Logar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:21.000Z",
+        "airtable_id": "rec2fZyxHfa6Fbaml"
+    },
+    {
         "CivilianDeathCount": 55,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -60,6 +195,226 @@
         ],
         "airtable_createdTime": "2022-10-02T07:06:45.000Z",
         "airtable_id": "rec2gYqjXfvjFV7vu"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 92,
+        "EventName": "AFG0043",
+        "Location": "Lal Pura",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-08",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:14.000Z",
+        "airtable_id": "rec306RSLH7H8xcko"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 9,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 72,
+        "EventName": "AFG0618",
+        "InjuredCount": 12,
+        "Location": "Tagab",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:46.000Z",
+        "airtable_id": "rec39VoI24BZ0Kgnt"
+    },
+    {
+        "ChildDeathCount": 9,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 66,
+        "EventName": "AFG1508",
+        "Location": "Kunduz",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:35.000Z",
+        "airtable_id": "rec3CS8vDmCCCaiIO"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 137,
+        "EventName": "AFG0485",
+        "InjuredCount": 2,
+        "Location": "Nangarhar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-06-01",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:18.000Z",
+        "airtable_id": "rec3GGXVM1aHMjdE8"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 121,
+        "EventName": "AFG1893",
+        "Location": "Farah",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:09.000Z",
+        "airtable_id": "rec43ZchE3mNSAGZZ"
+    },
+    {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 77,
+        "EventName": "AFG2870",
+        "Location": "Kunduz",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:54.000Z",
+        "airtable_id": "rec4U12LE6QkF8hqm"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 122,
+        "EventName": "AFG2281",
+        "Location": "Ghazni",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:09.000Z",
+        "airtable_id": "rec4feI3OG8XaU3rM"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 114,
+        "EventName": "AFG0391",
+        "InjuredCount": 3,
+        "Location": "Qarabagh",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-09-04",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:05.000Z",
+        "airtable_id": "rec4swOM3Sgy4XGRf"
+    },
+    {
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 65,
+        "EventName": "AFG1295",
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-25",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:48.000Z",
+        "airtable_id": "rec5XHvq2qnjy6Jc9"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 142,
+        "EventName": "AFG3206",
+        "Location": "Andar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-10-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:21.000Z",
+        "airtable_id": "rec5b61FL1KPeASn0"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 113,
+        "EventName": "AFG0089",
+        "Location": "Nahr e Saraj",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-08-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:04.000Z",
+        "airtable_id": "rec5cmUprQh8yV49d"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 144,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:45.000Z",
+        "airtable_id": "rec6FlnkCN9WDZ1lO"
     },
     {
         "AbductedCount": 5,
@@ -163,6 +518,43 @@
         "airtable_id": "rec98ovVmEx2nQ4oe"
     },
     {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 80,
+        "EventName": "AFG2900",
+        "Location": "Wardak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:59.000Z",
+        "airtable_id": "rec99hPzINyLiQMAz"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 103,
+        "EventName": "AFG0208",
+        "Location": "Azara",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-06-11",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:57.000Z",
+        "airtable_id": "rec9RuNqKiYgX8yk2"
+    },
+    {
         "CivilianDeathCount": 4,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -182,6 +574,44 @@
         ],
         "airtable_createdTime": "2022-09-29T03:55:53.000Z",
         "airtable_id": "rec9oouYUfb6SUJ7Q"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 79,
+        "EventName": "AFG1462",
+        "Location": "Andar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-12",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:57.000Z",
+        "airtable_id": "rec9zPDSRdc3JFNBK"
+    },
+    {
+        "ChildDeathCount": 8,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 87,
+        "EventName": "AFG1874",
+        "InjuredCount": 9,
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-20",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:10.000Z",
+        "airtable_id": "recArqszJSuuxmvSY"
     },
     {
         "CivilianDeathCount": 10,
@@ -262,6 +692,44 @@
         ],
         "airtable_createdTime": "2022-09-28T23:47:38.000Z",
         "airtable_id": "recCSagIZtEnnFvE6"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 123,
+        "EventName": "AFG2345",
+        "InjuredCount": 5,
+        "Location": "Logar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:10.000Z",
+        "airtable_id": "recCfyw3MhIoWAFXU"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 112,
+        "EventName": "AFG0048",
+        "Location": "Chak e Wardak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:03.000Z",
+        "airtable_id": "recCvRBVTdokCNaZY"
     },
     {
         "CivilianDeathCount": 2,
@@ -347,6 +815,26 @@
         "airtable_id": "recDgyA1OchpUwDAs"
     },
     {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 93,
+        "EventName": "AFG0047",
+        "Location": "Dangam",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-14",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:15.000Z",
+        "airtable_id": "recGZEaDs3wgSmtLQ"
+    },
+    {
         "CivilianDeathCount": 14,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -365,6 +853,24 @@
         ],
         "airtable_createdTime": "2022-10-02T07:44:51.000Z",
         "airtable_id": "recHBX7n2ZLDNelpZ"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 82,
+        "EventName": "AFG0417",
+        "Location": "Sangin",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-11-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:01.000Z",
+        "airtable_id": "recHMz34cJPLWva3Y"
     },
     {
         "CivilianDeathCount": 3,
@@ -410,6 +916,26 @@
         "airtable_id": "recHY30py2DKDPaRA"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 84,
+        "EventName": "AFG1281",
+        "InjuredCount": 1,
+        "Location": "Wardak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:04.000Z",
+        "airtable_id": "recHreU3VZhQIIggY"
+    },
+    {
         "CivilianDeathCount": 13,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -450,6 +976,43 @@
         "airtable_id": "recJ5KfwSLrBnNYwc"
     },
     {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 74,
+        "EventName": "AFG0254",
+        "Location": "Nad Ali",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-08-25",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:48.000Z",
+        "airtable_id": "recJ93YVHwESedyxL"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 109,
+        "EventName": "AFG3237",
+        "Location": "Laghman",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-10-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:01.000Z",
+        "airtable_id": "recK8efXmil6CCamJ"
+    },
+    {
         "CivilianDeathCount": 15,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -468,6 +1031,20 @@
         ],
         "airtable_createdTime": "2022-10-02T07:08:26.000Z",
         "airtable_id": "recKAjEvXbsNb1FDS"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 143,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:44.000Z",
+        "airtable_id": "recKObXIQulzS1eO7"
     },
     {
         "ChildDeathCount": 2,
@@ -507,6 +1084,64 @@
         "airtable_id": "recKYZRYM57gmFRiD"
     },
     {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 110,
+        "EventName": "AFG3649",
+        "Location": "Paktia",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-18",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:02.000Z",
+        "airtable_id": "recLKzwMmtr6HlGnr"
+    },
+    {
+        "ChildDeathCount": 0,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 67,
+        "EventName": "AFG1559",
+        "InjuredCount": 5,
+        "Location": "Uruzgan",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-02",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:38.000Z",
+        "airtable_id": "recLYyIu69HYymI2V"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 126,
+        "EventName": "AFG0028",
+        "Location": "Khas Khar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-05-07",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:12.000Z",
+        "airtable_id": "recLiNONKWoZF5glJ"
+    },
+    {
         "CivilianDeathCount": 12,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -530,6 +1165,43 @@
         "airtable_id": "recN57z43rm9T86S0"
     },
     {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 102,
+        "EventName": "AFG0036",
+        "Location": "Baraki Barak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-05-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:56.000Z",
+        "airtable_id": "recNAE68estbCOV6h"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 139,
+        "EventName": "AFG0718",
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:19.000Z",
+        "airtable_id": "recNZPK9jxNOnmlzM"
+    },
+    {
         "CivilianDeathCount": 767,
         "Country": "Ethiopia",
         "CountryID": "ET",
@@ -550,6 +1222,25 @@
         "airtable_id": "recOAcgdesjMQs21b"
     },
     {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 78,
+        "EventName": "AFG0889",
+        "InjuredCount": 1,
+        "Location": "Zaza Aryoob",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:56.000Z",
+        "airtable_id": "recOXbEPgWXTAhw5r"
+    },
+    {
         "CivilianDeathCount": 40,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -566,6 +1257,25 @@
         ],
         "airtable_createdTime": "2022-10-02T07:06:50.000Z",
         "airtable_id": "recOj0em8iOcPWi8M"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 71,
+        "EventName": "AFG3676",
+        "InjuredCount": 5,
+        "Location": "Farah",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:46.000Z",
+        "airtable_id": "recOkXTdPr8bfLxJn"
     },
     {
         "CivilianDeathCount": 3,
@@ -645,6 +1355,24 @@
         "airtable_id": "recQ1Z6nDG5MffYqW"
     },
     {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 101,
+        "EventName": "AFG2438",
+        "Location": "Badghis",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-27",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:22.000Z",
+        "airtable_id": "recQTHPBexaQRoUKP"
+    },
+    {
         "CivilianDeathCount": 15,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -686,6 +1414,24 @@
         "airtable_id": "recQdvHYpNvSHL5Uv"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 117,
+        "EventName": "AFG0505",
+        "Location": "Zabul",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-08-26",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:06.000Z",
+        "airtable_id": "recR2kVwd7EChZ3LG"
+    },
+    {
         "ChildDeathCount": 7,
         "CivilianDeathCount": 14,
         "Country": "Afghanistan",
@@ -705,6 +1451,103 @@
         ],
         "airtable_createdTime": "2022-10-02T07:44:52.000Z",
         "airtable_id": "recRXNLYyBzK16nWa"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 89,
+        "EventName": "AFG3112",
+        "Location": "Ghazni",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:12.000Z",
+        "airtable_id": "recT5B5M9rX0UbFFR"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 94,
+        "EventName": "AFG0250",
+        "InjuredCount": 25,
+        "Location": "Khoshamand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-08-12",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:16.000Z",
+        "airtable_id": "recTWZ4FQw5PXgWGQ"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 99,
+        "EventName": "AFG0279",
+        "InjuredCount": 30,
+        "Location": "Sherzad",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-10-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:20.000Z",
+        "airtable_id": "recTdoRlyBzngcBEk"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 111,
+        "EventName": "AFG3779",
+        "Location": "Wardak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-12-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:03.000Z",
+        "airtable_id": "recTso91Dyzu1Lr6U"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 134,
+        "EventName": "AFG0451",
+        "Location": "Kunar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-07",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:16.000Z",
+        "airtable_id": "recU4TVmZ2oCGEPHW"
     },
     {
         "CivilianDeathCount": 1,
@@ -728,6 +1571,44 @@
         "airtable_id": "recUlOqTuToOq1lhP"
     },
     {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 95,
+        "EventName": "AFG0670",
+        "InjuredCount": 4,
+        "Location": "Laghman",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-02",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:17.000Z",
+        "airtable_id": "recXAkITJF4JpCfYx"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 105,
+        "EventName": "AFG0455",
+        "InjuredCount": 1,
+        "Location": "Kunar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:58.000Z",
+        "airtable_id": "recXKfpJ67XXvtE2r"
+    },
+    {
         "CivilianDeathCount": 2,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -744,6 +1625,81 @@
         ],
         "airtable_createdTime": "2022-09-29T03:56:11.000Z",
         "airtable_id": "recXeCUTS7DoPythl"
+    },
+    {
+        "ChildDeathCount": 12,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 64,
+        "EventName": "AFG1069",
+        "InjuredCount": 18,
+        "Location": "Sheltan",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-12-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:47.000Z",
+        "airtable_id": "recY8Yipjg1PyjTxU"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 141,
+        "EventName": "AFG1447",
+        "Location": "Kunduz City",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:21.000Z",
+        "airtable_id": "recYm1NOAx1qwXN7T"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 131,
+        "EventName": "AFG0435",
+        "InjuredCount": 1,
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-01-03",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:14.000Z",
+        "airtable_id": "recb4V8jESXwy7gIY"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 118,
+        "EventName": "AFG0653",
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-29",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:07.000Z",
+        "airtable_id": "recbVgIrrmf6yU8eh"
     },
     {
         "CivilianDeathCount": 21,
@@ -763,6 +1719,25 @@
         ],
         "airtable_createdTime": "2022-10-02T07:08:23.000Z",
         "airtable_id": "recc9weLh0Q2aysxq"
+    },
+    {
+        "CivilianDeathCount": 9,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 73,
+        "EventName": "AFG2398",
+        "InjuredCount": 6,
+        "Location": "Logar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:47.000Z",
+        "airtable_id": "reccO2rhplGbdj7wX"
     },
     {
         "ChildDeathCount": 1,
@@ -828,6 +1803,121 @@
         ],
         "airtable_createdTime": "2022-09-28T20:16:07.000Z",
         "airtable_id": "recdlhfORQuDvaKir"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 132,
+        "EventName": "AFG0446",
+        "InjuredCount": 1,
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-02-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:15.000Z",
+        "airtable_id": "recdy8W71UTakWpEm"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 125,
+        "EventName": "AFG0015",
+        "Location": "Alishir",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-03-02",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:11.000Z",
+        "airtable_id": "receAkNPlZgXj3XFD"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 86,
+        "EventName": "AFG1796",
+        "Location": "Uruzgan",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:09.000Z",
+        "airtable_id": "receQCdB0bNGxJT1P"
+    },
+    {
+        "ChildDeathCount": 9,
+        "CivilianDeathCount": 12,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 69,
+        "EventName": "AFG1455",
+        "Location": "Hesarak",
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:40.000Z",
+        "airtable_id": "receexjRw3uKfTDaP"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 63,
+        "EventName": "AFG0389",
+        "InjuredCount": 12,
+        "Location": "Pul e 'Alam",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-08-30",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:47.000Z",
+        "airtable_id": "receg0SHEogGEhWfi"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 98,
+        "EventName": "AFG4144",
+        "Location": "Farah",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2020-02-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:19.000Z",
+        "airtable_id": "recfDDhNilBL842Tt"
     },
     {
         "CivilianDeathCount": 3,
@@ -912,6 +2002,24 @@
         "airtable_id": "recgueoVztMaTw6sF"
     },
     {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 76,
+        "EventName": "AFG0624",
+        "Location": "Farah",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:54.000Z",
+        "airtable_id": "recgzfdfZvXJxewuO"
+    },
+    {
         "CivilianDeathCount": 4,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -933,6 +2041,62 @@
         "airtable_id": "rechTRhh9mmBrtYK9"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 81,
+        "EventName": "AFG4105",
+        "Location": "Kunduz",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2020-01-30",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:00.000Z",
+        "airtable_id": "recheXHVRUjG2X17F"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 91,
+        "EventName": "AFG3862",
+        "Location": "Kapisa",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-12-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:13.000Z",
+        "airtable_id": "reciHaVV7OObVHrFG"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 136,
+        "EventName": "AFG0471",
+        "Location": "Wardak",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-05-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:17.000Z",
+        "airtable_id": "reciqWKMKmbMmQung"
+    },
+    {
         "Country": "Ukraine",
         "CountryID": "UA",
         "EventID": 6,
@@ -945,6 +2109,25 @@
         "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
         "airtable_createdTime": "2022-09-08T06:09:28.000Z",
         "airtable_id": "recjDuyoIVkj78GbI"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 97,
+        "EventName": "AFG1517",
+        "Location": "Surobi",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-25",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:18.000Z",
+        "airtable_id": "recjELX16nWt0oQvk"
     },
     {
         "ChildDeathCount": 20,
@@ -966,6 +2149,43 @@
         ],
         "airtable_createdTime": "2022-10-02T07:08:21.000Z",
         "airtable_id": "recjnbDciSpwpRZ8j"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 115,
+        "EventName": "AFG0434",
+        "InjuredCount": 4,
+        "Location": "Nangarhar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-01-01",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:05.000Z",
+        "airtable_id": "reck2B5piZK26YWKv"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 133,
+        "EventName": "AFG0448",
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-02-16",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:15.000Z",
+        "airtable_id": "reclTD4TK073Gp8Ar"
     },
     {
         "CivilianDeathCount": 30,
@@ -1007,6 +2227,24 @@
         ],
         "airtable_createdTime": "2022-09-29T05:02:19.000Z",
         "airtable_id": "recmeriz8N2FsYbPI"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 130,
+        "EventName": "AFG0364",
+        "Location": "Zurmat",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-07-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:14.000Z",
+        "airtable_id": "recn1FoyWlVRb44fZ"
     },
     {
         "CivilianDeathCount": 3,
@@ -1091,6 +2329,24 @@
         "airtable_id": "recozbG15EPYj2bRh"
     },
     {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 116,
+        "EventName": "AFG0498",
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-07-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:06.000Z",
+        "airtable_id": "recpFZHT5q28nCOqq"
+    },
+    {
         "ChildDeathCount": 19,
         "CivilianDeathCount": 26,
         "Country": "Afghanistan",
@@ -1109,6 +2365,62 @@
         ],
         "airtable_createdTime": "2022-10-02T07:08:22.000Z",
         "airtable_id": "recpTf8ujVyNiPAWL"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 120,
+        "EventName": "AFG0974",
+        "Location": "Kapisa",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-26",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:08.000Z",
+        "airtable_id": "recpqrPN3EUend0Bl"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 83,
+        "EventName": "AFG1171",
+        "Location": "Zurmat",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-12-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:02.000Z",
+        "airtable_id": "recqCCstdoeZjIa9F"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 85,
+        "EventName": "AFG1623",
+        "InjuredCount": 88,
+        "Location": "Kunduz",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-13",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:07.000Z",
+        "airtable_id": "recqcYH6w4r26O290"
     },
     {
         "CivilianDeathCount": 4,
@@ -1175,18 +2487,155 @@
         "airtable_id": "recr8rf7S8aNuUx1L"
     },
     {
+        "CivilianDeathCount": 1,
         "Country": "Afghanistan",
         "CountryID": "AF",
-        "EventID": 63,
+        "EventID": 138,
+        "EventName": "AFG0491",
+        "Location": "Farah",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-06-30",
         "Tags": [
             "ProjectileStrike"
         ],
-        "airtable_createdTime": "2022-10-02T07:44:58.000Z",
-        "airtable_id": "rectExPQPL9SMibuV"
+        "airtable_createdTime": "2022-10-05T07:22:19.000Z",
+        "airtable_id": "recrLxqJIUEeHyXKT"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 11,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 70,
+        "EventName": "AFG0494",
+        "Location": "Zurmat",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-07-12",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:41.000Z",
+        "airtable_id": "recrgYV8M59Ui2wg9"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 104,
+        "EventName": "AFG0331",
+        "InjuredCount": 4,
+        "Location": "Achin",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-04-04",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:58.000Z",
+        "airtable_id": "recrn584KuGSSfH0n"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 106,
+        "EventName": "AFG0502",
+        "InjuredCount": 7,
+        "Location": "Nad Ali",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-08-16",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:00.000Z",
+        "airtable_id": "recsIzTftfFJahxI2"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 107,
+        "EventName": "AFG0789",
+        "Location": "Kunar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-20",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:00.000Z",
+        "airtable_id": "recsSndR35t3PZGEN"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 127,
+        "EventName": "AFG0039",
+        "Location": "Chapahar",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-04",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:12.000Z",
+        "airtable_id": "rectGNvyUmjO022ZP"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 90,
+        "EventName": "AFG3533",
+        "Location": "Badghis",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:13.000Z",
+        "airtable_id": "recuNvafbNE8LSDtp"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 140,
+        "EventName": "AFG0987",
+        "InjuredCount": 2,
+        "Location": "Helmand",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:20.000Z",
+        "airtable_id": "recuuGTeMtiaaURGL"
     },
     {
         "CivilianDeathCount": 1,
@@ -1230,6 +2679,63 @@
         "airtable_id": "recvdyip9uYiZ37e8"
     },
     {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 108,
+        "EventName": "AFG0934",
+        "Location": "Laghman",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-19",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:01.000Z",
+        "airtable_id": "recvk10Mr5OWVDQsw"
+    },
+    {
+        "ChildDeathCount": 0,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 124,
+        "EventName": "AFG2526",
+        "InjuredCount": 10,
+        "Location": "Faryab",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-08-04",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:10.000Z",
+        "airtable_id": "recvwct34UpkYWC6t"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 135,
+        "EventName": "AFG0462",
+        "Location": "Herat",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:17.000Z",
+        "airtable_id": "recwh4KT2q2pHXfKk"
+    },
+    {
         "ChildDeathCount": 2,
         "CivilianDeathCount": 16,
         "Country": "Afghanistan",
@@ -1271,5 +2777,25 @@
         ],
         "airtable_createdTime": "2022-09-06T03:10:39.000Z",
         "airtable_id": "recz5x2SuilaF4Ccv"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "EventID": 119,
+        "EventName": "AFG0959",
+        "InjuredCount": 13,
+        "Location": "Nad Ali",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:08.000Z",
+        "airtable_id": "recz6MTZ4jj1Gxzyj"
     }
 ]
