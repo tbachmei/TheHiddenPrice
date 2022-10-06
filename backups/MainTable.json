@@ -198,6 +198,9 @@
         "CivilianDeathCount": 55,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 45,
         "EventName": "AFG0412",
         "InjuredCount": 10,
@@ -471,6 +474,9 @@
         "CivilianDeathCount": 21,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 54,
         "EventName": "AFG0854",
         "InjuredCount": 5,
@@ -857,6 +863,9 @@
         "CivilianDeathCount": 30,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 50,
         "EventName": "AFG3973",
         "InjuredCount": 30,
@@ -1332,6 +1341,9 @@
         "CivilianDeathCount": 40,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 47,
         "EventName": "AFG3042",
         "Latitude": 32.4571676,
@@ -1814,6 +1826,10 @@
         "airtable_id": "recb4V8jESXwy7gIY"
     },
     {
+        "airtable_createdTime": "2022-10-06T19:30:24.000Z",
+        "airtable_id": "recbLXZTQj1jojcWQ"
+    },
+    {
         "CivilianDeathCount": 2,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -1838,6 +1854,9 @@
         "CivilianDeathCount": 21,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 53,
         "EventName": "AFG0183",
         "Latitude": 32.38889,
@@ -1900,10 +1919,17 @@
         "airtable_id": "reccU1r7dla6mdHTP"
     },
     {
+        "airtable_createdTime": "2022-10-06T19:34:13.000Z",
+        "airtable_id": "reccW18GRaTFa7mQe"
+    },
+    {
         "ChildDeathCount": 3,
         "CivilianDeathCount": 42,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 46,
         "EventName": "AFG0105",
         "InjuredCount": 27,
@@ -2144,6 +2170,9 @@
         "CivilianDeathCount": 23,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 52,
         "EventName": "AFG0981",
         "InjuredCount": 3,
@@ -2305,6 +2334,9 @@
         "CivilianDeathCount": 33,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 48,
         "EventName": "AFG0284",
         "InjuredCount": 62,
@@ -2368,6 +2400,9 @@
         "CivilianDeathCount": 30,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 49,
         "EventName": "AFG3016",
         "InjuredCount": 40,
@@ -2494,6 +2529,10 @@
         "airtable_id": "recohWbaV1DdFAFhQ"
     },
     {
+        "airtable_createdTime": "2022-10-06T19:30:24.000Z",
+        "airtable_id": "recorzVXh1D8lkdSq"
+    },
+    {
         "CivilianDeathCount": 7,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -2541,6 +2580,9 @@
         "CivilianDeathCount": 26,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 51,
         "EventName": "AFG0315",
         "InjuredCount": 6,
@@ -2648,6 +2690,9 @@
         "CivilianDeathCount": 64,
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
         "EventID": 44,
         "EventName": "AFG1763",
         "InjuredCount": 52,
@@ -2792,6 +2837,10 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:00.000Z",
         "airtable_id": "recsSndR35t3PZGEN"
+    },
+    {
+        "airtable_createdTime": "2022-10-06T19:30:24.000Z",
+        "airtable_id": "rectDiPUXQms8z6nm"
     },
     {
         "CivilianDeathCount": 1,
@@ -2942,6 +2991,10 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:10.000Z",
         "airtable_id": "recvwct34UpkYWC6t"
+    },
+    {
+        "airtable_createdTime": "2022-10-06T19:30:24.000Z",
+        "airtable_id": "recwfzAJHs8cXtxEq"
     },
     {
         "CivilianDeathCount": 1,
