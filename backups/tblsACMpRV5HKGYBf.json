@@ -1,0 +1,2208 @@
+[
+    {
+        "Country": "Bahrain",
+        "CountryID": "BH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec0UvUw0sZ6U5sFQ"
+    },
+    {
+        "Country": "Vatican City",
+        "CountryID": "VA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec0fzWt7JM7iS3oS"
+    },
+    {
+        "Country": "Uzbekistan",
+        "CountryID": "UZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec0oKlzO7ReFkJU2"
+    },
+    {
+        "Country": "Panama",
+        "CountryID": "PA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec1SVEDNmYGWy5po"
+    },
+    {
+        "Country": "Republic of Congo",
+        "CountryID": "CG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec1W5xjH6HhxzmMo"
+    },
+    {
+        "Country": "US Virgin Islands",
+        "CountryID": "VI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec1lznZX5Zr3EXUh"
+    },
+    {
+        "Country": "Bahamas",
+        "CountryID": "BS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec1nzIZV41YCMW7n"
+    },
+    {
+        "Country": "Bermuda",
+        "CountryID": "BM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec22bUtwfecglCju"
+    },
+    {
+        "Country": "Ethiopia",
+        "CountryID": "ET",
+        "LinkedRecords": [
+            "recOAcgdesjMQs21b"
+        ],
+        "RecordCount": 1,
+        "TotalDeaths": 767,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec2BPy1GRTgEHyxk"
+    },
+    {
+        "Country": "Vietnam",
+        "CountryID": "VN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec2FkQr9S1IORFBg"
+    },
+    {
+        "Country": "Turkmenistan",
+        "CountryID": "TM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec2PLOBNjP6NoT5D"
+    },
+    {
+        "Country": "Kenya",
+        "CountryID": "KE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec2cilp7rLC83vA4"
+    },
+    {
+        "Country": "Belarus",
+        "CountryID": "BY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec2jaCvnLiRqetAT"
+    },
+    {
+        "Country": "British Virgin Islands",
+        "CountryID": "VG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec3Z4zl3y33PKenN"
+    },
+    {
+        "Country": "Saint Pierre and Miquelon",
+        "CountryID": "PM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec3cXwTX1dRzkigI"
+    },
+    {
+        "Country": "Glorioso Islands",
+        "CountryID": "GO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec3mSFvChqLJyytz"
+    },
+    {
+        "Country": "Taiwan",
+        "CountryID": "TW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec3poe4vWO2rBnMa"
+    },
+    {
+        "Country": "Poland",
+        "CountryID": "PL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec3yN1RDS2X5FTx3"
+    },
+    {
+        "Country": "Mozambique",
+        "CountryID": "MZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec45sN4m8DEZYqi6"
+    },
+    {
+        "Country": "New Caledonia",
+        "CountryID": "NC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec4Ub84YW4scwSyW"
+    },
+    {
+        "Country": "Armenia",
+        "CountryID": "AM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec4mm4lyskT5jBQM"
+    },
+    {
+        "Country": "Peru",
+        "CountryID": "PE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec57vraCxoBAMlIU"
+    },
+    {
+        "Country": "Estonia",
+        "CountryID": "EE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec5huB5mr16B0Yhs"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "CountryID": "GQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec5uwRah0xQTLxH1"
+    },
+    {
+        "Country": "Singapore",
+        "CountryID": "SG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec65zzczgVoHiXyF"
+    },
+    {
+        "Country": "India",
+        "CountryID": "IN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec6AzhMYf9UjtTJV"
+    },
+    {
+        "Country": "Burkina Faso",
+        "CountryID": "BF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec6ZXGynSGnjM64Z"
+    },
+    {
+        "Country": "Cameroon",
+        "CountryID": "CM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec6x5uO9V1J5PcYq"
+    },
+    {
+        "Country": "Thailand",
+        "CountryID": "TH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec74IWPrfSh9BN6i"
+    },
+    {
+        "Country": "Dominica",
+        "CountryID": "DM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec79VxY8TZQuN2IY"
+    },
+    {
+        "Country": "San Marino",
+        "CountryID": "SM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec7uilnOoQsSNq63"
+    },
+    {
+        "Country": "Sudan",
+        "CountryID": "SD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec8EIEIPvilDQLy1"
+    },
+    {
+        "Country": "Rwanda",
+        "CountryID": "RW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec8QjktvvIHmtZrG"
+    },
+    {
+        "Country": "Dominican Republic",
+        "CountryID": "DO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec9kC8vnSJyo9K6d"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "CountryID": "TT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rec9u1fvdkbVnz6Bi"
+    },
+    {
+        "Country": "British Indian Ocean Territory",
+        "CountryID": "IO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recA9gMaaSWWztKGL"
+    },
+    {
+        "Country": "Kosovo",
+        "CountryID": "XK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recAKF8ZjUK64nlfJ"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "CountryID": "CI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recAhr0oAM0RVHwGG"
+    },
+    {
+        "Country": "Fiji",
+        "CountryID": "FJ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recB3MZpaBpLZmwGT"
+    },
+    {
+        "Country": "Benin",
+        "CountryID": "BJ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recB9d2MeEPreosmk"
+    },
+    {
+        "Country": "Libya",
+        "CountryID": "LY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recBvgYUIMjGATOTa"
+    },
+    {
+        "Country": "South Africa",
+        "CountryID": "ZA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recBwsyr1z5mLXnDQ"
+    },
+    {
+        "Country": "Bangladesh",
+        "CountryID": "BD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recC8LvLMjs2Qwm7N"
+    },
+    {
+        "Country": "Ecuador",
+        "CountryID": "EC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recCF5wA1zYoWr74g"
+    },
+    {
+        "Country": "Guam",
+        "CountryID": "GU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recCRKcJGqmi3ZZPf"
+    },
+    {
+        "Country": "Romania",
+        "CountryID": "RO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recCVAdGMu4ewlwyb"
+    },
+    {
+        "Country": "Vanuatu",
+        "CountryID": "VU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recCrsg19rh1RtfPh"
+    },
+    {
+        "Country": "Uruguay",
+        "CountryID": "UY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recDhZ6x82Q0mgBTt"
+    },
+    {
+        "Country": "Saint Martin",
+        "CountryID": "MF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recDzZ82phqYy24xz"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "CountryID": "VC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recE5uJSLjN8vZ1MZ"
+    },
+    {
+        "Country": "Eritrea",
+        "CountryID": "ER",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recESq2GXg0wNBI8I"
+    },
+    {
+        "Country": "Qatar",
+        "CountryID": "QA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recEZ0Uhmwm7pXL70"
+    },
+    {
+        "Country": "Jersey",
+        "CountryID": "JE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recEz7GL9uFHZh6AJ"
+    },
+    {
+        "Country": "Oman",
+        "CountryID": "OM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recF13vhnRhkM3wGt"
+    },
+    {
+        "Country": "Paraguay",
+        "CountryID": "PY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recFTcaHrny6BXCCo"
+    },
+    {
+        "Country": "Jarvis Island",
+        "CountryID": "UM-DQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recFV1LjkAMnLNpbj"
+    },
+    {
+        "Country": "Mali",
+        "CountryID": "ML",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recFon1LBDO8iR2iP"
+    },
+    {
+        "Country": "Spain",
+        "CountryID": "ES",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recFwlIpWYq7Qj2VJ"
+    },
+    {
+        "Country": "Midway Islands",
+        "CountryID": "UM-MQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recG3mXPirnzz511N"
+    },
+    {
+        "Country": "Lesotho",
+        "CountryID": "LS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recGNHdQTqpZCwRRD"
+    },
+    {
+        "Country": "Guadeloupe",
+        "CountryID": "GP",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recGqa0WWsaiP0nYA"
+    },
+    {
+        "Country": "Cura\u00e7ao",
+        "CountryID": "CW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recGy5FOSYyImLrMO"
+    },
+    {
+        "Country": "Guyana",
+        "CountryID": "GY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHRFQ7Z8GVvO5eK"
+    },
+    {
+        "Country": "Madagascar",
+        "CountryID": "MG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHa9elW6Mg6lbHb"
+    },
+    {
+        "Country": "Venezuela",
+        "CountryID": "VE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHbQWD0XcOmxWb1"
+    },
+    {
+        "Country": "Greece",
+        "CountryID": "GR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHedQb9rpvgnnnG"
+    },
+    {
+        "Country": "Grenada",
+        "CountryID": "GD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHs0Etw8Szbc5Nv"
+    },
+    {
+        "Country": "Wake Island",
+        "CountryID": "UM-WQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recHt1pgVTceAah7z"
+    },
+    {
+        "Country": "Bulgaria",
+        "CountryID": "BG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recI6I4Vx5fwvveG3"
+    },
+    {
+        "Country": "United Kingdom",
+        "CountryID": "GB",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recIGnhLhvt6lHTod"
+    },
+    {
+        "Country": "Canada",
+        "CountryID": "CA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recIKSevETB1Px1LW"
+    },
+    {
+        "Country": "Lao People's Democratic Republic (Laos)",
+        "CountryID": "LA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recIKkvGqj6COZ55T"
+    },
+    {
+        "Country": "Bouvet Island",
+        "CountryID": "BV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recIxQDjONmAs3xan"
+    },
+    {
+        "Country": "Senegal",
+        "CountryID": "SN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recJ2Bk9UQOw3h2MG"
+    },
+    {
+        "Country": "Moldova",
+        "CountryID": "MD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recJd9dgT3BjDzWSr"
+    },
+    {
+        "Country": "Zimbabwe",
+        "CountryID": "ZW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recJfl8wSaUOmGoir"
+    },
+    {
+        "Country": "Liechtenstein",
+        "CountryID": "LI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recKG5GUcBB7aYsZW"
+    },
+    {
+        "Country": "Howland Island",
+        "CountryID": "UM-HQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recKQT6qTqiejYDM7"
+    },
+    {
+        "Country": "Myanmar",
+        "CountryID": "MM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recKaKlu7MOezugjI"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "CountryID": "BA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recKfMVQkJVpIbXd8"
+    },
+    {
+        "Country": "Suriname",
+        "CountryID": "SR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recL9Ul1kIsPl8jmJ"
+    },
+    {
+        "Country": "China",
+        "CountryID": "CN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recLQqOEbEODeypOc"
+    },
+    {
+        "Country": "Slovenia",
+        "CountryID": "SI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recLulEBE1jdWqWHA"
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "CountryID": "KN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recMZxl9OcDVeQ7pE"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "CountryID": "PG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recMcsIA3oyjaTSBh"
+    },
+    {
+        "Country": "Martinique",
+        "CountryID": "MQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recMqD67gYv7KINLx"
+    },
+    {
+        "Country": "Georgia",
+        "CountryID": "GE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recNDYUkcTxMEip8q"
+    },
+    {
+        "Country": "Aruba",
+        "CountryID": "AW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recNQetz8uf4UMqJX"
+    },
+    {
+        "Country": "Norfolk Island",
+        "CountryID": "NF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recOFJP9lVwE85pP4"
+    },
+    {
+        "Country": "Christmas Island",
+        "CountryID": "CX",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recOTEq6wewmvNMn1"
+    },
+    {
+        "Country": "Germany",
+        "CountryID": "DE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recOtXlCy7C8ewWNg"
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "CountryID": "MP",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recPC1cshceS0ffBO"
+    },
+    {
+        "Country": "Mexico",
+        "CountryID": "MX",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recPEbJot3hu08ie1"
+    },
+    {
+        "Country": "Mauritius",
+        "CountryID": "MU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recPOt6uTQlsVxhRe"
+    },
+    {
+        "Country": "Solomon Islands",
+        "CountryID": "SB",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recPXPtlXWontcldf"
+    },
+    {
+        "Country": "Slovakia",
+        "CountryID": "SK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recPktAkD9ijbVOmz"
+    },
+    {
+        "Country": "Honduras",
+        "CountryID": "HN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recQFo9Fr1a1zks2q"
+    },
+    {
+        "Country": "South Georgia and South Sandwich Islands",
+        "CountryID": "GS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recQIgKZATsPSEv75"
+    },
+    {
+        "Country": "Burundi",
+        "CountryID": "BI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recQV7ENsaGN7Ihet"
+    },
+    {
+        "Country": "Kiribati",
+        "CountryID": "KI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recQY5ORluwvFpggB"
+    },
+    {
+        "Country": "Albania",
+        "CountryID": "AL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recQnZ0kfxWlinK2u"
+    },
+    {
+        "Country": "Guinea",
+        "CountryID": "GN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recR2qAqz9gnBucMY"
+    },
+    {
+        "Country": "Western Sahara",
+        "CountryID": "EH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recRFVaEmrh88blp8"
+    },
+    {
+        "Country": "Greenland",
+        "CountryID": "GL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recRGxpmR13zyt2JN"
+    },
+    {
+        "Country": "Tanzania",
+        "CountryID": "TZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recRUZowy1t11avcV"
+    },
+    {
+        "Country": "North Macedonia",
+        "CountryID": "MK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recSaAkcaittelbwT"
+    },
+    {
+        "Country": "Palau",
+        "CountryID": "PW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recSm4AeNcoMH2dl4"
+    },
+    {
+        "Country": "Argentina",
+        "CountryID": "AR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recSsseZSHZPkrk4o"
+    },
+    {
+        "Country": "United States",
+        "CountryID": "US",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recSvg93SgWx5uGag"
+    },
+    {
+        "Country": "Montserrat",
+        "CountryID": "MS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recSyIvYWUkbVC1ZM"
+    },
+    {
+        "Country": "Malta",
+        "CountryID": "MT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recTbeZy2UnWFqga9"
+    },
+    {
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "LinkedRecords": [
+            "recqrsh92HNw0ZgWV",
+            "rec2gYqjXfvjFV7vu",
+            "reccbilL9jMB1Q8QU",
+            "recOj0em8iOcPWi8M",
+            "recjnbDciSpwpRZ8j",
+            "reclbEdnytY2Cmnlv",
+            "recDgyA1OchpUwDAs",
+            "recpTf8ujVyNiPAWL",
+            "recgueoVztMaTw6sF",
+            "recc9weLh0Q2aysxq",
+            "rec7tSpLAMSjCxMRH",
+            "recgsydSKItDuqfQg",
+            "recxrGKO37laY4LOD",
+            "recKAjEvXbsNb1FDS",
+            "recQWSl48uvbb1iYF",
+            "recCK4y166eIuobl6",
+            "recHBX7n2ZLDNelpZ",
+            "recRXNLYyBzK16nWa",
+            "recPqGr6jdI6ouqCT",
+            "receg0SHEogGEhWfi",
+            "recY8Yipjg1PyjTxU",
+            "rec5XHvq2qnjy6Jc9",
+            "rec3CS8vDmCCCaiIO",
+            "recLYyIu69HYymI2V",
+            "rec15I4q8r8kfOV2w",
+            "receexjRw3uKfTDaP",
+            "recrgYV8M59Ui2wg9",
+            "recOkXTdPr8bfLxJn",
+            "rec39VoI24BZ0Kgnt",
+            "reccO2rhplGbdj7wX",
+            "recJ93YVHwESedyxL",
+            "rec0uy3HOJUcnqWz5",
+            "recgzfdfZvXJxewuO",
+            "rec4U12LE6QkF8hqm",
+            "recOXbEPgWXTAhw5r",
+            "rec9zPDSRdc3JFNBK",
+            "rec99hPzINyLiQMAz",
+            "recheXHVRUjG2X17F",
+            "recHMz34cJPLWva3Y",
+            "recqCCstdoeZjIa9F",
+            "recHreU3VZhQIIggY",
+            "recqcYH6w4r26O290",
+            "receQCdB0bNGxJT1P",
+            "recArqszJSuuxmvSY",
+            "rec0ERrwGF5dft2DX",
+            "recT5B5M9rX0UbFFR",
+            "recuNvafbNE8LSDtp",
+            "reciHaVV7OObVHrFG",
+            "rec306RSLH7H8xcko",
+            "recGZEaDs3wgSmtLQ",
+            "recTWZ4FQw5PXgWGQ",
+            "recXAkITJF4JpCfYx",
+            "rec0giZSKJaivFffM",
+            "recjELX16nWt0oQvk",
+            "recfDDhNilBL842Tt",
+            "recTdoRlyBzngcBEk",
+            "rec2fZyxHfa6Fbaml",
+            "recQTHPBexaQRoUKP",
+            "recNAE68estbCOV6h",
+            "rec9RuNqKiYgX8yk2",
+            "recrn584KuGSSfH0n",
+            "recXKfpJ67XXvtE2r",
+            "recsIzTftfFJahxI2",
+            "recsSndR35t3PZGEN",
+            "recvk10Mr5OWVDQsw",
+            "recK8efXmil6CCamJ",
+            "recLKzwMmtr6HlGnr",
+            "recTso91Dyzu1Lr6U",
+            "recCvRBVTdokCNaZY",
+            "rec5cmUprQh8yV49d",
+            "rec4swOM3Sgy4XGRf",
+            "reck2B5piZK26YWKv",
+            "recpFZHT5q28nCOqq",
+            "recR2kVwd7EChZ3LG",
+            "recbVgIrrmf6yU8eh",
+            "recz6MTZ4jj1Gxzyj",
+            "recpqrPN3EUend0Bl",
+            "rec43ZchE3mNSAGZZ",
+            "rec4feI3OG8XaU3rM",
+            "recCfyw3MhIoWAFXU",
+            "recvwct34UpkYWC6t",
+            "receAkNPlZgXj3XFD",
+            "recLiNONKWoZF5glJ",
+            "rectGNvyUmjO022ZP",
+            "rec1FpZlxgCoYOFt9",
+            "rec1DUxf4uUHqaeLJ",
+            "recn1FoyWlVRb44fZ",
+            "recb4V8jESXwy7gIY",
+            "recdy8W71UTakWpEm",
+            "reclTD4TK073Gp8Ar",
+            "recU4TVmZ2oCGEPHW",
+            "recwh4KT2q2pHXfKk",
+            "reciqWKMKmbMmQung",
+            "rec3GGXVM1aHMjdE8",
+            "recrLxqJIUEeHyXKT",
+            "recNZPK9jxNOnmlzM",
+            "recuuGTeMtiaaURGL",
+            "recYm1NOAx1qwXN7T",
+            "rec5b61FL1KPeASn0"
+        ],
+        "RecordCount": 99,
+        "TotalDeaths": 878,
+        "airtable_createdTime": "2022-10-06T19:21:01.000Z",
+        "airtable_id": "recU6zcKTJxGA3GEL"
+    },
+    {
+        "Country": "Norway",
+        "CountryID": "NO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recUSxywu5bncWBoB"
+    },
+    {
+        "Country": "Niger",
+        "CountryID": "NE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recUU6Obts4pkeazW"
+    },
+    {
+        "Country": "Marshall Islands",
+        "CountryID": "MH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recUZXartBFaQOvBi"
+    },
+    {
+        "Country": "Saint Barthelemy",
+        "CountryID": "BL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recUkSVFEMuACS4e0"
+    },
+    {
+        "Country": "Lithuania",
+        "CountryID": "LT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recUrmcPMD77ovq4v"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "CountryID": "AE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:21:01.000Z",
+        "airtable_id": "recVHJGaT0XiLkYro"
+    },
+    {
+        "Country": "Iceland",
+        "CountryID": "IS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recVYo5e8ThjNKMHy"
+    },
+    {
+        "Country": "Johnston Atoll",
+        "CountryID": "UM-JQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recVdpn74Buh9fvZ7"
+    },
+    {
+        "Country": "Luxembourg",
+        "CountryID": "LU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recVrWocAtPDMnTxh"
+    },
+    {
+        "Country": "Tokelau",
+        "CountryID": "TK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recW1h3BtUF0jGbGY"
+    },
+    {
+        "Country": "Uganda",
+        "CountryID": "UG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recW4TdJaxAKhyCLP"
+    },
+    {
+        "Country": "Democratic Republic of Congo",
+        "CountryID": "CD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recWbZ9SopUTwwTGj"
+    },
+    {
+        "Country": "French Polynesia",
+        "CountryID": "PF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recWqCl1AUwp78YSN"
+    },
+    {
+        "Country": "Monaco",
+        "CountryID": "MC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recXCu8c5Jd1IoLQQ"
+    },
+    {
+        "Country": "El Salvador",
+        "CountryID": "SV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recXIdSkCP6wNJWpt"
+    },
+    {
+        "Country": "Liberia",
+        "CountryID": "LR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recXUwas2EXM2BHk7"
+    },
+    {
+        "Country": "France",
+        "CountryID": "FR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recXaHqQZeGUmkpyS"
+    },
+    {
+        "Country": "Sri Lanka",
+        "CountryID": "LK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recY3dzjLyV2MgkHM"
+    },
+    {
+        "Country": "Macau",
+        "CountryID": "MO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recY8jJpaztiwlEbj"
+    },
+    {
+        "Country": "Japan",
+        "CountryID": "JP",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYDyttcooylEtlN"
+    },
+    {
+        "Country": "Chile",
+        "CountryID": "CL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYJBYb0uT2R9FcA"
+    },
+    {
+        "Country": "Belgium",
+        "CountryID": "BE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYL5VSnSGguUbDw"
+    },
+    {
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "LinkedRecords": [
+            "recz5x2SuilaF4Ccv",
+            "recKQppAKmCXcIVzh",
+            "recQ1Z6nDG5MffYqW",
+            "recjDuyoIVkj78GbI",
+            "rec6M2SVFjdp1qUvy",
+            "recUlOqTuToOq1lhP",
+            "rec2X1z4auZMmLWJo",
+            "recqhogtitQanF3DP",
+            "rec916puplN9Wbc9d",
+            "recoQf3eliRtW9lM3",
+            "rechTRhh9mmBrtYK9",
+            "recDgKZsu04dBfpGW",
+            "recPUfkZj6BRaoc4l",
+            "recN57z43rm9T86S0",
+            "recPyCH2CU1CMKRU6",
+            "recn7GzlleR1tZidP",
+            "reccU1r7dla6mdHTP",
+            "recvMv7BCFngguOSw",
+            "recDGRqRH2ISVhyNP",
+            "recg0yq3ZzZXCkgT0",
+            "recQdvHYpNvSHL5Uv",
+            "recvdyip9uYiZ37e8",
+            "recr8rf7S8aNuUx1L",
+            "recImKmvV1JTLArRF",
+            "recozbG15EPYj2bRh",
+            "recdlhfORQuDvaKir",
+            "recHRT4T3mt4Suh32",
+            "recCSagIZtEnnFvE6",
+            "rec9oouYUfb6SUJ7Q",
+            "rec84WGSgbeLyfkEJ",
+            "recHY30py2DKDPaRA",
+            "recB4vEukVq0zHJy0",
+            "recohWbaV1DdFAFhQ",
+            "rec98ovVmEx2nQ4oe",
+            "recXeCUTS7DoPythl",
+            "rec217ZU3qP88jKm0",
+            "recJ5KfwSLrBnNYwc",
+            "recDJVvLRjV5ky3ng",
+            "recmeriz8N2FsYbPI",
+            "recKYZRYM57gmFRiD",
+            "recfvkYKLN6LKAV6Y"
+        ],
+        "RecordCount": 41,
+        "TotalDeaths": 261,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYV9FOGTfp2C8TR"
+    },
+    {
+        "Country": "Niue",
+        "CountryID": "NU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYYNijqBiy44y0j"
+    },
+    {
+        "Country": "Aland Islands",
+        "CountryID": "AX",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recYx0tYlmWZzJzEy"
+    },
+    {
+        "Country": "Andorra",
+        "CountryID": "AD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:21:01.000Z",
+        "airtable_id": "recZCxXSmae4dOwXb"
+    },
+    {
+        "Country": "Jordan",
+        "CountryID": "JO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZHm5kyvTBySmDT"
+    },
+    {
+        "Country": "Kuwait",
+        "CountryID": "KW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZJW3liFY2TsqZ3"
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "CountryID": "TC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZJgk0YYFhJTl54"
+    },
+    {
+        "Country": "Saint Lucia",
+        "CountryID": "LC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZZDiPMwVilan8U"
+    },
+    {
+        "Country": "Sint Maarten",
+        "CountryID": "SX",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZpMHuleDQCaCDD"
+    },
+    {
+        "Country": "South Sudan",
+        "CountryID": "SS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recZuiy9bo8QkXYh0"
+    },
+    {
+        "Country": "Guatemala",
+        "CountryID": "GT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recaDQQjJtpcGd8hN"
+    },
+    {
+        "Country": "Pitcairn Islands",
+        "CountryID": "PN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recaN7j06jfBe98eS"
+    },
+    {
+        "Country": "Brazil",
+        "CountryID": "BR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recaVme1pQG7elLnO"
+    },
+    {
+        "Country": "Wallis and Futuna",
+        "CountryID": "WF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recafw5JjEUvD7s0V"
+    },
+    {
+        "Country": "Haiti",
+        "CountryID": "HT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recasKbVdJOaFDdVc"
+    },
+    {
+        "Country": "Montenegro",
+        "CountryID": "ME",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recaudPhEUx7ER4Rp"
+    },
+    {
+        "Country": "Baker Island",
+        "CountryID": "UM-FQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recaySMWMOMkbDnkk"
+    },
+    {
+        "Country": "Mayotte",
+        "CountryID": "YT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recbCN7g338ypz4SB"
+    },
+    {
+        "Country": "Heard Island and McDonald Islands",
+        "CountryID": "HM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recbK6l7QMI5H3PPf"
+    },
+    {
+        "Country": "Gambia",
+        "CountryID": "GM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recbMu744R1GheQjQ"
+    },
+    {
+        "Country": "Cayman Islands",
+        "CountryID": "KY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recbWhSuiltZKbPaA"
+    },
+    {
+        "Country": "Cuba",
+        "CountryID": "CU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recbXsGIH4veFvL0C"
+    },
+    {
+        "Country": "Czechia",
+        "CountryID": "CZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recblVP9vyiFHuOkU"
+    },
+    {
+        "Country": "American Samoa",
+        "CountryID": "AS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recblmDuj2t9W8Ekb"
+    },
+    {
+        "Country": "Austria",
+        "CountryID": "AT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reccU2d5FBvs5pCYl"
+    },
+    {
+        "Country": "Somalia",
+        "CountryID": "SO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reccq3BjixSs3cDlS"
+    },
+    {
+        "Country": "Jamaica",
+        "CountryID": "JM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recd9iKrbJSdbZr3t"
+    },
+    {
+        "Country": "Maldives",
+        "CountryID": "MV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recdPUCMU8WhXf9hC"
+    },
+    {
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "LinkedRecords": [
+            "recBUyajm43Nyuk49"
+        ],
+        "RecordCount": 1,
+        "TotalDeaths": 3,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recdUBhXBZVyiwNjT"
+    },
+    {
+        "Country": "Cocos (Keeling) Islands",
+        "CountryID": "CC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recdX3wuwijmV7mto"
+    },
+    {
+        "Country": "Morocco",
+        "CountryID": "MA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "receYr2xeMPfmUHV2"
+    },
+    {
+        "Country": "Syria",
+        "CountryID": "SY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recec93hV8Wd0U36f"
+    },
+    {
+        "Country": "North Korea",
+        "CountryID": "KP",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recepUm6F1JKD5rXF"
+    },
+    {
+        "Country": "French Guiana",
+        "CountryID": "GF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recey9uhMgvmVlRE6"
+    },
+    {
+        "Country": "Yemen",
+        "CountryID": "YE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recfHOOJhdZOyMmis"
+    },
+    {
+        "Country": "Isle of Man",
+        "CountryID": "IM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recfShNMgJIL8Swz3"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "CountryID": "ST",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recfoIPEw9TSR6tnz"
+    },
+    {
+        "Country": "Turkey",
+        "CountryID": "TR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recgj1HhnlVrtFfcR"
+    },
+    {
+        "Country": "Colombia",
+        "CountryID": "CO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recguvqqCVOkHb7nU"
+    },
+    {
+        "Country": "Central African Republic",
+        "CountryID": "CF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recgx1OYf9YTwprQ5"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "CountryID": "KG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rech5EKl57slIE4WY"
+    },
+    {
+        "Country": "Comoros",
+        "CountryID": "KM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rechsWa5uxLsXU0t1"
+    },
+    {
+        "Country": "Russia",
+        "CountryID": "RU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reciAjnrEV6mUvxqB"
+    },
+    {
+        "Country": "Saint Helena",
+        "CountryID": "SH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reciFfMHKHSHgXxpk"
+    },
+    {
+        "Country": "Kazakhstan",
+        "CountryID": "KZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reciGuP0acTcyEoGl"
+    },
+    {
+        "Country": "Croatia",
+        "CountryID": "HR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recipajk49BUlFn2a"
+    },
+    {
+        "Country": "Malaysia",
+        "CountryID": "MY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recit5sT3fPW96wi8"
+    },
+    {
+        "Country": "Nauru",
+        "CountryID": "NR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reciuSkzcTDGAo6sL"
+    },
+    {
+        "Country": "Tajikistan",
+        "CountryID": "TJ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recj6kdqrmfUcW01S"
+    },
+    {
+        "Country": "Reunion",
+        "CountryID": "RE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recjeROOjuKye9yAQ"
+    },
+    {
+        "Country": "Barbados",
+        "CountryID": "BB",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reckRxzg9Zab045RK"
+    },
+    {
+        "Country": "Algeria",
+        "CountryID": "DZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reckTK5XZO9SyDkaR"
+    },
+    {
+        "Country": "Nigeria",
+        "CountryID": "NG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reckUOLh9yQoEW9Ys"
+    },
+    {
+        "Country": "Falkland Islands",
+        "CountryID": "FK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reckacJrbvzQbP9hz"
+    },
+    {
+        "Country": "Bonair, Saint Eustachius and Saba",
+        "CountryID": "BQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reclGBv1XBIdWN0jr"
+    },
+    {
+        "Country": "Eswatini",
+        "CountryID": "SZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reclI5UiKiKKQBBok"
+    },
+    {
+        "Country": "Philippines",
+        "CountryID": "PH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reclMJZqFkXc73VQj"
+    },
+    {
+        "Country": "Cyprus",
+        "CountryID": "CY",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reclbAWCneig6w30l"
+    },
+    {
+        "Country": "Egypt",
+        "CountryID": "EG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recljvV7oPiUp9mLJ"
+    },
+    {
+        "Country": "Tonga",
+        "CountryID": "TO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recllMh4dV8Dj1cVi"
+    },
+    {
+        "Country": "Nicaragua",
+        "CountryID": "NI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reclnR09nCMDNNnSN"
+    },
+    {
+        "Country": "Ghana",
+        "CountryID": "GH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recm9tmVWYajz0Z1N"
+    },
+    {
+        "Country": "Svalbard and Jan Mayen",
+        "CountryID": "SJ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmKWP2Xw1oK2LnW"
+    },
+    {
+        "Country": "Iran",
+        "CountryID": "IR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmLDmqQNBOxGAs5"
+    },
+    {
+        "Country": "Denmark",
+        "CountryID": "DK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmQdZaKR1nom9lh"
+    },
+    {
+        "Country": "Tuvalu",
+        "CountryID": "TV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmfZf0nAZJQ9kTg"
+    },
+    {
+        "Country": "Israel",
+        "CountryID": "IL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmfqqMTbEuQSWAg"
+    },
+    {
+        "Country": "Bhutan",
+        "CountryID": "BT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recmzGLq0oPha3iHb"
+    },
+    {
+        "Country": "Djibouti",
+        "CountryID": "DJ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recn0DiqRtfwIGOQv"
+    },
+    {
+        "Country": "French Southern and Antarctic Lands",
+        "CountryID": "TF",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recn68l5cDcX8oLiz"
+    },
+    {
+        "Country": "Azerbaijan",
+        "CountryID": "AZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recnNP9on4UXdOnB8"
+    },
+    {
+        "Country": "Australia",
+        "CountryID": "AU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recnXldBa9AhLPZxT"
+    },
+    {
+        "Country": "Federated States of Micronesia",
+        "CountryID": "FM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recnfH1YByzfJr8Ak"
+    },
+    {
+        "Country": "Cambodia",
+        "CountryID": "KH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recnwaR38pD5vLoqo"
+    },
+    {
+        "Country": "Anguilla",
+        "CountryID": "AI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reco1C5hXw9d5QFiC"
+    },
+    {
+        "Country": "Guernsey",
+        "CountryID": "GG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reco2vZzSdS5AUVV7"
+    },
+    {
+        "Country": "Bolivia",
+        "CountryID": "BO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recoKjYMMQgknAxga"
+    },
+    {
+        "Country": "Switzerland",
+        "CountryID": "CH",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recobdz17ZTFfcvxj"
+    },
+    {
+        "Country": "Antarctica",
+        "CountryID": "AQ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recomYAJwtn5y8wYt"
+    },
+    {
+        "Country": "Belize",
+        "CountryID": "BZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recpihBGxTE4Pj3wD"
+    },
+    {
+        "Country": "South Korea",
+        "CountryID": "KR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recplfReSUUy8wTyH"
+    },
+    {
+        "Country": "Brunei",
+        "CountryID": "BN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recprphf5aWX9ApuZ"
+    },
+    {
+        "Country": "Togo",
+        "CountryID": "TG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recqFsUlczwgkeC3k"
+    },
+    {
+        "Country": "Italy",
+        "CountryID": "IT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recqQ4SykEl3j2psC"
+    },
+    {
+        "Country": "Timor-Leste",
+        "CountryID": "TL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recqrzZL4juaeqvFD"
+    },
+    {
+        "Country": "Faroe Islands",
+        "CountryID": "FO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recqtzrkZutTNjVEd"
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "CountryID": "AG",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recqypCECwPxuW7jm"
+    },
+    {
+        "Country": "Namibia",
+        "CountryID": "NA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recr17Gu3Na8AChDb"
+    },
+    {
+        "Country": "Hungary",
+        "CountryID": "HU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recrJuZ0PheMQ8NvT"
+    },
+    {
+        "Country": "Chad",
+        "CountryID": "TD",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recrhXQd3HgGEME6Y"
+    },
+    {
+        "Country": "Seychelles",
+        "CountryID": "SC",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recs2md6othAC5oci"
+    },
+    {
+        "Country": "Malawi",
+        "CountryID": "MW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recsL6A7LpybRV7MA"
+    },
+    {
+        "Country": "Sweden",
+        "CountryID": "SE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recsxPTmq2qwiQM1U"
+    },
+    {
+        "Country": "Ireland",
+        "CountryID": "IE",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rectAJyz7Kta1RPGk"
+    },
+    {
+        "Country": "Nepal",
+        "CountryID": "NP",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "rectDQ4QprCRg7um9"
+    },
+    {
+        "Country": "Cook Islands",
+        "CountryID": "CK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recu7hwMglJTTNGee"
+    },
+    {
+        "Country": "Cape Verde",
+        "CountryID": "CV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recuq8bKQpdYRidnC"
+    },
+    {
+        "Country": "Lebanon",
+        "CountryID": "LB",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recuxMAc97Zo4lA22"
+    },
+    {
+        "Country": "New Zealand",
+        "CountryID": "NZ",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recv4n9gTHdycKGG7"
+    },
+    {
+        "Country": "Samoa",
+        "CountryID": "WS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recvFK7zFAxGg4P8C"
+    },
+    {
+        "Country": "Pakistan",
+        "CountryID": "PK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recvRCqGB5S7EV84q"
+    },
+    {
+        "Country": "Tunisia",
+        "CountryID": "TN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recvSXPScM5ofC83D"
+    },
+    {
+        "Country": "Puerto Rico",
+        "CountryID": "PR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recve31kLIcfRTbzC"
+    },
+    {
+        "Country": "Zambia",
+        "CountryID": "ZM",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recw02mD0ccuezQE1"
+    },
+    {
+        "Country": "Mauritania",
+        "CountryID": "MR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recw39P1Ee4gt6SOu"
+    },
+    {
+        "Country": "Sierra Leone",
+        "CountryID": "SL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recw7BPekX6puQDZB"
+    },
+    {
+        "Country": "Netherlands",
+        "CountryID": "NL",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recw99ATnR1vR7yb4"
+    },
+    {
+        "Country": "Costa Rica",
+        "CountryID": "CR",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwCzbIYPfJ34Wet"
+    },
+    {
+        "Country": "Gabon",
+        "CountryID": "GA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwEjdweTrJOS2gP"
+    },
+    {
+        "Country": "Serbia",
+        "CountryID": "RS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwJZEcVXorWBIxn"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "CountryID": "GW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwMB9o1xsriurst"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "CountryID": "SA",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwel0p8FUlrJsNK"
+    },
+    {
+        "Country": "Portugal",
+        "CountryID": "PT",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recwpy4uGcRFw7vAQ"
+    },
+    {
+        "Country": "Juan De Nova Island",
+        "CountryID": "JU",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recxa8B19zEwimOEV"
+    },
+    {
+        "Country": "Palestinian Territories",
+        "CountryID": "PS",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recxlbEbDAGVXcnER"
+    },
+    {
+        "Country": "Latvia",
+        "CountryID": "LV",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recxzZOGo2AM1CO94"
+    },
+    {
+        "Country": "Angola",
+        "CountryID": "AO",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recyYE819NcVDndAF"
+    },
+    {
+        "Country": "Indonesia",
+        "CountryID": "ID",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recyn8KHAmzEqzeQ7"
+    },
+    {
+        "Country": "Finland",
+        "CountryID": "FI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "recz2WZlNLRQcuRNK"
+    },
+    {
+        "Country": "Gibraltar",
+        "CountryID": "GI",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reczBJifDhxBN4UNn"
+    },
+    {
+        "Country": "Botswana",
+        "CountryID": "BW",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reczE9POVBYZG2XVm"
+    },
+    {
+        "Country": "Hong Kong",
+        "CountryID": "HK",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reczqTWyE4Qm1fEGp"
+    },
+    {
+        "Country": "Mongolia",
+        "CountryID": "MN",
+        "RecordCount": 0,
+        "TotalDeaths": 0,
+        "airtable_createdTime": "2022-10-06T19:44:11.000Z",
+        "airtable_id": "reczxU8midATlPcI0"
+    }
+]

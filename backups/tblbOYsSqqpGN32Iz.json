@@ -1,0 +1,3460 @@
+[
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 88,
+        "EventName": "AFG2390",
+        "InjuredCount": 4,
+        "Latitude": 34.0653595,
+        "Location": "Logar",
+        "Longitude": 69.160172,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-21",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:11.000Z",
+        "airtable_id": "rec0ERrwGF5dft2DX"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 96,
+        "EventName": "AFG1202",
+        "Latitude": 36.03603744506836,
+        "Location": "Faryab",
+        "Longitude": 64.89441680908203,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:18.000Z",
+        "airtable_id": "rec0giZSKJaivFffM"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 75,
+        "EventName": "AFG0374",
+        "InjuredCount": 25,
+        "Latitude": 34.116985,
+        "Location": "Haska Mena",
+        "Longitude": 70.461125,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-07-23",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:53.000Z",
+        "airtable_id": "rec0uy3HOJUcnqWz5"
+    },
+    {
+        "ChildDeathCount": 11,
+        "CivilianDeathCount": 12,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 68,
+        "EventName": "AFG0623",
+        "Latitude": 34.3191345,
+        "Location": "Wardak",
+        "Longitude": 68.3360426,
+        "Notes": "house was hit in the strike that killed civilians",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:39.000Z",
+        "airtable_id": "rec15I4q8r8kfOV2w"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 129,
+        "EventName": "AFG0142",
+        "Latitude": 35.124005132932695,
+        "Location": "Shegal",
+        "Longitude": 71.24458926267408,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-01-09",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:13.000Z",
+        "airtable_id": "rec1DUxf4uUHqaeLJ"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 128,
+        "EventName": "AFG0114",
+        "Latitude": 34.0454314,
+        "Location": "Achin",
+        "Longitude": 70.6692329,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-10-27",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:13.000Z",
+        "airtable_id": "rec1FpZlxgCoYOFt9"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 9,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 38,
+        "EventName": "9 bodies unearthed from shallow graves",
+        "Latitude": 50.64398193359375,
+        "Location": "Borodyanka",
+        "Longitude": 29.894670486450195,
+        "Notes": "15-year-old girl among those found.",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-9-bodies-found-outside-kyiv-some-with-signs-of-torture/articleshow/90975737.cms",
+        "StartDate": "2022-04-20",
+        "Tags": [
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:11.000Z",
+        "airtable_id": "rec217ZU3qP88jKm0"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 9,
+        "EventName": "Russian air strikes on apartment block",
+        "InjuredCount": 20,
+        "Latitude": 49.8363648,
+        "Location": "Chuhuiv",
+        "Longitude": 36.6898157,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.thenationalnews.com/world/2022/02/24/civilians-killed-as-stray-russian-missile-hits-apartment-block-in-ukraine/",
+        "SourceB": "https://vchasnoua.com/en/392-russia-attacked-ukraine-online-update",
+        "SourceC": "https://nypost.com/2022/02/24/ukraine-teacher-credits-guardian-angel-for-surviving-russia-missile-strike/",
+        "StartDate": "2022-02-24",
+        "Tags": [
+            "ProjectileStrike",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T04:25:45.000Z",
+        "airtable_id": "rec2X1z4auZMmLWJo"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 100,
+        "EventName": "AFG1589",
+        "Latitude": 34.0653595,
+        "Location": "Logar",
+        "Longitude": 69.160172,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:21.000Z",
+        "airtable_id": "rec2fZyxHfa6Fbaml"
+    },
+    {
+        "CivilianDeathCount": 55,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 45,
+        "EventName": "AFG0412",
+        "InjuredCount": 10,
+        "Latitude": 36.60552370544224,
+        "Location": "Chardara",
+        "Longitude": 68.72015309005414,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-11-04",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:45.000Z",
+        "airtable_id": "rec2gYqjXfvjFV7vu"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 92,
+        "EventName": "AFG0043",
+        "Latitude": 34.34393018283619,
+        "Location": "Lal Pura",
+        "Longitude": 70.99571713177917,
+        "Notes": "Hideout",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-08",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:14.000Z",
+        "airtable_id": "rec306RSLH7H8xcko"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 9,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 72,
+        "EventName": "AFG0618",
+        "InjuredCount": 12,
+        "Latitude": 36.48276,
+        "Location": "Tagab",
+        "Longitude": 70.349632,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:46.000Z",
+        "airtable_id": "rec39VoI24BZ0Kgnt"
+    },
+    {
+        "ChildDeathCount": 9,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 66,
+        "EventName": "AFG1508",
+        "Latitude": 36.8707187,
+        "Location": "Kunduz",
+        "Longitude": 68.7563528,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:35.000Z",
+        "airtable_id": "rec3CS8vDmCCCaiIO"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 137,
+        "EventName": "AFG0485",
+        "InjuredCount": 2,
+        "Latitude": 34.220389,
+        "Location": "Nangarhar",
+        "Longitude": 70.3800314,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-06-01",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:18.000Z",
+        "airtable_id": "rec3GGXVM1aHMjdE8"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 121,
+        "EventName": "AFG1893",
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Notes": "Building housing NGO",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:09.000Z",
+        "airtable_id": "rec43ZchE3mNSAGZZ"
+    },
+    {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 77,
+        "EventName": "AFG2870",
+        "Latitude": 36.8707187,
+        "Location": "Kunduz",
+        "Longitude": 68.7563528,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:54.000Z",
+        "airtable_id": "rec4U12LE6QkF8hqm"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 122,
+        "EventName": "AFG2281",
+        "Latitude": 33.3149631,
+        "Location": "Ghazni",
+        "Longitude": 67.828989,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:09.000Z",
+        "airtable_id": "rec4feI3OG8XaU3rM"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 114,
+        "EventName": "AFG0391",
+        "InjuredCount": 3,
+        "Latitude": 33.220979,
+        "Location": "Qarabagh",
+        "Longitude": 67.987402,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-09-04",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:05.000Z",
+        "airtable_id": "rec4swOM3Sgy4XGRf"
+    },
+    {
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 65,
+        "EventName": "AFG1295",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-25",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:48.000Z",
+        "airtable_id": "rec5XHvq2qnjy6Jc9"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 142,
+        "EventName": "AFG3206",
+        "Latitude": 33.305843,
+        "Location": "Andar",
+        "Longitude": 68.446963,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-10-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:21.000Z",
+        "airtable_id": "rec5b61FL1KPeASn0"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 113,
+        "EventName": "AFG0089",
+        "Latitude": 31.7757701,
+        "Location": "Nahr e Saraj",
+        "Longitude": 64.6119531,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-08-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:04.000Z",
+        "airtable_id": "rec5cmUprQh8yV49d"
+    },
+    {
+        "AbductedCount": 5,
+        "CivilianDeathCount": 9,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-03-31",
+        "EventID": 7,
+        "EventName": "Russian forces at Chernobyl",
+        "Latitude": 51.4059655,
+        "Location": "Pripyat",
+        "Longitude": 30.0573963,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.mirror.co.uk/news/world-news/russian-forces-chernobyl-killed-9-27136555",
+        "SourceB": "https://apnews.com/article/russia-ukraine-business-health-europe-accidents-edcd5bc0e6bde3cbf6d7300bebc9343f",
+        "StartDate": "2022-02-24",
+        "Tags": [
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T04:09:43.000Z",
+        "airtable_id": "rec6M2SVFjdp1qUvy"
+    },
+    {
+        "CivilianDeathCount": 21,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 54,
+        "EventName": "AFG0854",
+        "InjuredCount": 5,
+        "Latitude": 32.3936231,
+        "Location": "Paktika",
+        "Longitude": 68.7036514,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-05",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:23.000Z",
+        "airtable_id": "rec7tSpLAMSjCxMRH"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 32,
+        "EventName": "Bodies of seven civilians killed in Bucha unearthed from mass grave",
+        "Latitude": 50.5503127,
+        "Location": "Bucha",
+        "Longitude": 30.2106925,
+        "Notes": "Gunshot wounds to knees and head",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.voanews.com/a/bucolic-ukraine-forest-is-site-of-mass-grave-exhumation-/6616015.html#:~:text=The%20horrors%20of%20Bucha%20shocked,knees%20and%20head%2C%20Nebytov%20said.",
+        "SourceB": "https://www.arkansasonline.com/news/2022/jun/14/ukrainians-find-more-victims-near-bucha/",
+        "StartDate": "2022-06-13",
+        "Tags": [
+            "Invasion",
+            "Torture"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:57.000Z",
+        "airtable_id": "rec84WGSgbeLyfkEJ"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 11,
+        "EventName": "Cluster munitions kill child and two other civilians taking shelter at a preschool",
+        "InjuredCount": 1,
+        "Latitude": 50.3115386,
+        "Location": "Okhtyrka",
+        "Longitude": 34.8868923,
+        "Notes": "Used cluster munitions which is a war crime in it of itself",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.amnesty.org/en/latest/news/2022/02/ukraine-cluster-munitions-kill-child-and-two-other-civilians-taking-shelter-at-a-preschool/",
+        "StartDate": "2022-02-25",
+        "Tags": [
+            "Invasion",
+            "BannedWeaponry",
+            "Bombing"
+        ],
+        "airtable_createdTime": "2022-09-15T04:50:15.000Z",
+        "airtable_id": "rec916puplN9Wbc9d"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 8,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 36,
+        "EventName": "Woman and her 3-month-old baby killed on Saturday during a cruise missile strike on Odesa.",
+        "InjuredCount": 18,
+        "Latitude": 46.4843023,
+        "Location": "Odesa",
+        "Longitude": 30.7322878,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://thehill.com/policy/international/3461310-russian-missile-strike-on-odesa-kills-8-including-3-month-old-baby-girl-zelensky-says/",
+        "StartDate": "2022-04-23",
+        "airtable_createdTime": "2022-09-29T03:56:08.000Z",
+        "airtable_id": "rec98ovVmEx2nQ4oe"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 80,
+        "EventName": "AFG2900",
+        "Latitude": 34.3191345,
+        "Location": "Wardak",
+        "Longitude": 68.3360426,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:59.000Z",
+        "airtable_id": "rec99hPzINyLiQMAz"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 103,
+        "EventName": "AFG0208",
+        "Latitude": 34.58205,
+        "Location": "Azara",
+        "Longitude": 69.13099,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-06-11",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:57.000Z",
+        "airtable_id": "rec9RuNqKiYgX8yk2"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-06-06",
+        "EventID": 31,
+        "EventName": "Four people killed by Russian strike on Lysychansk",
+        "InjuredCount": 7,
+        "Latitude": 48.91493225097656,
+        "Location": "Lysychansk",
+        "Longitude": 38.42538070678711,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/06/16/7352858/",
+        "SourceB": "https://www.dw.com/en/ukraine-war-russia-strikes-lysychansk/av-62166615",
+        "StartDate": "2022-06-16",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:53.000Z",
+        "airtable_id": "rec9oouYUfb6SUJ7Q"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 79,
+        "EventName": "AFG1462",
+        "Latitude": 33.305843,
+        "Location": "Andar",
+        "Longitude": 68.446963,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-12",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:57.000Z",
+        "airtable_id": "rec9zPDSRdc3JFNBK"
+    },
+    {
+        "ChildDeathCount": 8,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 87,
+        "EventName": "AFG1874",
+        "InjuredCount": 9,
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-20",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:10.000Z",
+        "airtable_id": "recArqszJSuuxmvSY"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 34,
+        "EventName": "Rocket attack at bus shelter outside factory kills 10",
+        "InjuredCount": 15,
+        "Latitude": 48.1338824,
+        "Location": "Avdiivka",
+        "Longitude": 37.7466719,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.timesnownews.com/world/russia-ukraine-war-10-killed-15-wounded-in-russian-strike-at-avdiivka-coke-plant-in-eastern-ukraine-article-91295318",
+        "StartDate": "2022-05-03",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:04.000Z",
+        "airtable_id": "recB4vEukVq0zHJy0"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 1,
+        "EventName": "Turkey fights PKK with drones in Iraq",
+        "Latitude": 37.0919695,
+        "Location": "Amedi region",
+        "Longitude": 43.4874378,
+        "Notes": "\"Turkey and the PKK have fought a cat-and-mouse war since the rebels launched a full-scale, Marxist-inspired insurgency against the Turkish state\u2019s repression in 1984. More than 40,000 people have died in the violence since then, the vast majority civilians, and the PKK has been designated as a terrorist organisation by Turkey and most of its western allies.\"",
+        "Perpetrator": "Turkey",
+        "PerpetratorID": "TR",
+        "SourceA": "https://www.theguardian.com/world/2021/apr/04/iraq-turkey-pkk-drones-kurds-kurdistan",
+        "StartDate": "2021-12-07",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-09-06T03:10:39.000Z",
+        "airtable_id": "recBUyajm43Nyuk49"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 15,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 59,
+        "EventName": "AFG1291",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:44:50.000Z",
+        "airtable_id": "recCK4y166eIuobl6"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-06-27",
+        "EventID": 30,
+        "EventName": "Russian missile hits busy shopping mall, kills at least 10",
+        "InjuredCount": 40,
+        "Latitude": 49.0928528,
+        "Location": "Kremenchuk",
+        "Longitude": 33.4308188,
+        "Notes": "At least 10 dead and 40 injured",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.columbian.com/news/2022/jun/27/officials-russian-missile-strike-hits-crowded-shopping-mall/",
+        "StartDate": "2022-06-27",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-28T23:47:38.000Z",
+        "airtable_id": "recCSagIZtEnnFvE6"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 123,
+        "EventName": "AFG2345",
+        "InjuredCount": 5,
+        "Latitude": 34.0653595,
+        "Location": "Logar",
+        "Longitude": 69.160172,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:10.000Z",
+        "airtable_id": "recCfyw3MhIoWAFXU"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 112,
+        "EventName": "AFG0048",
+        "Latitude": 34.108224,
+        "Location": "Chak e Wardak",
+        "Longitude": 68.490564,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:03.000Z",
+        "airtable_id": "recCvRBVTdokCNaZY"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 21,
+        "EventName": "Russian tank blows up civilian car killing elderly couple inside",
+        "Latitude": 50.4500336,
+        "Location": "Kyiv",
+        "Longitude": 30.5241361,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.dailyrecord.co.uk/news/uk-world-news/horror-russian-tank-blows-up-26418918",
+        "SourceB": "https://www.mirror.co.uk/news/world-news/russian-tank-caught-graphic-footage-26415984",
+        "StartDate": "2022-02-28",
+        "Tags": [
+            "Invasion",
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-09-15T07:51:18.000Z",
+        "airtable_id": "recDGRqRH2ISVhyNP"
+    },
+    {
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 40,
+        "EventName": "Missile strike in Kharkiv wounds four at community kitchen",
+        "InjuredCount": 4,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://sports.yahoo.com/missile-struck-humanitarian-kitchen-ukraine-110802357.html",
+        "StartDate": "2022-04-16",
+        "Tags": [
+            "Shelling",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:16.000Z",
+        "airtable_id": "recDJVvLRjV5ky3ng"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 14,
+        "EventName": "Kyiv children's hospital shelled, child killed",
+        "InjuredCount": 4,
+        "Latitude": 50.4500336,
+        "Location": "Kyiv",
+        "Longitude": 30.5241361,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326263/",
+        "SourceB": "https://www.nbcnews.com/news/world/blog/russia-ukraine-live-updates-n1290057/ncrd1290068#blogHeader",
+        "StartDate": "2022-02-25",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-15T07:05:07.000Z",
+        "airtable_id": "recDgKZsu04dBfpGW"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 30,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 50,
+        "EventName": "AFG3973",
+        "InjuredCount": 30,
+        "Latitude": 34.3508273,
+        "Location": "Herat",
+        "Longitude": 62.2164003,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2020-01-08",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "recDgyA1OchpUwDAs"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 93,
+        "EventName": "AFG0047",
+        "Latitude": 35.002093,
+        "Location": "Dangam",
+        "Longitude": 71.437221,
+        "Notes": "Up to three buildings - house",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-14",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:15.000Z",
+        "airtable_id": "recGZEaDs3wgSmtLQ"
+    },
+    {
+        "CivilianDeathCount": 14,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 60,
+        "EventName": "AFG0041",
+        "Latitude": 33.383675,
+        "Location": "Tere Zayi",
+        "Longitude": 70.190835,
+        "Notes": "Two vehicles",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-05",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:44:51.000Z",
+        "airtable_id": "recHBX7n2ZLDNelpZ"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 82,
+        "EventName": "AFG0417",
+        "Latitude": 32.123611,
+        "Location": "Sangin",
+        "Longitude": 64.996532,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-11-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:01.000Z",
+        "airtable_id": "recHMz34cJPLWva3Y"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-07-16",
+        "EventID": 29,
+        "EventName": "Missile strike on residential area kills 3",
+        "InjuredCount": 3,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.reuters.com/world/europe/russian-strike-kills-three-people-kharkiv-region-governor-2022-07-16/",
+        "SourceB": "https://www.usnews.com/news/world/articles/2022-07-16/russian-strike-kills-three-people-in-kharkiv-region-governor",
+        "StartDate": "2022-07-16",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-28T20:56:27.000Z",
+        "airtable_id": "recHRT4T3mt4Suh32"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 33,
+        "EventName": "Seven people die following Russian shelling",
+        "InjuredCount": 17,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Notes": "Seven people dead including a 9-year-old girl.",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.forbes.com/sites/katyasoldak/2022/05/26/thursday-may-26-russias-war-on-ukraine-news-and-information-from-ukraine/?sh=345a5a75475e",
+        "SourceB": "https://www.upi.com/Top_News/World-News/2022/05/26/ukraine-Ukraine-Russia-war/5591653595435/",
+        "StartDate": "2022-05-26",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:55:59.000Z",
+        "airtable_id": "recHY30py2DKDPaRA"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 84,
+        "EventName": "AFG1281",
+        "InjuredCount": 1,
+        "Latitude": 34.3191345,
+        "Location": "Wardak",
+        "Longitude": 68.3360426,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-01-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:04.000Z",
+        "airtable_id": "recHreU3VZhQIIggY"
+    },
+    {
+        "CivilianDeathCount": 13,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-08-10",
+        "EventID": 26,
+        "EventName": "Russian shelling kills 13 in Nikopol",
+        "InjuredCount": 11,
+        "Latitude": 47.5692061,
+        "Location": "Nikopol",
+        "Longitude": 34.3917272,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://babel.ua/en/news/82725-russia-again-shelled-the-nikopol-district-in-the-dnipropetrovsk-oblast-during-the-night-11-killed#:~:text=There%20are%2011%20killed%20during%20the%20night&text=On%20the%20night%20of%20August,Valentin%20Reznichenko%2C%20reported%20on%20this.",
+        "SourceB": "https://ru.interfax.com.ua/news/general/851503.html",
+        "StartDate": "2022-08-10",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T21:17:30.000Z",
+        "airtable_id": "recImKmvV1JTLArRF"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 39,
+        "EventName": "Russian forces firing into residential area",
+        "InjuredCount": 4,
+        "Latitude": 49.2724587,
+        "Location": "Luhansk",
+        "Longitude": 38.9150477,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.upi.com/Top_News/World-News/2022/04/17/ukraine-russian-forces-fire-on-civilians-luhansk-region-fighting-easter/3541650212190/",
+        "StartDate": "2022-04-17",
+        "Tags": [
+            "Invasion",
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:15.000Z",
+        "airtable_id": "recJ5KfwSLrBnNYwc"
+    },
+    {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 74,
+        "EventName": "AFG0254",
+        "Latitude": 31.6434234,
+        "Location": "Nad Ali",
+        "Longitude": 64.237812,
+        "Notes": "Taliban HQ and bomb making factory or prison",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-08-25",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:48.000Z",
+        "airtable_id": "recJ93YVHwESedyxL"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 109,
+        "EventName": "AFG3237",
+        "Latitude": 34.783333,
+        "Location": "Laghman",
+        "Longitude": 70.183333,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-10-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:01.000Z",
+        "airtable_id": "recK8efXmil6CCamJ"
+    },
+    {
+        "CivilianDeathCount": 15,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 57,
+        "EventName": "AFG0218",
+        "Latitude": 36.6909697,
+        "Location": "Chahar Dara",
+        "Longitude": 68.7965142,
+        "Notes": "Taliban prison",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-06-25",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:26.000Z",
+        "airtable_id": "recKAjEvXbsNb1FDS"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 21,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 4,
+        "EventName": "Sumy airstrikes",
+        "Latitude": 50.9119775,
+        "Location": "Sumy",
+        "Longitude": 34.8027723,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say",
+        "airtable_createdTime": "2022-09-08T05:59:28.000Z",
+        "airtable_id": "recKQppAKmCXcIVzh"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 50,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 42,
+        "EventName": "Rocket strikes railway station used for civilian evacuation ",
+        "InjuredCount": 100,
+        "Latitude": 48.7389415,
+        "Location": "Kramatorsk",
+        "Longitude": 37.5843812,
+        "Notes": "5 children among those killed",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://abcnews.go.com/International/50-killed-attack-ukrainian-train-station/story?id=83960097#:~:text=Ukrainian%20officials%20say%20two%20Russian,Ukraine%20on%20Friday%2C%20authorities%20said.",
+        "StartDate": "2022-04-11",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T05:07:35.000Z",
+        "airtable_id": "recKYZRYM57gmFRiD"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 110,
+        "EventName": "AFG3649",
+        "Latitude": 33.705724,
+        "Location": "Paktia",
+        "Longitude": 69.4083555,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-18",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:02.000Z",
+        "airtable_id": "recLKzwMmtr6HlGnr"
+    },
+    {
+        "ChildDeathCount": 0,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 67,
+        "EventName": "AFG1559",
+        "InjuredCount": 5,
+        "Latitude": 32.8129681,
+        "Location": "Uruzgan",
+        "Longitude": 66.0183185,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-02",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:38.000Z",
+        "airtable_id": "recLYyIu69HYymI2V"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 126,
+        "EventName": "AFG0028",
+        "Latitude": 33.78392,
+        "Location": "Khas Khar",
+        "Longitude": 68.43477,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-05-07",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:12.000Z",
+        "airtable_id": "recLiNONKWoZF5glJ"
+    },
+    {
+        "CivilianDeathCount": 12,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-03-02",
+        "EventID": 16,
+        "EventName": "Dead bodies lie in the streets of the Greek village of Sartana",
+        "InjuredCount": 4,
+        "Latitude": 47.1701321,
+        "Location": "Sartana",
+        "Longitude": 37.6952892,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://neoskosmos.com/en/2022/03/02/news/world/dead-bodies-lie-in-the-streets-of-the-greek-village-of-sartana-dragged-by-dogs/",
+        "SourceB": "https://geopolitiki.com/ukraine-greek-minority-village-of-sartana/",
+        "StartDate": "2022-02-26",
+        "Tags": [
+            "Invasion",
+            "Bombing"
+        ],
+        "airtable_createdTime": "2022-09-15T07:28:54.000Z",
+        "airtable_id": "recN57z43rm9T86S0"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 102,
+        "EventName": "AFG0036",
+        "Latitude": 33.929914,
+        "Location": "Baraki Barak",
+        "Longitude": 68.885233,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-05-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:56.000Z",
+        "airtable_id": "recNAE68estbCOV6h"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 139,
+        "EventName": "AFG0718",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Notes": "Two buildings, two tactical units and one staging area",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:19.000Z",
+        "airtable_id": "recNZPK9jxNOnmlzM"
+    },
+    {
+        "CivilianDeathCount": 767,
+        "Country": "Ethiopia",
+        "CountryID": "ET",
+        "CountryTable": [
+            "rec2BPy1GRTgEHyxk"
+        ],
+        "EventID": 3,
+        "EventName": " Tigray Massacre",
+        "Latitude": 10.2116702,
+        "Location": "REDO COORDINATES",
+        "Longitude": 38.6521203,
+        "Notes": "Look into other Tigray events",
+        "Perpetrator": "Samri and other Tigrayan civilians, police and militia",
+        "SourceA": "https://www.washingtonpost.com/world/africa/ethiopia-tigray-mai-kadra-massacre/2020/11/24/2fcb4218-2e76-11eb-9dd6-2d0179981719_story.html",
+        "SourceB": "https://www.reuters.com/investigates/special-report/ethiopia-conflict-expulsions/",
+        "StartDate": "2020-11-09",
+        "Tags": [
+            "EthnicCleansing"
+        ],
+        "airtable_createdTime": "2022-09-06T03:34:35.000Z",
+        "airtable_id": "recOAcgdesjMQs21b"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 78,
+        "EventName": "AFG0889",
+        "InjuredCount": 1,
+        "Latitude": 33.966526206148494,
+        "Location": "Zaza Aryoob",
+        "Longitude": 69.80944563985746,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:56.000Z",
+        "airtable_id": "recOXbEPgWXTAhw5r"
+    },
+    {
+        "CivilianDeathCount": 40,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 47,
+        "EventName": "AFG3042",
+        "Latitude": 32.4571676,
+        "Location": "Musa Qala",
+        "Longitude": 64.7300131,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:50.000Z",
+        "airtable_id": "recOj0em8iOcPWi8M"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 71,
+        "EventName": "AFG3676",
+        "InjuredCount": 5,
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:46.000Z",
+        "airtable_id": "recOkXTdPr8bfLxJn"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 15,
+        "EventName": "Journalist shot dead and first responders burned to death in ambulance",
+        "InjuredCount": 1,
+        "Latitude": 46.5421715,
+        "Location": "Kherson",
+        "Longitude": 33.4079326,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326302/",
+        "SourceB": "https://www.ukrinform.net/rubric-ato/3414210-journalist-shot-dead-by-russian-occupiers-in-kherson-region.html",
+        "StartDate": "2022-02-26",
+        "Tags": [
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T07:15:49.000Z",
+        "airtable_id": "recPUfkZj6BRaoc4l"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 14,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 62,
+        "EventName": "AFG1511",
+        "InjuredCount": 6,
+        "Latitude": 36.33044,
+        "Location": "Gul Tepa",
+        "Longitude": 65.89484,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:44:53.000Z",
+        "airtable_id": "recPqGr6jdI6ouqCT"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 17,
+        "EventName": "Two teachers dead in attack on school",
+        "Latitude": 48.3058686,
+        "Location": "Gorlovka",
+        "Longitude": 38.0027664,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://tass.com/politics/1410695",
+        "SourceB": "https://www.express.co.uk/news/world/1573271/russia-ukraine-news-vladimir-putin-kyv-invasion-world-war-3",
+        "StartDate": "2022-02-25",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-15T07:40:05.000Z",
+        "airtable_id": "recPyCH2CU1CMKRU6"
+    },
+    {
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 5,
+        "EventName": "Mariupol theater airstrike",
+        "Latitude": 47.0957648,
+        "Location": "Mariupol",
+        "Longitude": 37.5499621,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://apnews.com/article/Russia-ukraine-war-mariupol-theater-c321a196fbd568899841b506afcac7a1",
+        "airtable_createdTime": "2022-09-08T06:05:14.000Z",
+        "airtable_id": "recQ1Z6nDG5MffYqW"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 101,
+        "EventName": "AFG2438",
+        "Latitude": 35.10459899902344,
+        "Location": "Badghis",
+        "Longitude": 63.523677825927734,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-27",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:22.000Z",
+        "airtable_id": "recQTHPBexaQRoUKP"
+    },
+    {
+        "CivilianDeathCount": 15,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 58,
+        "EventName": "AFG0269",
+        "InjuredCount": 27,
+        "Latitude": 34.0454314,
+        "Location": "Achin",
+        "Longitude": 70.6692329,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-09-28",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:44:50.000Z",
+        "airtable_id": "recQWSl48uvbb1iYF"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-09-09",
+        "EventID": 23,
+        "EventName": "Two bodies with signs of torture found in Grakovo village",
+        "Latitude": 49.630051,
+        "Location": "Grakovo",
+        "Longitude": 35.3825,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.straitstimes.com/world/europe/explosions-everywhere-as-ukraine-forces-recapture-village",
+        "SourceB": "https://www.france24.com/en/live-news/20220910-explosions-everywhere-as-ukraine-forces-recapture-village",
+        "StartDate": "2022-09-07",
+        "Tags": [
+            "Torture",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-27T20:29:33.000Z",
+        "airtable_id": "recQdvHYpNvSHL5Uv"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 117,
+        "EventName": "AFG0505",
+        "Latitude": 32.3068942,
+        "Location": "Zabul",
+        "Longitude": 67.129904,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-08-26",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:06.000Z",
+        "airtable_id": "recR2kVwd7EChZ3LG"
+    },
+    {
+        "ChildDeathCount": 7,
+        "CivilianDeathCount": 14,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 61,
+        "EventName": "AFG0496",
+        "InjuredCount": 2,
+        "Latitude": 36.60552370544224,
+        "Location": "Chardara",
+        "Longitude": 68.72015309005414,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-07-19",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:44:52.000Z",
+        "airtable_id": "recRXNLYyBzK16nWa"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 89,
+        "EventName": "AFG3112",
+        "Latitude": 33.3149631,
+        "Location": "Ghazni",
+        "Longitude": 67.828989,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:12.000Z",
+        "airtable_id": "recT5B5M9rX0UbFFR"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 94,
+        "EventName": "AFG0250",
+        "InjuredCount": 25,
+        "Latitude": 32.68904231709581,
+        "Location": "Khoshamand",
+        "Longitude": 68.2375907321961,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-08-12",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:16.000Z",
+        "airtable_id": "recTWZ4FQw5PXgWGQ"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 99,
+        "EventName": "AFG0279",
+        "InjuredCount": 30,
+        "Latitude": 34.1943181,
+        "Location": "Sherzad",
+        "Longitude": 69.9864068,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-10-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:20.000Z",
+        "airtable_id": "recTdoRlyBzngcBEk"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 111,
+        "EventName": "AFG3779",
+        "Latitude": 34.3191345,
+        "Location": "Wardak",
+        "Longitude": 68.3360426,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-12-06",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:03.000Z",
+        "airtable_id": "recTso91Dyzu1Lr6U"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 134,
+        "EventName": "AFG0451",
+        "Latitude": 34.95,
+        "Location": "Kunar",
+        "Longitude": 71.133333,
+        "Notes": "Training camp",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-07",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:16.000Z",
+        "airtable_id": "recU4TVmZ2oCGEPHW"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 8,
+        "EventName": "Ukrainian cyclist hit by missile",
+        "Latitude": 48.7497621,
+        "Location": "Uman",
+        "Longitude": 30.2203052,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.mirror.co.uk/news/world-news/cyclist-seen-being-hit-explosive-26318197",
+        "SourceB": "https://www.dailystar.co.uk/news/world-news/horror-moment-ukrainian-cyclist-hit-26318118",
+        "StartDate": "2022-02-24",
+        "Tags": [
+            "ProjectileStrike",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T04:15:54.000Z",
+        "airtable_id": "recUlOqTuToOq1lhP"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 95,
+        "EventName": "AFG0670",
+        "InjuredCount": 4,
+        "Latitude": 34.783333,
+        "Location": "Laghman",
+        "Longitude": 70.183333,
+        "Notes": "Four caves including weapons caches",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-02",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:17.000Z",
+        "airtable_id": "recXAkITJF4JpCfYx"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 105,
+        "EventName": "AFG0455",
+        "InjuredCount": 1,
+        "Latitude": 34.95,
+        "Location": "Kunar",
+        "Longitude": 71.133333,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:58.000Z",
+        "airtable_id": "recXKfpJ67XXvtE2r"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 37,
+        "EventName": "Two civilians killed in burning car after Russian airstrikes on residential area",
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://apnews.com/article/russia-ukraine-putin-kyiv-business-europe-f0e1cd893715eda1e6bef696d9c47db3",
+        "StartDate": "2023-04-21",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:11.000Z",
+        "airtable_id": "recXeCUTS7DoPythl"
+    },
+    {
+        "ChildDeathCount": 12,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 64,
+        "EventName": "AFG1069",
+        "InjuredCount": 18,
+        "Latitude": 35.036301,
+        "Location": "Sheltan",
+        "Longitude": 71.225047,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-12-14",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:47.000Z",
+        "airtable_id": "recY8Yipjg1PyjTxU"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 141,
+        "EventName": "AFG1447",
+        "Latitude": 36.72895,
+        "Location": "Kunduz City",
+        "Longitude": 68.857,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:21.000Z",
+        "airtable_id": "recYm1NOAx1qwXN7T"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 131,
+        "EventName": "AFG0435",
+        "InjuredCount": 1,
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-01-03",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:14.000Z",
+        "airtable_id": "recb4V8jESXwy7gIY"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 118,
+        "EventName": "AFG0653",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Notes": "One structure, motorcycle, tactical unit",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-29",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:07.000Z",
+        "airtable_id": "recbVgIrrmf6yU8eh"
+    },
+    {
+        "CivilianDeathCount": 21,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 53,
+        "EventName": "AFG0183",
+        "Latitude": 32.38889,
+        "Location": "Gomal",
+        "Longitude": 68.946651,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-04-07",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:23.000Z",
+        "airtable_id": "recc9weLh0Q2aysxq"
+    },
+    {
+        "CivilianDeathCount": 9,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 73,
+        "EventName": "AFG2398",
+        "InjuredCount": 6,
+        "Latitude": 34.0653595,
+        "Location": "Logar",
+        "Longitude": 69.160172,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-07-22",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:47.000Z",
+        "airtable_id": "reccO2rhplGbdj7wX"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 19,
+        "EventName": "6-year-old girl killed in Russian shelling",
+        "Latitude": 47.0957648,
+        "Location": "Mariupol",
+        "Longitude": 37.5499621,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.businessinsider.com/6-year-old-ukrainian-girl-was-killed-russian-shelling-report-2022-2",
+        "SourceB": "https://www.nydailynews.com/news/ny-ukraine-shelling-hospital-20220228-47df3lwex5bknonnvohinptjau-story.html",
+        "SourceC": "https://www.independent.co.uk/news/world/europe/russia-ukraine-girl-killed-shelling-b2024832.html",
+        "StartDate": "2022-02-27",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-15T07:50:45.000Z",
+        "airtable_id": "reccU1r7dla6mdHTP"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 42,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 46,
+        "EventName": "AFG0105",
+        "InjuredCount": 27,
+        "Latitude": 36.72895,
+        "Location": "Kunduz city",
+        "Longitude": 68.857,
+        "Notes": "MSF Hospital",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-10-03",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:06:47.000Z",
+        "airtable_id": "reccbilL9jMB1Q8QU"
+    },
+    {
+        "CivilianDeathCount": 8,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-08-04",
+        "EventID": 28,
+        "EventName": "8 killed after Russian shelling on bus stop in Toretsk",
+        "InjuredCount": 4,
+        "Latitude": 48.3970469,
+        "Location": "Toretsk",
+        "Longitude": 37.8501378,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.reuters.com/world/europe/russian-shelling-kills-eight-eastern-town-toretsk-ukrainian-governor-2022-08-04/",
+        "SourceB": "https://www.dailysabah.com/world/europe/russian-shelling-kills-8-in-eastern-ukraine-town-of-toretsk",
+        "StartDate": "2022-08-04",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-28T20:16:07.000Z",
+        "airtable_id": "recdlhfORQuDvaKir"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 132,
+        "EventName": "AFG0446",
+        "InjuredCount": 1,
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-02-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:15.000Z",
+        "airtable_id": "recdy8W71UTakWpEm"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 125,
+        "EventName": "AFG0015",
+        "Latitude": 33.4658,
+        "Location": "Alishir",
+        "Longitude": 70.0911,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-03-02",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:11.000Z",
+        "airtable_id": "receAkNPlZgXj3XFD"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 86,
+        "EventName": "AFG1796",
+        "Latitude": 32.8129681,
+        "Location": "Uruzgan",
+        "Longitude": 66.0183185,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:09.000Z",
+        "airtable_id": "receQCdB0bNGxJT1P"
+    },
+    {
+        "ChildDeathCount": 9,
+        "CivilianDeathCount": 12,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 69,
+        "EventName": "AFG1455",
+        "Latitude": 34.279479,
+        "Location": "Hesarak",
+        "Longitude": 69.768717,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-09",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:40.000Z",
+        "airtable_id": "receexjRw3uKfTDaP"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 13,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 63,
+        "EventName": "AFG0389",
+        "InjuredCount": 12,
+        "Latitude": 34.000217122548996,
+        "Location": "Pul e 'Alam",
+        "Longitude": 69.01863594512659,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-08-30",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:16:47.000Z",
+        "airtable_id": "receg0SHEogGEhWfi"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 98,
+        "EventName": "AFG4144",
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2020-02-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:19.000Z",
+        "airtable_id": "recfDDhNilBL842Tt"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 43,
+        "EventName": "Bodies with signs of torture found in cellar",
+        "Latitude": 49.2160489,
+        "Location": "Izyum",
+        "Longitude": 37.3015645,
+        "Notes": "Bodies had signs of torture and were set on fire.",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://atalayar.com/en/content/who-behind-bucha-crimes",
+        "StartDate": "2022-04-07",
+        "Tags": [
+            "Invasion",
+            "Torture"
+        ],
+        "airtable_createdTime": "2022-09-29T19:03:51.000Z",
+        "airtable_id": "recfvkYKLN6LKAV6Y"
+    },
+    {
+        "CivilianDeathCount": 10,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-09-11",
+        "EventID": 22,
+        "EventName": "Russian shelling on residential buildings",
+        "InjuredCount": 19,
+        "Latitude": 47.9212914,
+        "Location": "Donetsk Oblast",
+        "Longitude": 37.7809825,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://sports.yahoo.com/10-civilians-killed-19-injured-085600729.html",
+        "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
+        "StartDate": "2022-09-11",
+        "Tags": [
+            "Shelling",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-27T20:19:46.000Z",
+        "airtable_id": "recg0yq3ZzZXCkgT0"
+    },
+    {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 21,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 55,
+        "EventName": "AFG1344",
+        "InjuredCount": 6,
+        "Latitude": 32.123611,
+        "Location": "Sangin",
+        "Longitude": 64.996532,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-02-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:24.000Z",
+        "airtable_id": "recgsydSKItDuqfQg"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 23,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 52,
+        "EventName": "AFG0981",
+        "InjuredCount": 3,
+        "Latitude": 30.8523271,
+        "Location": "Garmsir",
+        "Longitude": 64.1717674,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-27",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:22.000Z",
+        "airtable_id": "recgueoVztMaTw6sF"
+    },
+    {
+        "CivilianDeathCount": 8,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 76,
+        "EventName": "AFG0624",
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-09-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:20:54.000Z",
+        "airtable_id": "recgzfdfZvXJxewuO"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 13,
+        "EventName": "Civilians killed in Maryanivka",
+        "InjuredCount": 15,
+        "Latitude": 48.718899,
+        "Location": "Maryanivka",
+        "Longitude": 35.21225,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
+        "StartDate": "2022-02-25",
+        "Tags": [
+            "ProjectileStrike",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T06:59:21.000Z",
+        "airtable_id": "rechTRhh9mmBrtYK9"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 7,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 81,
+        "EventName": "AFG4105",
+        "Latitude": 36.8707187,
+        "Location": "Kunduz",
+        "Longitude": 68.7563528,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2020-01-30",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:00.000Z",
+        "airtable_id": "recheXHVRUjG2X17F"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 91,
+        "EventName": "AFG3862",
+        "Latitude": 34.905556,
+        "Location": "Kapisa",
+        "Longitude": 69.741667,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-12-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:13.000Z",
+        "airtable_id": "reciHaVV7OObVHrFG"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 136,
+        "EventName": "AFG0471",
+        "Latitude": 34.3191345,
+        "Location": "Wardak",
+        "Longitude": 68.3360426,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-05-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:17.000Z",
+        "airtable_id": "reciqWKMKmbMmQung"
+    },
+    {
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 6,
+        "EventName": "Attacks on Chernihiv apartment buildings",
+        "Latitude": 51.272593,
+        "Location": "Chernihiv",
+        "Longitude": 31.7417235,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
+        "airtable_createdTime": "2022-09-08T06:09:28.000Z",
+        "airtable_id": "recjDuyoIVkj78GbI"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 5,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 97,
+        "EventName": "AFG1517",
+        "Latitude": 34.6278463,
+        "Location": "Surobi",
+        "Longitude": 69.7177027,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-03-25",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:18.000Z",
+        "airtable_id": "recjELX16nWt0oQvk"
+    },
+    {
+        "ChildDeathCount": 20,
+        "CivilianDeathCount": 33,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 48,
+        "EventName": "AFG0284",
+        "InjuredCount": 62,
+        "Latitude": 36.72895,
+        "Location": "Kunduz city",
+        "Longitude": 68.857,
+        "Notes": "Early morning. Civilian houses",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2016-11-03",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "recjnbDciSpwpRZ8j"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 115,
+        "EventName": "AFG0434",
+        "InjuredCount": 4,
+        "Latitude": 34.220389,
+        "Location": "Nangarhar",
+        "Longitude": 70.3800314,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-01-01",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:05.000Z",
+        "airtable_id": "reck2B5piZK26YWKv"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 133,
+        "EventName": "AFG0448",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-02-16",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:15.000Z",
+        "airtable_id": "reclTD4TK073Gp8Ar"
+    },
+    {
+        "CivilianDeathCount": 30,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 49,
+        "EventName": "AFG3016",
+        "InjuredCount": 40,
+        "Latitude": 33.559046,
+        "Location": "Khogyani",
+        "Longitude": 68.298941,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-09-19",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:21.000Z",
+        "airtable_id": "reclbEdnytY2Cmnlv"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 41,
+        "EventName": "Shelling of a residential area kills at least 7",
+        "InjuredCount": 34,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Notes": "7-month-old and 15-year-old among those killed.",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.ocregister.com/2022/04/15/police-more-than-900-civilian-bodies-found-in-kyiv-region/",
+        "StartDate": "2022-04-15",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T05:02:19.000Z",
+        "airtable_id": "recmeriz8N2FsYbPI"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 130,
+        "EventName": "AFG0364",
+        "Latitude": 33.436035,
+        "Location": "Zurmat",
+        "Longitude": 69.0323827,
+        "Notes": "Hit during a clash between ANSF and Taliban",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-07-08",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:14.000Z",
+        "airtable_id": "recn1FoyWlVRb44fZ"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 18,
+        "EventName": "Three people died during a shelling of a private house",
+        "Latitude": 50.64398193359375,
+        "Location": "Borodyanka",
+        "Longitude": 29.894670486450195,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://hindustannewshub.com/russia-ukraine-news/in-borodyanka-three-people-died-during-a-shelling-of-a-residential-building/",
+        "SourceB": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
+        "StartDate": "2022-02-26",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-15T07:45:53.000Z",
+        "airtable_id": "recn7GzlleR1tZidP"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 12,
+        "EventName": "Shelling kills one, injures three at Kharkiv blood bank",
+        "InjuredCount": 3,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.africanews.com/2022/02/27/kharkiv-blood-donation-centre-hit-by-shelling/",
+        "StartDate": "2022-02-25",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-15T05:13:49.000Z",
+        "airtable_id": "recoQf3eliRtW9lM3"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 35,
+        "EventName": "Attack on residential building kills two children",
+        "Latitude": 48.9801314,
+        "Location": "Lyman",
+        "Longitude": 37.8168012,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.knkx.org/2022-04-26/photos-russian-missiles-strike-kyiv-as-battle-slows-down-in-eastern-ukraine",
+        "StartDate": "2022-04-25",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-29T03:56:07.000Z",
+        "airtable_id": "recohWbaV1DdFAFhQ"
+    },
+    {
+        "CivilianDeathCount": 7,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-08-10",
+        "EventID": 27,
+        "EventName": "Seven killed in Russian shelling in Bakhmut",
+        "InjuredCount": 6,
+        "Latitude": 48.5894123,
+        "Location": "Bakhmut",
+        "Longitude": 38.0020994,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.nytimes.com/2022/08/11/world/europe/ukraine-war-frontline.html",
+        "SourceB": "https://www.ukrinform.net/rubric-ato/3547712-7-killed-6-injured-in-russias-attack-on-bakhmut.html#:~:text=Law%20enforcement%20officers%20have%20opened,killed%20and%20six%20more%20injured.",
+        "StartDate": "2022-08-10",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T21:26:43.000Z",
+        "airtable_id": "recozbG15EPYj2bRh"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 116,
+        "EventName": "AFG0498",
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-07-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:06.000Z",
+        "airtable_id": "recpFZHT5q28nCOqq"
+    },
+    {
+        "ChildDeathCount": 19,
+        "CivilianDeathCount": 26,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 51,
+        "EventName": "AFG0315",
+        "InjuredCount": 6,
+        "Latitude": 32.123611,
+        "Location": "Sangin",
+        "Longitude": 64.996532,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-02-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:22.000Z",
+        "airtable_id": "recpTf8ujVyNiPAWL"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 120,
+        "EventName": "AFG0974",
+        "Latitude": 34.905556,
+        "Location": "Kapisa",
+        "Longitude": 69.741667,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-26",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:08.000Z",
+        "airtable_id": "recpqrPN3EUend0Bl"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 83,
+        "EventName": "AFG1171",
+        "Latitude": 33.436035,
+        "Location": "Zurmat",
+        "Longitude": 69.0323827,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-12-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:02.000Z",
+        "airtable_id": "recqCCstdoeZjIa9F"
+    },
+    {
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 85,
+        "EventName": "AFG1623",
+        "InjuredCount": 88,
+        "Latitude": 36.8707187,
+        "Location": "Kunduz",
+        "Longitude": 68.7563528,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-04-13",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:07.000Z",
+        "airtable_id": "recqcYH6w4r26O290"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 10,
+        "EventName": "Russian Cluster Munition Hits Hospital",
+        "InjuredCount": 10,
+        "Latitude": 47.7805058,
+        "Location": "Vuhledar",
+        "Longitude": 37.2484374,
+        "Notes": "Used cluster munitions which is a war crime in it of itself",
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital",
+        "SourceB": "https://www.emergency-live.com/news/ukraine-russian-bombardment-hits-hospital-four-dead-and-ten-wounded-martial-law-in-force/",
+        "StartDate": "2022-02-24",
+        "Tags": [
+            "Invasion",
+            "BannedWeaponry",
+            "Bombing"
+        ],
+        "airtable_createdTime": "2022-09-15T04:47:22.000Z",
+        "airtable_id": "recqhogtitQanF3DP"
+    },
+    {
+        "CivilianDeathCount": 64,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 44,
+        "EventName": "AFG1763",
+        "InjuredCount": 52,
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-05-05",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T06:13:43.000Z",
+        "airtable_id": "recqrsh92HNw0ZgWV"
+    },
+    {
+        "CivilianDeathCount": 4,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-08-30",
+        "EventID": 25,
+        "EventName": "Four people killed in shelling of Kharkiv residential area",
+        "InjuredCount": 7,
+        "Latitude": 49.9923181,
+        "Location": "Kharkiv",
+        "Longitude": 36.2310146,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.anews.com.tr/world/2022/08/30/at-least-four-killed-in-russian-shelling-of-ukraines-city-of-kharkiv-governor-says",
+        "SourceB": "https://uk.movies.yahoo.com/kharkiv-least-four-killed-russian-103410103.html",
+        "StartDate": "2022-08-30",
+        "Tags": [
+            "Invasion",
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-09-27T21:00:01.000Z",
+        "airtable_id": "recr8rf7S8aNuUx1L"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 138,
+        "EventName": "AFG0491",
+        "Latitude": 32.607111,
+        "Location": "Farah",
+        "Longitude": 62.671011,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-06-30",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:19.000Z",
+        "airtable_id": "recrLxqJIUEeHyXKT"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 11,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 70,
+        "EventName": "AFG0494",
+        "Latitude": 33.436035,
+        "Location": "Zurmat",
+        "Longitude": 69.0323827,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-07-12",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:19:41.000Z",
+        "airtable_id": "recrgYV8M59Ui2wg9"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 104,
+        "EventName": "AFG0331",
+        "InjuredCount": 4,
+        "Latitude": 34.0454314,
+        "Location": "Achin",
+        "Longitude": 70.6692329,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-04-04",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:58.000Z",
+        "airtable_id": "recrn584KuGSSfH0n"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 106,
+        "EventName": "AFG0502",
+        "InjuredCount": 7,
+        "Latitude": 31.6434234,
+        "Location": "Nad Ali",
+        "Longitude": 64.237812,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-08-16",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:00.000Z",
+        "airtable_id": "recsIzTftfFJahxI2"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 107,
+        "EventName": "AFG0789",
+        "Latitude": 34.95,
+        "Location": "Kunar",
+        "Longitude": 71.133333,
+        "Notes": "Two buildings, two rocket systems, one weapons cache and one fighting position",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-10-20",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:00.000Z",
+        "airtable_id": "recsSndR35t3PZGEN"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 127,
+        "EventName": "AFG0039",
+        "Latitude": 34.27638474242447,
+        "Location": "Chapahar",
+        "Longitude": 70.36046796803355,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2015-06-04",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:12.000Z",
+        "airtable_id": "rectGNvyUmjO022ZP"
+    },
+    {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 6,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 90,
+        "EventName": "AFG3533",
+        "Latitude": 35.10459899902344,
+        "Location": "Badghis",
+        "Longitude": 63.523677825927734,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-11-07",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:21:13.000Z",
+        "airtable_id": "recuNvafbNE8LSDtp"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 140,
+        "EventName": "AFG0987",
+        "InjuredCount": 2,
+        "Latitude": 31.18504524230957,
+        "Location": "Helmand",
+        "Longitude": 64.16021728515625,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-28",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:20.000Z",
+        "airtable_id": "recuuGTeMtiaaURGL"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 20,
+        "EventName": "Vadim Shishimarin kills 62 year old unarmed Ukrainian man",
+        "Latitude": 50.379852,
+        "Location": "Chupakhivka",
+        "Longitude": 34.584534,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.washingtonpost.com/world/2022/05/23/ukraine-russia-soldier-war-crimes-verdict/",
+        "SourceB": "https://www.bbc.com/news/world-europe-61549569",
+        "SourceC": "https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial",
+        "StartDate": "2022-02-28",
+        "Tags": [
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-15T07:51:16.000Z",
+        "airtable_id": "recvMv7BCFngguOSw"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EndDate": "2022-08-31",
+        "EventID": 24,
+        "EventName": "Civilian tortured, executed by Russian troops",
+        "Latitude": 50.67502,
+        "Location": "Zdvyzhivka",
+        "Longitude": 30.06642,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://www.pravda.com.ua/eng/news/2022/09/1/7365702/",
+        "SourceB": "https://finance.yahoo.com/news/body-another-man-tortured-murdered-184800930.html",
+        "StartDate": "2022-08-31",
+        "Tags": [
+            "Torture",
+            "Invasion"
+        ],
+        "airtable_createdTime": "2022-09-27T20:48:49.000Z",
+        "airtable_id": "recvdyip9uYiZ37e8"
+    },
+    {
+        "CivilianDeathCount": 3,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 108,
+        "EventName": "AFG0934",
+        "Latitude": 34.783333,
+        "Location": "Laghman",
+        "Longitude": 70.183333,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-19",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:01.000Z",
+        "airtable_id": "recvk10Mr5OWVDQsw"
+    },
+    {
+        "ChildDeathCount": 0,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 124,
+        "EventName": "AFG2526",
+        "InjuredCount": 10,
+        "Latitude": 36.03603744506836,
+        "Location": "Faryab",
+        "Longitude": 64.89441680908203,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2019-08-04",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:10.000Z",
+        "airtable_id": "recvwct34UpkYWC6t"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 135,
+        "EventName": "AFG0462",
+        "Latitude": 34.3508273,
+        "Location": "Herat",
+        "Longitude": 62.2164003,
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-03-31",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:17.000Z",
+        "airtable_id": "recwh4KT2q2pHXfKk"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 16,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 56,
+        "EventName": "AFG0381",
+        "InjuredCount": 3,
+        "Latitude": 34.116985,
+        "Location": "Haska Mena",
+        "Longitude": 70.461125,
+        "Notes": "Vehicle",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2017-08-10",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-02T07:08:25.000Z",
+        "airtable_id": "recxrGKO37laY4LOD"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 22,
+        "Country": "Ukraine",
+        "CountryID": "UA",
+        "CountryTable": [
+            "recYV9FOGTfp2C8TR"
+        ],
+        "EventID": 2,
+        "EventName": "Independence Day attack on Ukraine's train system",
+        "InjuredCount": 50,
+        "Latitude": 48.12836,
+        "Location": "Chaplyne",
+        "Longitude": 36.22673,
+        "Perpetrator": "Russia",
+        "PerpetratorID": "RU",
+        "SourceA": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-3507728aeaf8ebfc68a1cdbd3aa8c30e",
+        "SourceB": "https://apnews.com/article/russia-ukraine-war-crimes-government-and-politics-0abd99fd89a62042287341e88758d32f",
+        "StartDate": "2022-08-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-09-06T03:10:39.000Z",
+        "airtable_id": "recz5x2SuilaF4Ccv"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 2,
+        "Country": "Afghanistan",
+        "CountryID": "AF",
+        "CountryTable": [
+            "recU6zcKTJxGA3GEL"
+        ],
+        "EventID": 119,
+        "EventName": "AFG0959",
+        "InjuredCount": 13,
+        "Latitude": 31.6434234,
+        "Location": "Nad Ali",
+        "Longitude": 64.237812,
+        "Notes": "House",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
+        "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
+        "StartDate": "2018-11-24",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-05T07:22:08.000Z",
+        "airtable_id": "recz6MTZ4jj1Gxzyj"
+    }
+]
