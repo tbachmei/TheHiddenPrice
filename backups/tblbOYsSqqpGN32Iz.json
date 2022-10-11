@@ -509,6 +509,28 @@
         "airtable_id": "rec5cmUprQh8yV49d"
     },
     {
+        "ChildDeathCount": 22,
+        "CivilianDeathCount": 137,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 143,
+        "EventName": "Airstrike on a house in West Mosul\u2019s al Jadida area",
+        "InjuredCount": 6,
+        "Location": "Mosul",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci550-march-17-2017/",
+        "StartDate": "2017-03-17",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-11T05:12:21.000Z",
+        "airtable_id": "rec6JdRwPZckhYZcD"
+    },
+    {
         "AbductedCount": 5,
         "CivilianDeathCount": 9,
         "Country": "Ukraine",

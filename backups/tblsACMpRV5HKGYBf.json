@@ -1446,10 +1446,11 @@
         "Country": "Iraq",
         "CountryID": "IQ",
         "LinkedRecords": [
-            "recBUyajm43Nyuk49"
+            "recBUyajm43Nyuk49",
+            "rec6JdRwPZckhYZcD"
         ],
-        "RecordCount": 1,
-        "TotalDeaths": 3,
+        "RecordCount": 2,
+        "TotalDeaths": 140,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
