@@ -522,12 +522,12 @@
         "Latitude": 36.34,
         "Location": "Mosul",
         "Longitude": 43.130001,
-        "Perpetrator": "United States",
+        "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
         "SourceA": "https://airwars.org/civilian-casualties/ci550-march-17-2017/",
         "StartDate": "2017-03-17",
         "Tags": [
-            "ProjectileStrike"
+            "Shelling"
         ],
         "airtable_createdTime": "2022-10-11T05:12:21.000Z",
         "airtable_id": "rec6JdRwPZckhYZcD"
@@ -556,6 +556,27 @@
         ],
         "airtable_createdTime": "2022-09-15T04:09:43.000Z",
         "airtable_id": "rec6M2SVFjdp1qUvy"
+    },
+    {
+        "CivilianDeathCount": 2,
+        "Country": "Israel",
+        "CountryID": "IL",
+        "CountryTable": [
+            "recmfqqMTbEuQSWAg"
+        ],
+        "EventID": 145,
+        "EventName": "Rocket reportedly fired by the Al-Qassam Brigades struck an agricultural packaging plant.",
+        "InjuredCount": 20,
+        "Location": "Ohad",
+        "Perpetrator": "Palestinian Militants",
+        "PerpetratorID": "PS",
+        "SourceA": "https://airwars.org/civilian-casualties/palis028-may-18-2021/",
+        "StartDate": "2021-05-18",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T20:09:22.000Z",
+        "airtable_id": "rec6mXPJugDmxsH25"
     },
     {
         "CivilianDeathCount": 21,
@@ -924,6 +945,28 @@
         "airtable_id": "recCvRBVTdokCNaZY"
     },
     {
+        "ChildDeathCount": 26,
+        "CivilianDeathCount": 70,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 144,
+        "EventName": "Airstrike on an Islamic State depot levelled a significant number of buildings",
+        "InjuredCount": 80,
+        "Location": "Hawija",
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci070-june-3-2015/",
+        "StartDate": "2015-06-03",
+        "Tags": [
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-10-13T20:00:29.000Z",
+        "airtable_id": "recCzbGJEHbVwE1qH"
+    },
+    {
         "CivilianDeathCount": 2,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -1174,6 +1217,27 @@
         ],
         "airtable_createdTime": "2022-10-05T07:21:04.000Z",
         "airtable_id": "recHreU3VZhQIIggY"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Israel",
+        "CountryID": "IL",
+        "CountryTable": [
+            "recmfqqMTbEuQSWAg"
+        ],
+        "EventID": 146,
+        "EventName": "Rocket fired from Gaza struck the Ramat Gan neighbourhood of Tel Aviv in the early afternoon on May 15th, 2021",
+        "InjuredCount": 6,
+        "Location": "Ramat Gan",
+        "Perpetrator": "Palestinian Militants",
+        "PerpetratorID": "PS",
+        "SourceA": "https://airwars.org/civilian-casualties/palis024-may-15-2021/",
+        "StartDate": "2021-05-15",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T20:09:23.000Z",
+        "airtable_id": "recIF9EVMlz1eaMzK"
     },
     {
         "CivilianDeathCount": 13,
@@ -3480,5 +3544,10 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:08.000Z",
         "airtable_id": "recz6MTZ4jj1Gxzyj"
+    },
+    {
+        "EventID": 147,
+        "airtable_createdTime": "2022-10-13T20:22:52.000Z",
+        "airtable_id": "reczgg4eXaHWWZJGn"
     }
 ]

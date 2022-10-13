@@ -1776,11 +1776,12 @@
         "CountryTableHiddenID": "recdUBhXBZVyiwNjT",
         "LinkedRecords": [
             "recBUyajm43Nyuk49",
-            "rec6JdRwPZckhYZcD"
+            "rec6JdRwPZckhYZcD",
+            "recCzbGJEHbVwE1qH"
         ],
         "MapID": "[display-map id=\"62\"]",
-        "RecordCount": 2,
-        "TotalDeaths": 140,
+        "RecordCount": 3,
+        "TotalDeaths": 210,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
@@ -2158,9 +2159,13 @@
         "ContentURL": "https://thehiddenprice.com/IL",
         "Country": "Israel",
         "CountryID": "IL",
+        "LinkedRecords": [
+            "rec6mXPJugDmxsH25",
+            "recIF9EVMlz1eaMzK"
+        ],
         "MapID": "[su_note note_color=\"#f7f7c8\"]There are currently no entries for this country, but you can change that![/su_note]",
-        "RecordCount": 0,
-        "TotalDeaths": 0,
+        "RecordCount": 2,
+        "TotalDeaths": 3,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recmfqqMTbEuQSWAg"
     },
