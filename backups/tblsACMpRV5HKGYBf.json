@@ -75,6 +75,7 @@
         "ContentURL": "https://thehiddenprice.com/ET",
         "Country": "Ethiopia",
         "CountryID": "ET",
+        "CountryTableHiddenID": "rec2BPy1GRTgEHyxk",
         "LinkedRecords": [
             "recOAcgdesjMQs21b"
         ],
@@ -1005,6 +1006,7 @@
         "ContentURL": "https://thehiddenprice.com/AF",
         "Country": "Afghanistan",
         "CountryID": "AF",
+        "CountryTableHiddenID": "recU6zcKTJxGA3GEL",
         "LinkedRecords": [
             "recqrsh92HNw0ZgWV",
             "rec2gYqjXfvjFV7vu",
@@ -1313,6 +1315,7 @@
         "ContentURL": "https://thehiddenprice.com/UA",
         "Country": "Ukraine",
         "CountryID": "UA",
+        "CountryTableHiddenID": "recYV9FOGTfp2C8TR",
         "LinkedRecords": [
             "recz5x2SuilaF4Ccv",
             "recKQppAKmCXcIVzh",
@@ -1609,6 +1612,7 @@
         "ContentURL": "https://thehiddenprice.com/IQ",
         "Country": "Iraq",
         "CountryID": "IQ",
+        "CountryTableHiddenID": "recdUBhXBZVyiwNjT",
         "LinkedRecords": [
             "recBUyajm43Nyuk49",
             "rec6JdRwPZckhYZcD"
