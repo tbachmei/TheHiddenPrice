@@ -79,6 +79,7 @@
         "LinkedRecords": [
             "recOAcgdesjMQs21b"
         ],
+        "MapID": "[display-map id=\"63\"]",
         "RecordCount": 1,
         "TotalDeaths": 767,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
@@ -1108,6 +1109,7 @@
             "recYm1NOAx1qwXN7T",
             "rec5b61FL1KPeASn0"
         ],
+        "MapID": "[display-map id=\"60\"]",
         "RecordCount": 99,
         "TotalDeaths": 878,
         "airtable_createdTime": "2022-10-06T19:21:01.000Z",
@@ -1359,7 +1361,7 @@
             "recKYZRYM57gmFRiD",
             "recfvkYKLN6LKAV6Y"
         ],
-        "MapID": "[display-map id=\"33\"]",
+        "MapID": "[display-map id=\"61\"]",
         "RecordCount": 41,
         "TotalDeaths": 261,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
@@ -1617,6 +1619,7 @@
             "recBUyajm43Nyuk49",
             "rec6JdRwPZckhYZcD"
         ],
+        "MapID": "[display-map id=\"62\"]",
         "RecordCount": 2,
         "TotalDeaths": 140,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
