@@ -922,6 +922,28 @@
         "airtable_id": "recCfyw3MhIoWAFXU"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 2,
+        "Country": "Somalia",
+        "CountryID": "SO",
+        "CountryTable": [
+            "reccq3BjixSs3cDlS"
+        ],
+        "EventID": 152,
+        "EventName": "A father and young child were reported killed in a US airstrike on the al Shabaab-occupied town of Kunyo Barrow.",
+        "InjuredCount": 3,
+        "Location": "Kunya Barrow",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ussom195-c-february-23-2019/",
+        "StartDate": "2019-02-23",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T21:12:04.000Z",
+        "airtable_id": "recChC6qdHVDP7b6l"
+    },
+    {
         "CivilianDeathCount": 2,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -1313,6 +1335,28 @@
         ],
         "airtable_createdTime": "2022-10-05T07:19:48.000Z",
         "airtable_id": "recJ93YVHwESedyxL"
+    },
+    {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 1,
+        "Country": "Somalia",
+        "CountryID": "SO",
+        "CountryTable": [
+            "reccq3BjixSs3cDlS"
+        ],
+        "EventID": 151,
+        "EventName": "U.S. Africa Command conducted an airstrike targeting an al-Shabaab terrorist in the vicinity of Jilib, Somalia, Feb. 2.",
+        "InjuredCount": 3,
+        "Location": "Jilib",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ussom274-c-february-2-2020/",
+        "StartDate": "2020-02-02",
+        "Tags": [
+            "ProjectileStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T21:03:53.000Z",
+        "airtable_id": "recK2cxjDoCM5VmHc"
     },
     {
         "CivilianDeathCount": 3,
@@ -2307,6 +2351,27 @@
         "airtable_id": "recdlhfORQuDvaKir"
     },
     {
+        "ChildDeathCount": 3,
+        "CivilianDeathCount": 20,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": 148,
+        "EventName": "Airstrike struck Al-Baghouz camp on the night of March 13th.",
+        "Location": "Al-Baghouz",
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
+        "StartDate": "2019-03-13",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T20:32:07.000Z",
+        "airtable_id": "recdorKyyElzmTxw6"
+    },
+    {
         "CivilianDeathCount": 1,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -2500,6 +2565,26 @@
         ],
         "airtable_createdTime": "2022-09-27T20:19:46.000Z",
         "airtable_id": "recg0yq3ZzZXCkgT0"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Yemen",
+        "CountryID": "YE",
+        "CountryTable": [
+            "recfHOOJhdZOyMmis"
+        ],
+        "EventID": 149,
+        "EventName": "One civilian was killed by a US drone strike in the vicinity of Ja\u2019ar.",
+        "Location": "Al Bayda",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/usyemtr186-c-january-21-2019/",
+        "StartDate": "2019-01-21",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-13T20:32:09.000Z",
+        "airtable_id": "recgPAhobk3cG1dI5"
     },
     {
         "ChildDeathCount": 5,
@@ -3546,8 +3631,47 @@
         "airtable_id": "recz6MTZ4jj1Gxzyj"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 2,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
         "EventID": 147,
+        "EventName": "A child and a humanitarian worker were reported killed, in addition to two leaders from Al Qaeda affiliated Hurras Addin group",
+        "InjuredCount": 5,
+        "Location": "Arab Sa\u2019eed",
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
+        "StartDate": "2020-10-15",
+        "Tags": [
+            "DroneStrike"
+        ],
         "airtable_createdTime": "2022-10-13T20:22:52.000Z",
         "airtable_id": "reczgg4eXaHWWZJGn"
+    },
+    {
+        "ChildDeathCount": 10,
+        "CivilianDeathCount": 15,
+        "Country": "Yemen",
+        "CountryID": "YE",
+        "CountryTable": [
+            "recfHOOJhdZOyMmis"
+        ],
+        "EventID": 150,
+        "EventName": "At least 15 civilians, including at least 10 children and four women, were reportedly killed in a US Navy special forces operation in al-Ghayil village",
+        "InjuredCount": 7,
+        "Location": "Al Ghayil",
+        "Perpetrator": "United States",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/usyemtr006-c-january-29-2017/",
+        "StartDate": "2017-01-29",
+        "Tags": [
+            "GroundForcesAttack"
+        ],
+        "airtable_createdTime": "2022-10-13T20:32:10.000Z",
+        "airtable_id": "reczjsqbKGxT7v8a6"
     }
 ]
