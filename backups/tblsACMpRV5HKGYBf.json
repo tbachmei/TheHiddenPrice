@@ -1815,11 +1815,12 @@
         "CountryID": "SY",
         "LinkedRecords": [
             "reczgg4eXaHWWZJGn",
-            "recdorKyyElzmTxw6"
+            "recdorKyyElzmTxw6",
+            "receR7nVW1c6AIGP4"
         ],
         "MapID": "[display-map id=\"953\"]",
-        "RecordCount": 2,
-        "TotalDeaths": 22,
+        "RecordCount": 3,
+        "TotalDeaths": 102,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recec93hV8Wd0U36f"
     },

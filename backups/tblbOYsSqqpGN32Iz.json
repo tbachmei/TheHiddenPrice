@@ -2456,6 +2456,31 @@
         "airtable_id": "receQCdB0bNGxJT1P"
     },
     {
+        "ChildDeathCount": 25,
+        "CivilianDeathCount": 80,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": 153,
+        "EventName": "Airstrike on school being used to house displaced individuals.",
+        "InjuredCount": 30,
+        "Latitude": 36.6398137,
+        "Location": "Tokhar Kabir",
+        "Longitude": 37.98093,
+        "Notes": "Between 78 and 203 civilians were reported killed in a catastrophic event at the village of Tokhar \u2013 the scene of a number of other recent civilian fatalities from alleged Coalition strikes.",
+        "Perpetrator": " US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/cs273-july-19-2016/",
+        "StartDate": "1016-07-19",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-17T07:12:05.000Z",
+        "airtable_id": "receR7nVW1c6AIGP4"
+    },
+    {
         "ChildDeathCount": 9,
         "CivilianDeathCount": 12,
         "Country": "Afghanistan",
@@ -3469,6 +3494,11 @@
         ],
         "airtable_createdTime": "2022-09-15T07:51:16.000Z",
         "airtable_id": "recvMv7BCFngguOSw"
+    },
+    {
+        "EventID": 154,
+        "airtable_createdTime": "2022-10-17T07:41:54.000Z",
+        "airtable_id": "recvalGITKvDl8ioT"
     },
     {
         "CivilianDeathCount": 1,
