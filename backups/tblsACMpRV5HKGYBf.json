@@ -1781,11 +1781,15 @@
         "LinkedRecords": [
             "recBUyajm43Nyuk49",
             "rec6JdRwPZckhYZcD",
-            "recCzbGJEHbVwE1qH"
+            "recCzbGJEHbVwE1qH",
+            "recvalGITKvDl8ioT",
+            "reclCQ1WykhVmwLO4",
+            "recExXCHbMxufbcAw",
+            "recRQvyHPU20Xr8MH"
         ],
         "MapID": "[display-map id=\"62\"]",
-        "RecordCount": 3,
-        "TotalDeaths": 210,
+        "RecordCount": 7,
+        "TotalDeaths": 275,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
@@ -1816,11 +1820,13 @@
         "LinkedRecords": [
             "reczgg4eXaHWWZJGn",
             "recdorKyyElzmTxw6",
-            "receR7nVW1c6AIGP4"
+            "receR7nVW1c6AIGP4",
+            "recJtAzmf99c8JP9P",
+            "recCKGoayKIx7k7Wq"
         ],
         "MapID": "[display-map id=\"953\"]",
-        "RecordCount": 3,
-        "TotalDeaths": 102,
+        "RecordCount": 5,
+        "TotalDeaths": 140,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recec93hV8Wd0U36f"
     },

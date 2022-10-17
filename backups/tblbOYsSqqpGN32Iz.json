@@ -873,6 +873,31 @@
         "airtable_id": "recCK4y166eIuobl6"
     },
     {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 22,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": 157,
+        "EventName": "At least 22 civilians were killed in a Coalition airstrike on the village of al Ghandourra.",
+        "InjuredCount": 25,
+        "Latitude": 36.6755437,
+        "Location": "Al Ghandoura",
+        "Longitude": 37.75664,
+        "Perpetrator": "US",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/cs285-july-28-2016/",
+        "StartDate": "2016-07-28",
+        "Tags": [
+            "ProjectileStrike",
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-17T08:27:47.000Z",
+        "airtable_id": "recCKGoayKIx7k7Wq"
+    },
+    {
         "CivilianDeathCount": 10,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -1092,6 +1117,30 @@
         ],
         "airtable_createdTime": "2022-10-02T07:08:21.000Z",
         "airtable_id": "recDgyA1OchpUwDAs"
+    },
+    {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 15,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 158,
+        "EventName": "15 killed after Coalition airstrikes targeted a car-bomb and house in Al-Rashidiya neighborhood, in the northeast of Mosul.",
+        "InjuredCount": 2,
+        "Latitude": 36.4080143,
+        "Location": " Al-Rashidiyah",
+        "Longitude": 43.08958,
+        "Perpetrator": "US",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci436-january-21-2017/",
+        "StartDate": "2017-01-21",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-17T08:32:39.000Z",
+        "airtable_id": "recExXCHbMxufbcAw"
     },
     {
         "ChildDeathCount": 5,
@@ -1343,6 +1392,30 @@
         ],
         "airtable_createdTime": "2022-10-05T07:19:48.000Z",
         "airtable_id": "recJ93YVHwESedyxL"
+    },
+    {
+        "ChildDeathCount": 8,
+        "CivilianDeathCount": 16,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": 155,
+        "EventName": "Sixteen named civilians including eight children and five died in an alleged Coalition airstrike near the Al A\u2019jrawi roundabout in Tabaqa.",
+        "InjuredCount": 12,
+        "Latitude": 35.8192538,
+        "Location": "Tabaqah",
+        "Longitude": 38.53727,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/cs734-april-26-2017/",
+        "StartDate": "2017-04-26",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-17T08:18:31.000Z",
+        "airtable_id": "recJtAzmf99c8JP9P"
     },
     {
         "ChildDeathCount": 1,
@@ -1890,6 +1963,29 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:06.000Z",
         "airtable_id": "recR2kVwd7EChZ3LG"
+    },
+    {
+        "ChildDeathCount": 2,
+        "CivilianDeathCount": 14,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 159,
+        "EventName": "14 civilians from three families were killed in a Coalition airstrike targeting a car bomb.",
+        "Latitude": 36.33463543,
+        "Location": "Nabi Sheet",
+        "Longitude": 43.135051,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci500-march-1-2017/",
+        "StartDate": "2017-03-01",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-17T08:38:24.000Z",
+        "airtable_id": "recRQvyHPU20Xr8MH"
     },
     {
         "ChildDeathCount": 7,
@@ -2887,6 +2983,30 @@
         "airtable_id": "reck2B5piZK26YWKv"
     },
     {
+        "CivilianDeathCount": 16,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 156,
+        "EventName": "16 civilians were killed and many were injured in Coalition and Iraqi government airstrikes on Al-Shafaa neighbourhood in West Mosul",
+        "InjuredCount": 5,
+        "Latitude": 36.3535643,
+        "Location": "Shafa",
+        "Longitude": 43.12323,
+        "Perpetrator": "US",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci610-april-5-2017/",
+        "StartDate": "2017-04-05",
+        "Tags": [
+            "ProjectileStrike",
+            "GroundForcesAttack"
+        ],
+        "airtable_createdTime": "2022-10-17T08:24:15.000Z",
+        "airtable_id": "reclCQ1WykhVmwLO4"
+    },
+    {
         "CivilianDeathCount": 1,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -3496,7 +3616,26 @@
         "airtable_id": "recvMv7BCFngguOSw"
     },
     {
+        "ChildDeathCount": 4,
+        "CivilianDeathCount": 20,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
         "EventID": 154,
+        "EventName": "Coalition airstrike on an electricity generating facility reportedly killed up to 35 civilians and injured 22 more when nearby apartments were caught in the blast.",
+        "InjuredCount": 22,
+        "Latitude": 36.35132,
+        "Location": "Mosul",
+        "Longitude": 43.21243,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci060-april-20-2015/",
+        "StartDate": "2015-04-20",
+        "Tags": [
+            "ProjectileStrike"
+        ],
         "airtable_createdTime": "2022-10-17T07:41:54.000Z",
         "airtable_id": "recvalGITKvDl8ioT"
     },
