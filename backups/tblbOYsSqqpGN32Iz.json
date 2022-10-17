@@ -345,6 +345,29 @@
         "airtable_id": "rec3GGXVM1aHMjdE8"
     },
     {
+        "CivilianDeathCount": 12,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": 160,
+        "EventName": "At least 12 killed after artillery shelling which targeted Al Arabi neighborhood",
+        "InjuredCount": 10,
+        "Latitude": 36.4039343,
+        "Location": "Al Arabi",
+        "Longitude": 43.11644,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "SourceA": "https://airwars.org/civilian-casualties/ci417-january-12-2017/",
+        "StartDate": "2017-01-12",
+        "Tags": [
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-10-17T08:41:57.000Z",
+        "airtable_id": "rec3b9cmDPFSM4vLq"
+    },
+    {
         "CivilianDeathCount": 2,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -886,7 +909,7 @@
         "Latitude": 36.6755437,
         "Location": "Al Ghandoura",
         "Longitude": 37.75664,
-        "Perpetrator": "US",
+        "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
         "SourceA": "https://airwars.org/civilian-casualties/cs285-july-28-2016/",
         "StartDate": "2016-07-28",
@@ -1132,7 +1155,7 @@
         "Latitude": 36.4080143,
         "Location": " Al-Rashidiyah",
         "Longitude": 43.08958,
-        "Perpetrator": "US",
+        "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
         "SourceA": "https://airwars.org/civilian-casualties/ci436-january-21-2017/",
         "StartDate": "2017-01-21",
@@ -2995,7 +3018,7 @@
         "Latitude": 36.3535643,
         "Location": "Shafa",
         "Longitude": 43.12323,
-        "Perpetrator": "US",
+        "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
         "SourceA": "https://airwars.org/civilian-casualties/ci610-april-5-2017/",
         "StartDate": "2017-04-05",

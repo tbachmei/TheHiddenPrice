@@ -1785,11 +1785,12 @@
             "recvalGITKvDl8ioT",
             "reclCQ1WykhVmwLO4",
             "recExXCHbMxufbcAw",
-            "recRQvyHPU20Xr8MH"
+            "recRQvyHPU20Xr8MH",
+            "rec3b9cmDPFSM4vLq"
         ],
         "MapID": "[display-map id=\"62\"]",
-        "RecordCount": 7,
-        "TotalDeaths": 275,
+        "RecordCount": 8,
+        "TotalDeaths": 287,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
