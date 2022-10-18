@@ -7,7 +7,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 88,
+        "EventID": "post88",
         "EventName": "6 killed, including 2 children, and 4 injured in Logar, Afghanistan",
         "InjuredCount": 4,
         "Latitude": 34.0653595,
@@ -15,7 +15,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/88",
+        "PostURL": "https://thehiddenprice.com/post88",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-21",
@@ -32,14 +32,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 96,
+        "EventID": "post96",
         "EventName": "5 killed in Faryab, Afghanistan",
         "Latitude": 36.03603744506836,
         "Location": "Faryab",
         "Longitude": 64.89441680908203,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/96",
+        "PostURL": "https://thehiddenprice.com/post96",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-06",
@@ -57,7 +57,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 75,
+        "EventID": "post75",
         "EventName": "8 killed, including 2 children, and 25 injured in Haska Mena, Afghanistan via drone strike",
         "InjuredCount": 25,
         "Latitude": 34.116985,
@@ -65,7 +65,7 @@
         "Longitude": 70.461125,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/75",
+        "PostURL": "https://thehiddenprice.com/post75",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-07-23",
@@ -84,7 +84,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 68,
+        "EventID": "post68",
         "EventName": "12 killed, including 11 children, in Wardak, Afghanistan",
         "Latitude": 34.3191345,
         "Location": "Wardak",
@@ -92,7 +92,7 @@
         "Notes": "house was hit in the strike that killed civilians",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/68",
+        "PostURL": "https://thehiddenprice.com/post68",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-23",
@@ -110,14 +110,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 129,
+        "EventID": "post129",
         "EventName": "1 killed, including 1 child, in Shegal, Afghanistan via drone strike",
         "Latitude": 35.124005132932695,
         "Location": "Shegal",
         "Longitude": 71.24458926267408,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/129",
+        "PostURL": "https://thehiddenprice.com/post129",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-01-09",
@@ -135,7 +135,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 128,
+        "EventID": "post128",
         "EventName": "1 killed in Achin, Afghanistan",
         "Latitude": 34.0454314,
         "Location": "Achin",
@@ -143,7 +143,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/128",
+        "PostURL": "https://thehiddenprice.com/post128",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-10-27",
@@ -161,7 +161,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 38,
+        "EventID": "post38",
         "EventName": "9 bodies unearthed from shallow graves",
         "Latitude": 50.64398193359375,
         "Location": "Borodyanka",
@@ -169,7 +169,7 @@
         "Notes": "15-year-old girl among those found.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/38",
+        "PostURL": "https://thehiddenprice.com/post38",
         "SourceA": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-9-bodies-found-outside-kyiv-some-with-signs-of-torture/articleshow/90975737.cms",
         "StartDate": "2022-04-20",
         "Tags": [
@@ -186,7 +186,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 9,
+        "EventID": "post9",
         "EventName": "Russian air strikes on apartment block",
         "InjuredCount": 20,
         "Latitude": 49.8363648,
@@ -194,7 +194,7 @@
         "Longitude": 36.6898157,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/9",
+        "PostURL": "https://thehiddenprice.com/post9",
         "SourceA": "https://www.thenationalnews.com/world/2022/02/24/civilians-killed-as-stray-russian-missile-hits-apartment-block-in-ukraine/",
         "SourceB": "https://vchasnoua.com/en/392-russia-attacked-ukraine-online-update",
         "SourceC": "https://nypost.com/2022/02/24/ukraine-teacher-credits-guardian-angel-for-surviving-russia-missile-strike/",
@@ -213,14 +213,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 100,
+        "EventID": "post100",
         "EventName": "4 killed in Logar, Afghanistan",
         "Latitude": 34.0653595,
         "Location": "Logar",
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/100",
+        "PostURL": "https://thehiddenprice.com/post100",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-06",
@@ -237,7 +237,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 45,
+        "EventID": "post45",
         "EventName": "55 killed and 10 injured in Chardara, Afghanistan",
         "InjuredCount": 10,
         "Latitude": 36.60552370544224,
@@ -245,7 +245,7 @@
         "Longitude": 68.72015309005414,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/45",
+        "PostURL": "https://thehiddenprice.com/post45",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-11-04",
@@ -263,7 +263,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 92,
+        "EventID": "post92",
         "EventName": "5 killed, including 5 children, in Lal Pura, Afghanistan via drone strike",
         "Latitude": 34.34393018283619,
         "Location": "Lal Pura",
@@ -271,7 +271,7 @@
         "Notes": "Hideout",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/92",
+        "PostURL": "https://thehiddenprice.com/post92",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-08",
@@ -290,7 +290,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 72,
+        "EventID": "post72",
         "EventName": "9 killed, including 4 children, and 12 injured in Tagab, Afghanistan",
         "InjuredCount": 12,
         "Latitude": 36.48276,
@@ -298,7 +298,7 @@
         "Longitude": 70.349632,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/72",
+        "PostURL": "https://thehiddenprice.com/post72",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-22",
@@ -316,14 +316,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 66,
+        "EventID": "post66",
         "EventName": "13 killed, including 9 children, in Kunduz, Afghanistan",
         "Latitude": 36.8707187,
         "Location": "Kunduz",
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/66",
+        "PostURL": "https://thehiddenprice.com/post66",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-22",
@@ -340,7 +340,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 137,
+        "EventID": "post137",
         "EventName": "1 killed and 2 injured in Nangarhar, Afghanistan",
         "InjuredCount": 2,
         "Latitude": 34.220389,
@@ -348,7 +348,7 @@
         "Longitude": 70.3800314,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/137",
+        "PostURL": "https://thehiddenprice.com/post137",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-06-01",
@@ -365,7 +365,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 160,
+        "EventID": "post160",
         "EventName": "At least 12 killed after artillery shelling which targeted Al Arabi neighborhood",
         "InjuredCount": 10,
         "Latitude": 36.4039343,
@@ -373,7 +373,7 @@
         "Longitude": 43.11644,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/160",
+        "PostURL": "https://thehiddenprice.com/post160",
         "SourceA": "https://airwars.org/civilian-casualties/ci417-january-12-2017/",
         "StartDate": "2017-01-12",
         "Tags": [
@@ -389,7 +389,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 121,
+        "EventID": "post121",
         "EventName": "2 killed in Farah, Afghanistan",
         "Latitude": 32.607111,
         "Location": "Farah",
@@ -397,7 +397,7 @@
         "Notes": "Building housing NGO",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/121",
+        "PostURL": "https://thehiddenprice.com/post121",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-24",
@@ -414,14 +414,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 77,
+        "EventID": "post77",
         "EventName": "8 killed in Kunduz, Afghanistan",
         "Latitude": 36.8707187,
         "Location": "Kunduz",
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/77",
+        "PostURL": "https://thehiddenprice.com/post77",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-07",
@@ -438,14 +438,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 122,
+        "EventID": "post122",
         "EventName": "2 killed in Ghazni, Afghanistan",
         "Latitude": 33.3149631,
         "Location": "Ghazni",
         "Longitude": 67.828989,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/122",
+        "PostURL": "https://thehiddenprice.com/post122",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-07",
@@ -462,7 +462,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 114,
+        "EventID": "post114",
         "EventName": "2 killed and 3 injured in Qarabagh, Afghanistan",
         "InjuredCount": 3,
         "Latitude": 33.220979,
@@ -470,7 +470,7 @@
         "Longitude": 67.987402,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/114",
+        "PostURL": "https://thehiddenprice.com/post114",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-09-04",
@@ -487,14 +487,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 65,
+        "EventID": "post65",
         "EventName": "13 killed in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/65",
+        "PostURL": "https://thehiddenprice.com/post65",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-25",
@@ -512,14 +512,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 142,
+        "EventID": "post142",
         "EventName": "1 killed, including 1 child, in Andar, Afghanistan",
         "Latitude": 33.305843,
         "Location": "Andar",
         "Longitude": 68.446963,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/142",
+        "PostURL": "https://thehiddenprice.com/post142",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-10-06",
@@ -536,14 +536,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 113,
+        "EventID": "post113",
         "EventName": "2 killed in Nahr e Saraj, Afghanistan",
         "Latitude": 31.7757701,
         "Location": "Nahr e Saraj",
         "Longitude": 64.6119531,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/113",
+        "PostURL": "https://thehiddenprice.com/post113",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-08-31",
@@ -561,7 +561,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 143,
+        "EventID": "post143",
         "EventName": "Airstrike on a house in West Mosul\u2019s al Jadida area",
         "InjuredCount": 6,
         "Latitude": 36.34,
@@ -569,7 +569,7 @@
         "Longitude": 43.130001,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/143",
+        "PostURL": "https://thehiddenprice.com/post143",
         "SourceA": "https://airwars.org/civilian-casualties/ci550-march-17-2017/",
         "StartDate": "2017-03-17",
         "Tags": [
@@ -587,14 +587,14 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-03-31",
-        "EventID": 7,
+        "EventID": "post7",
         "EventName": "Russian forces at Chernobyl",
         "Latitude": 51.4059655,
         "Location": "Pripyat",
         "Longitude": 30.0573963,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/7",
+        "PostURL": "https://thehiddenprice.com/post7",
         "SourceA": "https://www.mirror.co.uk/news/world-news/russian-forces-chernobyl-killed-9-27136555",
         "SourceB": "https://apnews.com/article/russia-ukraine-business-health-europe-accidents-edcd5bc0e6bde3cbf6d7300bebc9343f",
         "StartDate": "2022-02-24",
@@ -611,7 +611,7 @@
         "CountryTable": [
             "recmfqqMTbEuQSWAg"
         ],
-        "EventID": 145,
+        "EventID": "post145",
         "EventName": "Rocket reportedly fired by the Al-Qassam Brigades struck an agricultural packaging plant.",
         "InjuredCount": 20,
         "Latitude": 31.234989,
@@ -619,7 +619,7 @@
         "Longitude": 34.43224,
         "Perpetrator": "Palestinian Militants",
         "PerpetratorID": "PS",
-        "PostURL": "https://thehiddenprice.com/145",
+        "PostURL": "https://thehiddenprice.com/post145",
         "SourceA": "https://airwars.org/civilian-casualties/palis028-may-18-2021/",
         "StartDate": "2021-05-18",
         "Tags": [
@@ -635,7 +635,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 54,
+        "EventID": "post54",
         "EventName": "21 killed and 5 injured in Paktika, Afghanistan",
         "InjuredCount": 5,
         "Latitude": 32.3936231,
@@ -643,7 +643,7 @@
         "Longitude": 68.7036514,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/54",
+        "PostURL": "https://thehiddenprice.com/post54",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-05",
@@ -660,7 +660,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 32,
+        "EventID": "post32",
         "EventName": "Bodies of seven civilians killed in Bucha unearthed from mass grave",
         "Latitude": 50.5503127,
         "Location": "Bucha",
@@ -668,7 +668,7 @@
         "Notes": "Gunshot wounds to knees and head",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/32",
+        "PostURL": "https://thehiddenprice.com/post32",
         "SourceA": "https://www.voanews.com/a/bucolic-ukraine-forest-is-site-of-mass-grave-exhumation-/6616015.html#:~:text=The%20horrors%20of%20Bucha%20shocked,knees%20and%20head%2C%20Nebytov%20said.",
         "SourceB": "https://www.arkansasonline.com/news/2022/jun/14/ukrainians-find-more-victims-near-bucha/",
         "StartDate": "2022-06-13",
@@ -687,7 +687,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 11,
+        "EventID": "post11",
         "EventName": "Cluster munitions kill child and two other civilians taking shelter at a preschool",
         "InjuredCount": 1,
         "Latitude": 50.3115386,
@@ -696,7 +696,7 @@
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/11",
+        "PostURL": "https://thehiddenprice.com/post11",
         "SourceA": "https://www.amnesty.org/en/latest/news/2022/02/ukraine-cluster-munitions-kill-child-and-two-other-civilians-taking-shelter-at-a-preschool/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -715,7 +715,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 36,
+        "EventID": "post36",
         "EventName": "Woman and her 3-month-old baby killed on Saturday during a cruise missile strike on Odesa.",
         "InjuredCount": 18,
         "Latitude": 46.4843023,
@@ -723,7 +723,7 @@
         "Longitude": 30.7322878,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/36",
+        "PostURL": "https://thehiddenprice.com/post36",
         "SourceA": "https://thehill.com/policy/international/3461310-russian-missile-strike-on-odesa-kills-8-including-3-month-old-baby-girl-zelensky-says/",
         "StartDate": "2022-04-23",
         "airtable_createdTime": "2022-09-29T03:56:08.000Z",
@@ -736,14 +736,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 80,
+        "EventID": "post80",
         "EventName": "7 killed in Wardak, Afghanistan",
         "Latitude": 34.3191345,
         "Location": "Wardak",
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/80",
+        "PostURL": "https://thehiddenprice.com/post80",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-09",
@@ -760,7 +760,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 103,
+        "EventID": "post103",
         "EventName": "3 killed in Azara, Afghanistan via drone strike",
         "Latitude": 34.58205,
         "Location": "Azara",
@@ -768,7 +768,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/103",
+        "PostURL": "https://thehiddenprice.com/post103",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-06-11",
@@ -787,7 +787,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-06-06",
-        "EventID": 31,
+        "EventID": "post31",
         "EventName": "Four people killed by Russian strike on Lysychansk",
         "InjuredCount": 7,
         "Latitude": 48.91493225097656,
@@ -795,7 +795,7 @@
         "Longitude": 38.42538070678711,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/31",
+        "PostURL": "https://thehiddenprice.com/post31",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/06/16/7352858/",
         "SourceB": "https://www.dw.com/en/ukraine-war-russia-strikes-lysychansk/av-62166615",
         "StartDate": "2022-06-16",
@@ -813,7 +813,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 79,
+        "EventID": "post79",
         "EventName": "7 killed in Andar, Afghanistan",
         "Latitude": 33.305843,
         "Location": "Andar",
@@ -821,7 +821,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/79",
+        "PostURL": "https://thehiddenprice.com/post79",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-12",
@@ -839,7 +839,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 87,
+        "EventID": "post87",
         "EventName": "6 killed, including 8 children, and 9 injured in Helmand, Afghanistan",
         "InjuredCount": 9,
         "Latitude": 31.18504524230957,
@@ -847,7 +847,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/87",
+        "PostURL": "https://thehiddenprice.com/post87",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-20",
@@ -864,7 +864,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 34,
+        "EventID": "post34",
         "EventName": "Rocket attack at bus shelter outside factory kills 10",
         "InjuredCount": 15,
         "Latitude": 48.1338824,
@@ -872,7 +872,7 @@
         "Longitude": 37.7466719,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/34",
+        "PostURL": "https://thehiddenprice.com/post34",
         "SourceA": "https://www.timesnownews.com/world/russia-ukraine-war-10-killed-15-wounded-in-russian-strike-at-avdiivka-coke-plant-in-eastern-ukraine-article-91295318",
         "StartDate": "2022-05-03",
         "Tags": [
@@ -889,7 +889,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 1,
+        "EventID": "post1",
         "EventName": "Turkey fights PKK with drones in Iraq",
         "Latitude": 37.0919695,
         "Location": "Amedi region",
@@ -897,7 +897,7 @@
         "Notes": "\"Turkey and the PKK have fought a cat-and-mouse war since the rebels launched a full-scale, Marxist-inspired insurgency against the Turkish state\u2019s repression in 1984. More than 40,000 people have died in the violence since then, the vast majority civilians, and the PKK has been designated as a terrorist organisation by Turkey and most of its western allies.\"",
         "Perpetrator": "Turkey",
         "PerpetratorID": "TR",
-        "PostURL": "https://thehiddenprice.com/1",
+        "PostURL": "https://thehiddenprice.com/post1",
         "SourceA": "https://www.theguardian.com/world/2021/apr/04/iraq-turkey-pkk-drones-kurds-kurdistan",
         "StartDate": "2021-12-07",
         "Tags": [
@@ -914,7 +914,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 59,
+        "EventID": "post59",
         "EventName": "15 killed, including 10 children, in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
@@ -922,7 +922,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/59",
+        "PostURL": "https://thehiddenprice.com/post59",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-24",
@@ -940,7 +940,7 @@
         "CountryTable": [
             "recec93hV8Wd0U36f"
         ],
-        "EventID": 157,
+        "EventID": "post157",
         "EventName": "At least 22 civilians were killed in a Coalition airstrike on the village of al Ghandourra.",
         "InjuredCount": 25,
         "Latitude": 36.6755437,
@@ -948,7 +948,7 @@
         "Longitude": 37.75664,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/157",
+        "PostURL": "https://thehiddenprice.com/post157",
         "SourceA": "https://airwars.org/civilian-casualties/cs285-july-28-2016/",
         "StartDate": "2016-07-28",
         "Tags": [
@@ -966,7 +966,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-06-27",
-        "EventID": 30,
+        "EventID": "post30",
         "EventName": "Russian missile hits busy shopping mall, kills at least 10",
         "InjuredCount": 40,
         "Latitude": 49.0928528,
@@ -975,7 +975,7 @@
         "Notes": "At least 10 dead and 40 injured",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/30",
+        "PostURL": "https://thehiddenprice.com/post30",
         "SourceA": "https://www.columbian.com/news/2022/jun/27/officials-russian-missile-strike-hits-crowded-shopping-mall/",
         "StartDate": "2022-06-27",
         "Tags": [
@@ -993,7 +993,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 123,
+        "EventID": "post123",
         "EventName": "2 killed, including 2 children, and 5 injured in Logar, Afghanistan",
         "InjuredCount": 5,
         "Latitude": 34.0653595,
@@ -1001,7 +1001,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/123",
+        "PostURL": "https://thehiddenprice.com/post123",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-15",
@@ -1019,7 +1019,7 @@
         "CountryTable": [
             "reccq3BjixSs3cDlS"
         ],
-        "EventID": 152,
+        "EventID": "post152",
         "EventName": "A father and young child were reported killed in a US airstrike on the al Shabaab-occupied town of Kunyo Barrow.",
         "InjuredCount": 3,
         "Latitude": -3.2276,
@@ -1027,7 +1027,7 @@
         "Longitude": 54.11094,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/152",
+        "PostURL": "https://thehiddenprice.com/post152",
         "SourceA": "https://airwars.org/civilian-casualties/ussom195-c-february-23-2019/",
         "StartDate": "2019-02-23",
         "Tags": [
@@ -1043,14 +1043,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 112,
+        "EventID": "post112",
         "EventName": "2 killed in Chak e Wardak, Afghanistan",
         "Latitude": 34.108224,
         "Location": "Chak e Wardak",
         "Longitude": 68.490564,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/112",
+        "PostURL": "https://thehiddenprice.com/post112",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-15",
@@ -1068,7 +1068,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 144,
+        "EventID": "post144",
         "EventName": "Airstrike on an Islamic State depot levelled a significant number of buildings",
         "InjuredCount": 80,
         "Latitude": 35.39867,
@@ -1076,7 +1076,7 @@
         "Longitude": 44.0369,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/144",
+        "PostURL": "https://thehiddenprice.com/post144",
         "SourceA": "https://airwars.org/civilian-casualties/ci070-june-3-2015/",
         "StartDate": "2015-06-03",
         "Tags": [
@@ -1092,14 +1092,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 21,
+        "EventID": "post21",
         "EventName": "Russian tank blows up civilian car killing elderly couple inside",
         "Latitude": 50.4500336,
         "Location": "Kyiv",
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/21",
+        "PostURL": "https://thehiddenprice.com/post21",
         "SourceA": "https://www.dailyrecord.co.uk/news/uk-world-news/horror-russian-tank-blows-up-26418918",
         "SourceB": "https://www.mirror.co.uk/news/world-news/russian-tank-caught-graphic-footage-26415984",
         "StartDate": "2022-02-28",
@@ -1116,7 +1116,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 40,
+        "EventID": "post40",
         "EventName": "Missile strike in Kharkiv wounds four at community kitchen",
         "InjuredCount": 4,
         "Latitude": 49.9923181,
@@ -1124,7 +1124,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/40",
+        "PostURL": "https://thehiddenprice.com/post40",
         "SourceA": "https://sports.yahoo.com/missile-struck-humanitarian-kitchen-ukraine-110802357.html",
         "StartDate": "2022-04-16",
         "Tags": [
@@ -1142,7 +1142,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 14,
+        "EventID": "post14",
         "EventName": "Kyiv children's hospital shelled, child killed",
         "InjuredCount": 4,
         "Latitude": 50.4500336,
@@ -1150,7 +1150,7 @@
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/14",
+        "PostURL": "https://thehiddenprice.com/post14",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326263/",
         "SourceB": "https://www.nbcnews.com/news/world/blog/russia-ukraine-live-updates-n1290057/ncrd1290068#blogHeader",
         "StartDate": "2022-02-25",
@@ -1169,7 +1169,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 50,
+        "EventID": "post50",
         "EventName": "30 killed, including 3 children, and 30 injured in Herat, Afghanistan via drone strike",
         "InjuredCount": 30,
         "Latitude": 34.3508273,
@@ -1177,7 +1177,7 @@
         "Longitude": 62.2164003,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/50",
+        "PostURL": "https://thehiddenprice.com/post50",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-01-08",
@@ -1196,7 +1196,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 158,
+        "EventID": "post158",
         "EventName": "15 killed after Coalition airstrikes targeted a car-bomb and house in Al-Rashidiya neighborhood, in the northeast of Mosul.",
         "InjuredCount": 2,
         "Latitude": 36.4080143,
@@ -1204,7 +1204,7 @@
         "Longitude": 43.08958,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/158",
+        "PostURL": "https://thehiddenprice.com/post158",
         "SourceA": "https://airwars.org/civilian-casualties/ci436-january-21-2017/",
         "StartDate": "2017-01-21",
         "Tags": [
@@ -1221,7 +1221,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 93,
+        "EventID": "post93",
         "EventName": "5 killed, including 5 children, in Dangam, Afghanistan via drone strike",
         "Latitude": 35.002093,
         "Location": "Dangam",
@@ -1229,7 +1229,7 @@
         "Notes": "Up to three buildings - house",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/93",
+        "PostURL": "https://thehiddenprice.com/post93",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-14",
@@ -1247,7 +1247,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 60,
+        "EventID": "post60",
         "EventName": "14 killed in Tere Zayi, Afghanistan via drone strike",
         "Latitude": 33.383675,
         "Location": "Tere Zayi",
@@ -1255,7 +1255,7 @@
         "Notes": "Two vehicles",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/60",
+        "PostURL": "https://thehiddenprice.com/post60",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-05",
@@ -1273,7 +1273,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 82,
+        "EventID": "post82",
         "EventName": "6 killed in Sangin, Afghanistan",
         "Latitude": 32.123611,
         "Location": "Sangin",
@@ -1281,7 +1281,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/82",
+        "PostURL": "https://thehiddenprice.com/post82",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-11-14",
@@ -1299,7 +1299,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-07-16",
-        "EventID": 29,
+        "EventID": "post29",
         "EventName": "Missile strike on residential area kills 3",
         "InjuredCount": 3,
         "Latitude": 49.9923181,
@@ -1307,7 +1307,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/29",
+        "PostURL": "https://thehiddenprice.com/post29",
         "SourceA": "https://www.reuters.com/world/europe/russian-strike-kills-three-people-kharkiv-region-governor-2022-07-16/",
         "SourceB": "https://www.usnews.com/news/world/articles/2022-07-16/russian-strike-kills-three-people-in-kharkiv-region-governor",
         "StartDate": "2022-07-16",
@@ -1326,7 +1326,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 33,
+        "EventID": "post33",
         "EventName": "Seven people die following Russian shelling",
         "InjuredCount": 17,
         "Latitude": 49.9923181,
@@ -1335,7 +1335,7 @@
         "Notes": "Seven people dead including a 9-year-old girl.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/33",
+        "PostURL": "https://thehiddenprice.com/post33",
         "SourceA": "https://www.forbes.com/sites/katyasoldak/2022/05/26/thursday-may-26-russias-war-on-ukraine-news-and-information-from-ukraine/?sh=345a5a75475e",
         "SourceB": "https://www.upi.com/Top_News/World-News/2022/05/26/ukraine-Ukraine-Russia-war/5591653595435/",
         "StartDate": "2022-05-26",
@@ -1354,7 +1354,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 84,
+        "EventID": "post84",
         "EventName": "6 killed, including 1 child, and 1 injured in Wardak, Afghanistan",
         "InjuredCount": 1,
         "Latitude": 34.3191345,
@@ -1362,7 +1362,7 @@
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/84",
+        "PostURL": "https://thehiddenprice.com/post84",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-22",
@@ -1379,7 +1379,7 @@
         "CountryTable": [
             "recmfqqMTbEuQSWAg"
         ],
-        "EventID": 146,
+        "EventID": "post146",
         "EventName": "Rocket fired from Gaza struck the Ramat Gan neighbourhood of Tel Aviv in the early afternoon on May 15th, 2021",
         "InjuredCount": 6,
         "Latitude": 32.083549,
@@ -1387,7 +1387,7 @@
         "Longitude": 34.815498,
         "Perpetrator": "Palestinian Militants",
         "PerpetratorID": "PS",
-        "PostURL": "https://thehiddenprice.com/146",
+        "PostURL": "https://thehiddenprice.com/post146",
         "SourceA": "https://airwars.org/civilian-casualties/palis024-may-15-2021/",
         "StartDate": "2021-05-15",
         "Tags": [
@@ -1404,7 +1404,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-08-10",
-        "EventID": 26,
+        "EventID": "post26",
         "EventName": "Russian shelling kills 13 in Nikopol",
         "InjuredCount": 11,
         "Latitude": 47.5692061,
@@ -1412,7 +1412,7 @@
         "Longitude": 34.3917272,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/26",
+        "PostURL": "https://thehiddenprice.com/post26",
         "SourceA": "https://babel.ua/en/news/82725-russia-again-shelled-the-nikopol-district-in-the-dnipropetrovsk-oblast-during-the-night-11-killed#:~:text=There%20are%2011%20killed%20during%20the%20night&text=On%20the%20night%20of%20August,Valentin%20Reznichenko%2C%20reported%20on%20this.",
         "SourceB": "https://ru.interfax.com.ua/news/general/851503.html",
         "StartDate": "2022-08-10",
@@ -1430,7 +1430,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 39,
+        "EventID": "post39",
         "EventName": "Russian forces firing into residential area",
         "InjuredCount": 4,
         "Latitude": 49.2724587,
@@ -1438,7 +1438,7 @@
         "Longitude": 38.9150477,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/39",
+        "PostURL": "https://thehiddenprice.com/post39",
         "SourceA": "https://www.upi.com/Top_News/World-News/2022/04/17/ukraine-russian-forces-fire-on-civilians-luhansk-region-fighting-easter/3541650212190/",
         "StartDate": "2022-04-17",
         "Tags": [
@@ -1455,7 +1455,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 74,
+        "EventID": "post74",
         "EventName": "8 killed in Nad Ali, Afghanistan via drone strike",
         "Latitude": 31.6434234,
         "Location": "Nad Ali",
@@ -1463,7 +1463,7 @@
         "Notes": "Taliban HQ and bomb making factory or prison",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/74",
+        "PostURL": "https://thehiddenprice.com/post74",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-08-25",
@@ -1482,7 +1482,7 @@
         "CountryTable": [
             "recec93hV8Wd0U36f"
         ],
-        "EventID": 155,
+        "EventID": "post155",
         "EventName": "Sixteen named civilians including eight children and five died in an alleged Coalition airstrike near the Al A\u2019jrawi roundabout in Tabaqa.",
         "InjuredCount": 12,
         "Latitude": 35.8192538,
@@ -1490,7 +1490,7 @@
         "Longitude": 38.53727,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/155",
+        "PostURL": "https://thehiddenprice.com/post155",
         "SourceA": "https://airwars.org/civilian-casualties/cs734-april-26-2017/",
         "StartDate": "2017-04-26",
         "Tags": [
@@ -1507,7 +1507,7 @@
         "CountryTable": [
             "reccq3BjixSs3cDlS"
         ],
-        "EventID": 151,
+        "EventID": "post151",
         "EventName": "U.S. Africa Command conducted an airstrike targeting an al-Shabaab terrorist in the vicinity of Jilib, Somalia, Feb. 2.",
         "InjuredCount": 3,
         "Latitude": 0.6063856,
@@ -1515,7 +1515,7 @@
         "Longitude": 43.124298,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/151",
+        "PostURL": "https://thehiddenprice.com/post151",
         "SourceA": "https://airwars.org/civilian-casualties/ussom274-c-february-2-2020/",
         "StartDate": "2020-02-02",
         "Tags": [
@@ -1531,14 +1531,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 109,
+        "EventID": "post109",
         "EventName": "3 killed in Laghman, Afghanistan",
         "Latitude": 34.783333,
         "Location": "Laghman",
         "Longitude": 70.183333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/109",
+        "PostURL": "https://thehiddenprice.com/post109",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-10-09",
@@ -1555,7 +1555,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 57,
+        "EventID": "post57",
         "EventName": "15 killed in Chahar Dara, Afghanistan via drone strike",
         "Latitude": 36.6909697,
         "Location": "Chahar Dara",
@@ -1563,7 +1563,7 @@
         "Notes": "Taliban prison",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/57",
+        "PostURL": "https://thehiddenprice.com/post57",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-06-25",
@@ -1582,14 +1582,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 4,
+        "EventID": "post4",
         "EventName": "Sumy airstrikes",
         "Latitude": 50.9119775,
         "Location": "Sumy",
         "Longitude": 34.8027723,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/4",
+        "PostURL": "https://thehiddenprice.com/post4",
         "SourceA": "https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say",
         "airtable_createdTime": "2022-09-08T05:59:28.000Z",
         "airtable_id": "recKQppAKmCXcIVzh"
@@ -1602,7 +1602,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 42,
+        "EventID": "post42",
         "EventName": "Rocket strikes railway station used for civilian evacuation ",
         "InjuredCount": 100,
         "Latitude": 48.7389415,
@@ -1611,7 +1611,7 @@
         "Notes": "5 children among those killed",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/42",
+        "PostURL": "https://thehiddenprice.com/post42",
         "SourceA": "https://abcnews.go.com/International/50-killed-attack-ukrainian-train-station/story?id=83960097#:~:text=Ukrainian%20officials%20say%20two%20Russian,Ukraine%20on%20Friday%2C%20authorities%20said.",
         "StartDate": "2022-04-11",
         "Tags": [
@@ -1628,14 +1628,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 110,
+        "EventID": "post110",
         "EventName": "3 killed in Paktia, Afghanistan",
         "Latitude": 33.705724,
         "Location": "Paktia",
         "Longitude": 69.4083555,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/110",
+        "PostURL": "https://thehiddenprice.com/post110",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-18",
@@ -1653,7 +1653,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 67,
+        "EventID": "post67",
         "EventName": "13 killed, including 0 children, and 5 injured in Uruzgan, Afghanistan",
         "InjuredCount": 5,
         "Latitude": 32.8129681,
@@ -1661,7 +1661,7 @@
         "Longitude": 66.0183185,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/67",
+        "PostURL": "https://thehiddenprice.com/post67",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-02",
@@ -1679,7 +1679,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 126,
+        "EventID": "post126",
         "EventName": "1 killed, including 1 child, in Khas Khar, Afghanistan via drone strike",
         "Latitude": 33.78392,
         "Location": "Khas Khar",
@@ -1687,7 +1687,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/126",
+        "PostURL": "https://thehiddenprice.com/post126",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-05-07",
@@ -1706,7 +1706,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-03-02",
-        "EventID": 16,
+        "EventID": "post16",
         "EventName": "Dead bodies lie in the streets of the Greek village of Sartana",
         "InjuredCount": 4,
         "Latitude": 47.1701321,
@@ -1714,7 +1714,7 @@
         "Longitude": 37.6952892,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/16",
+        "PostURL": "https://thehiddenprice.com/post16",
         "SourceA": "https://neoskosmos.com/en/2022/03/02/news/world/dead-bodies-lie-in-the-streets-of-the-greek-village-of-sartana-dragged-by-dogs/",
         "SourceB": "https://geopolitiki.com/ukraine-greek-minority-village-of-sartana/",
         "StartDate": "2022-02-26",
@@ -1733,14 +1733,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 102,
+        "EventID": "post102",
         "EventName": "3 killed, including 2 children, in Baraki Barak, Afghanistan",
         "Latitude": 33.929914,
         "Location": "Baraki Barak",
         "Longitude": 68.885233,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/102",
+        "PostURL": "https://thehiddenprice.com/post102",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-05-31",
@@ -1757,7 +1757,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 139,
+        "EventID": "post139",
         "EventName": "1 killed in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
@@ -1765,7 +1765,7 @@
         "Notes": "Two buildings, two tactical units and one staging area",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/139",
+        "PostURL": "https://thehiddenprice.com/post139",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-10",
@@ -1782,14 +1782,14 @@
         "CountryTable": [
             "rec2BPy1GRTgEHyxk"
         ],
-        "EventID": 3,
+        "EventID": "post3",
         "EventName": " Tigray Massacre",
         "Latitude": 10.2116702,
         "Location": "REDO COORDINATES",
         "Longitude": 38.6521203,
         "Notes": "Look into other Tigray events",
         "Perpetrator": "Samri and other Tigrayan civilians, police and militia",
-        "PostURL": "https://thehiddenprice.com/3",
+        "PostURL": "https://thehiddenprice.com/post3",
         "SourceA": "https://www.washingtonpost.com/world/africa/ethiopia-tigray-mai-kadra-massacre/2020/11/24/2fcb4218-2e76-11eb-9dd6-2d0179981719_story.html",
         "SourceB": "https://www.reuters.com/investigates/special-report/ethiopia-conflict-expulsions/",
         "StartDate": "2020-11-09",
@@ -1806,7 +1806,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 78,
+        "EventID": "post78",
         "EventName": "7 killed and 1 injured in Zaza Aryoob, Afghanistan",
         "InjuredCount": 1,
         "Latitude": 33.966526206148494,
@@ -1814,7 +1814,7 @@
         "Longitude": 69.80944563985746,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/78",
+        "PostURL": "https://thehiddenprice.com/post78",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-10",
@@ -1831,14 +1831,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 47,
+        "EventID": "post47",
         "EventName": "40 killed in Musa Qala, Afghanistan",
         "Latitude": 32.4571676,
         "Location": "Musa Qala",
         "Longitude": 64.7300131,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/47",
+        "PostURL": "https://thehiddenprice.com/post47",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-22",
@@ -1855,7 +1855,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 71,
+        "EventID": "post71",
         "EventName": "10 killed and 5 injured in Farah, Afghanistan",
         "InjuredCount": 5,
         "Latitude": 32.607111,
@@ -1863,7 +1863,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/71",
+        "PostURL": "https://thehiddenprice.com/post71",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-23",
@@ -1880,7 +1880,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 15,
+        "EventID": "post15",
         "EventName": "Journalist shot dead and first responders burned to death in ambulance",
         "InjuredCount": 1,
         "Latitude": 46.5421715,
@@ -1888,7 +1888,7 @@
         "Longitude": 33.4079326,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/15",
+        "PostURL": "https://thehiddenprice.com/post15",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326302/",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3414210-journalist-shot-dead-by-russian-occupiers-in-kherson-region.html",
         "StartDate": "2022-02-26",
@@ -1906,7 +1906,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 62,
+        "EventID": "post62",
         "EventName": "14 killed, including 10 children, and 6 injured in Gul Tepa, Afghanistan",
         "InjuredCount": 6,
         "Latitude": 36.33044,
@@ -1915,7 +1915,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/62",
+        "PostURL": "https://thehiddenprice.com/post62",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-23",
@@ -1932,14 +1932,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 17,
+        "EventID": "post17",
         "EventName": "Two teachers dead in attack on school",
         "Latitude": 48.3058686,
         "Location": "Gorlovka",
         "Longitude": 38.0027664,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/17",
+        "PostURL": "https://thehiddenprice.com/post17",
         "SourceA": "https://tass.com/politics/1410695",
         "SourceB": "https://www.express.co.uk/news/world/1573271/russia-ukraine-news-vladimir-putin-kyv-invasion-world-war-3",
         "StartDate": "2022-02-25",
@@ -1956,14 +1956,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 5,
+        "EventID": "post5",
         "EventName": "Mariupol theater airstrike",
         "Latitude": 47.0957648,
         "Location": "Mariupol",
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/5",
+        "PostURL": "https://thehiddenprice.com/post5",
         "SourceA": "https://apnews.com/article/Russia-ukraine-war-mariupol-theater-c321a196fbd568899841b506afcac7a1",
         "airtable_createdTime": "2022-09-08T06:05:14.000Z",
         "airtable_id": "recQ1Z6nDG5MffYqW"
@@ -1975,14 +1975,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 101,
+        "EventID": "post101",
         "EventName": "4 killed in Badghis, Afghanistan",
         "Latitude": 35.10459899902344,
         "Location": "Badghis",
         "Longitude": 63.523677825927734,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/101",
+        "PostURL": "https://thehiddenprice.com/post101",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-27",
@@ -1999,7 +1999,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 58,
+        "EventID": "post58",
         "EventName": "15 killed and 27 injured in Achin, Afghanistan via drone strike",
         "InjuredCount": 27,
         "Latitude": 34.0454314,
@@ -2008,7 +2008,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/58",
+        "PostURL": "https://thehiddenprice.com/post58",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-09-28",
@@ -2027,14 +2027,14 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-09-09",
-        "EventID": 23,
+        "EventID": "post23",
         "EventName": "Two bodies with signs of torture found in Grakovo village",
         "Latitude": 49.630051,
         "Location": "Grakovo",
         "Longitude": 35.3825,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/23",
+        "PostURL": "https://thehiddenprice.com/post23",
         "SourceA": "https://www.straitstimes.com/world/europe/explosions-everywhere-as-ukraine-forces-recapture-village",
         "SourceB": "https://www.france24.com/en/live-news/20220910-explosions-everywhere-as-ukraine-forces-recapture-village",
         "StartDate": "2022-09-07",
@@ -2052,14 +2052,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 117,
+        "EventID": "post117",
         "EventName": "2 killed in Zabul, Afghanistan",
         "Latitude": 32.3068942,
         "Location": "Zabul",
         "Longitude": 67.129904,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/117",
+        "PostURL": "https://thehiddenprice.com/post117",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-08-26",
@@ -2077,14 +2077,14 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 159,
+        "EventID": "post159",
         "EventName": "14 civilians from three families were killed in a Coalition airstrike targeting a car bomb.",
         "Latitude": 36.33463543,
         "Location": "Nabi Sheet",
         "Longitude": 43.135051,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/159",
+        "PostURL": "https://thehiddenprice.com/post159",
         "SourceA": "https://airwars.org/civilian-casualties/ci500-march-1-2017/",
         "StartDate": "2017-03-01",
         "Tags": [
@@ -2101,7 +2101,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 61,
+        "EventID": "post61",
         "EventName": "14 killed, including 7 children, and 2 injured in Chardara, Afghanistan",
         "InjuredCount": 2,
         "Latitude": 36.60552370544224,
@@ -2110,7 +2110,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/61",
+        "PostURL": "https://thehiddenprice.com/post61",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-19",
@@ -2127,14 +2127,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 89,
+        "EventID": "post89",
         "EventName": "6 killed in Ghazni, Afghanistan",
         "Latitude": 33.3149631,
         "Location": "Ghazni",
         "Longitude": 67.828989,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/89",
+        "PostURL": "https://thehiddenprice.com/post89",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-28",
@@ -2152,7 +2152,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 94,
+        "EventID": "post94",
         "EventName": "5 killed, including 4 children, and 25 injured in Khoshamand, Afghanistan via drone strike",
         "InjuredCount": 25,
         "Latitude": 32.68904231709581,
@@ -2161,7 +2161,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/94",
+        "PostURL": "https://thehiddenprice.com/post94",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-08-12",
@@ -2179,7 +2179,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 99,
+        "EventID": "post99",
         "EventName": "4 killed and 30 injured in Sherzad, Afghanistan",
         "InjuredCount": 30,
         "Latitude": 34.1943181,
@@ -2188,7 +2188,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/99",
+        "PostURL": "https://thehiddenprice.com/post99",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-10-28",
@@ -2206,14 +2206,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 111,
+        "EventID": "post111",
         "EventName": "3 killed, including 1 child, in Wardak, Afghanistan",
         "Latitude": 34.3191345,
         "Location": "Wardak",
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/111",
+        "PostURL": "https://thehiddenprice.com/post111",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-12-06",
@@ -2231,7 +2231,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 134,
+        "EventID": "post134",
         "EventName": "1 killed, including 1 child, in Kunar, Afghanistan via drone strike",
         "Latitude": 34.95,
         "Location": "Kunar",
@@ -2239,7 +2239,7 @@
         "Notes": "Training camp",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/134",
+        "PostURL": "https://thehiddenprice.com/post134",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-07",
@@ -2257,14 +2257,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 8,
+        "EventID": "post8",
         "EventName": "Ukrainian cyclist hit by missile",
         "Latitude": 48.7497621,
         "Location": "Uman",
         "Longitude": 30.2203052,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/8",
+        "PostURL": "https://thehiddenprice.com/post8",
         "SourceA": "https://www.mirror.co.uk/news/world-news/cyclist-seen-being-hit-explosive-26318197",
         "SourceB": "https://www.dailystar.co.uk/news/world-news/horror-moment-ukrainian-cyclist-hit-26318118",
         "StartDate": "2022-02-24",
@@ -2282,7 +2282,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 95,
+        "EventID": "post95",
         "EventName": "5 killed and 4 injured in Laghman, Afghanistan",
         "InjuredCount": 4,
         "Latitude": 34.783333,
@@ -2291,7 +2291,7 @@
         "Notes": "Four caves including weapons caches",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/95",
+        "PostURL": "https://thehiddenprice.com/post95",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-02",
@@ -2308,7 +2308,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 105,
+        "EventID": "post105",
         "EventName": "3 killed and 1 injured in Kunar, Afghanistan",
         "InjuredCount": 1,
         "Latitude": 34.95,
@@ -2316,7 +2316,7 @@
         "Longitude": 71.133333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/105",
+        "PostURL": "https://thehiddenprice.com/post105",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-14",
@@ -2333,14 +2333,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 37,
+        "EventID": "post37",
         "EventName": "Two civilians killed in burning car after Russian airstrikes on residential area",
         "Latitude": 49.9923181,
         "Location": "Kharkiv",
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/37",
+        "PostURL": "https://thehiddenprice.com/post37",
         "SourceA": "https://apnews.com/article/russia-ukraine-putin-kyiv-business-europe-f0e1cd893715eda1e6bef696d9c47db3",
         "StartDate": "2022-04-21",
         "Tags": [
@@ -2358,7 +2358,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 64,
+        "EventID": "post64",
         "EventName": "13 killed, including 12 children, and 18 injured in Sheltan, Afghanistan",
         "InjuredCount": 18,
         "Latitude": 35.036301,
@@ -2366,7 +2366,7 @@
         "Longitude": 71.225047,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/64",
+        "PostURL": "https://thehiddenprice.com/post64",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-12-14",
@@ -2383,14 +2383,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 141,
+        "EventID": "post141",
         "EventName": "1 killed in Kunduz City, Afghanistan",
         "Latitude": 36.72895,
         "Location": "Kunduz City",
         "Longitude": 68.857,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/141",
+        "PostURL": "https://thehiddenprice.com/post141",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-08",
@@ -2407,7 +2407,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 131,
+        "EventID": "post131",
         "EventName": "1 killed and 1 injured in Helmand, Afghanistan",
         "InjuredCount": 1,
         "Latitude": 31.18504524230957,
@@ -2415,7 +2415,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/131",
+        "PostURL": "https://thehiddenprice.com/post131",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-01-03",
@@ -2432,7 +2432,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 118,
+        "EventID": "post118",
         "EventName": "2 killed in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
@@ -2440,7 +2440,7 @@
         "Notes": "One structure, motorcycle, tactical unit",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/118",
+        "PostURL": "https://thehiddenprice.com/post118",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-29",
@@ -2457,14 +2457,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 53,
+        "EventID": "post53",
         "EventName": "21 killed in Gomal, Afghanistan via drone strike",
         "Latitude": 32.38889,
         "Location": "Gomal",
         "Longitude": 68.946651,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/53",
+        "PostURL": "https://thehiddenprice.com/post53",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-04-07",
@@ -2482,7 +2482,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 73,
+        "EventID": "post73",
         "EventName": "9 killed and 6 injured in Logar, Afghanistan",
         "InjuredCount": 6,
         "Latitude": 34.0653595,
@@ -2490,7 +2490,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/73",
+        "PostURL": "https://thehiddenprice.com/post73",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-22",
@@ -2508,14 +2508,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 19,
+        "EventID": "post19",
         "EventName": "6-year-old girl killed in Russian shelling",
         "Latitude": 47.0957648,
         "Location": "Mariupol",
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/19",
+        "PostURL": "https://thehiddenprice.com/post19",
         "SourceA": "https://www.businessinsider.com/6-year-old-ukrainian-girl-was-killed-russian-shelling-report-2022-2",
         "SourceB": "https://www.nydailynews.com/news/ny-ukraine-shelling-hospital-20220228-47df3lwex5bknonnvohinptjau-story.html",
         "SourceC": "https://www.independent.co.uk/news/world/europe/russia-ukraine-girl-killed-shelling-b2024832.html",
@@ -2535,7 +2535,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 46,
+        "EventID": "post46",
         "EventName": "42 killed, including 3 children, and 27 injured in Kunduz city, Afghanistan",
         "InjuredCount": 27,
         "Latitude": 36.72895,
@@ -2544,7 +2544,7 @@
         "Notes": "MSF Hospital",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/46",
+        "PostURL": "https://thehiddenprice.com/post46",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-10-03",
@@ -2562,7 +2562,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-08-04",
-        "EventID": 28,
+        "EventID": "post28",
         "EventName": "8 killed after Russian shelling on bus stop in Toretsk",
         "InjuredCount": 4,
         "Latitude": 48.3970469,
@@ -2570,7 +2570,7 @@
         "Longitude": 37.8501378,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/28",
+        "PostURL": "https://thehiddenprice.com/post28",
         "SourceA": "https://www.reuters.com/world/europe/russian-shelling-kills-eight-eastern-town-toretsk-ukrainian-governor-2022-08-04/",
         "SourceB": "https://www.dailysabah.com/world/europe/russian-shelling-kills-8-in-eastern-ukraine-town-of-toretsk",
         "StartDate": "2022-08-04",
@@ -2589,14 +2589,14 @@
         "CountryTable": [
             "recec93hV8Wd0U36f"
         ],
-        "EventID": 148,
+        "EventID": "post148",
         "EventName": "Airstrike struck Al-Baghouz camp on the night of March 13th.",
         "Latitude": 34.4641667,
         "Location": "Al-Baghouz",
         "Longitude": 40.9452778,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/148",
+        "PostURL": "https://thehiddenprice.com/post148",
         "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
         "StartDate": "2019-03-13",
         "Tags": [
@@ -2612,7 +2612,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 132,
+        "EventID": "post132",
         "EventName": "1 killed and 1 injured in Helmand, Afghanistan",
         "InjuredCount": 1,
         "Latitude": 31.18504524230957,
@@ -2620,7 +2620,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/132",
+        "PostURL": "https://thehiddenprice.com/post132",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-02-15",
@@ -2637,14 +2637,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 125,
+        "EventID": "post125",
         "EventName": "1 killed in Alishir, Afghanistan via drone strike",
         "Latitude": 33.4658,
         "Location": "Alishir",
         "Longitude": 70.0911,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/125",
+        "PostURL": "https://thehiddenprice.com/post125",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-03-02",
@@ -2663,14 +2663,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 86,
+        "EventID": "post86",
         "EventName": "6 killed, including 4 children, in Uruzgan, Afghanistan",
         "Latitude": 32.8129681,
         "Location": "Uruzgan",
         "Longitude": 66.0183185,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/86",
+        "PostURL": "https://thehiddenprice.com/post86",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-08",
@@ -2688,7 +2688,7 @@
         "CountryTable": [
             "recec93hV8Wd0U36f"
         ],
-        "EventID": 153,
+        "EventID": "post153",
         "EventName": "Airstrike on school being used to house displaced individuals.",
         "InjuredCount": 30,
         "Latitude": 36.6398137,
@@ -2697,7 +2697,7 @@
         "Notes": "Between 78 and 203 civilians were reported killed in a catastrophic event at the village of Tokhar \u2013 the scene of a number of other recent civilian fatalities from alleged Coalition strikes.",
         "Perpetrator": " US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/153",
+        "PostURL": "https://thehiddenprice.com/post153",
         "SourceA": "https://airwars.org/civilian-casualties/cs273-july-19-2016/",
         "StartDate": "2016-07-19",
         "Tags": [
@@ -2714,7 +2714,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 69,
+        "EventID": "post69",
         "EventName": "12 killed, including 9 children, in Hesarak, Afghanistan",
         "Latitude": 34.279479,
         "Location": "Hesarak",
@@ -2722,7 +2722,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/69",
+        "PostURL": "https://thehiddenprice.com/post69",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-09",
@@ -2740,7 +2740,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 63,
+        "EventID": "post63",
         "EventName": "13 killed, including 10 children, and 12 injured in Pul e 'Alam, Afghanistan",
         "InjuredCount": 12,
         "Latitude": 34.000217122548996,
@@ -2748,7 +2748,7 @@
         "Longitude": 69.01863594512659,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/63",
+        "PostURL": "https://thehiddenprice.com/post63",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-08-30",
@@ -2765,14 +2765,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 98,
+        "EventID": "post98",
         "EventName": "5 killed in Farah, Afghanistan",
         "Latitude": 32.607111,
         "Location": "Farah",
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/98",
+        "PostURL": "https://thehiddenprice.com/post98",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-02-08",
@@ -2789,7 +2789,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 43,
+        "EventID": "post43",
         "EventName": "Bodies with signs of torture found in cellar",
         "Latitude": 49.2160489,
         "Location": "Izyum",
@@ -2797,7 +2797,7 @@
         "Notes": "Bodies had signs of torture and were set on fire.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/43",
+        "PostURL": "https://thehiddenprice.com/post43",
         "SourceA": "https://atalayar.com/en/content/who-behind-bucha-crimes",
         "StartDate": "2022-04-07",
         "Tags": [
@@ -2815,7 +2815,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-09-11",
-        "EventID": 22,
+        "EventID": "post22",
         "EventName": "Russian shelling on residential buildings",
         "InjuredCount": 19,
         "Latitude": 47.9212914,
@@ -2823,7 +2823,7 @@
         "Longitude": 37.7809825,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/22",
+        "PostURL": "https://thehiddenprice.com/post22",
         "SourceA": "https://sports.yahoo.com/10-civilians-killed-19-injured-085600729.html",
         "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
         "StartDate": "2022-09-11",
@@ -2841,14 +2841,14 @@
         "CountryTable": [
             "recfHOOJhdZOyMmis"
         ],
-        "EventID": 149,
+        "EventID": "post149",
         "EventName": "One civilian was killed by a US drone strike in the vicinity of Ja\u2019ar.",
         "Latitude": 14.34166,
         "Location": "Al Bayda",
         "Longitude": 45.394422,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/149",
+        "PostURL": "https://thehiddenprice.com/post149",
         "SourceA": "https://airwars.org/civilian-casualties/usyemtr186-c-january-21-2019/",
         "StartDate": "2019-01-21",
         "Tags": [
@@ -2865,7 +2865,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 55,
+        "EventID": "post55",
         "EventName": "21 killed, including 5 children, and 6 injured in Sangin, Afghanistan",
         "InjuredCount": 6,
         "Latitude": 32.123611,
@@ -2874,7 +2874,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/55",
+        "PostURL": "https://thehiddenprice.com/post55",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-02-08",
@@ -2892,7 +2892,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 52,
+        "EventID": "post52",
         "EventName": "23 killed, including 10 children, and 3 injured in Garmsir, Afghanistan",
         "InjuredCount": 3,
         "Latitude": 30.8523271,
@@ -2901,7 +2901,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/52",
+        "PostURL": "https://thehiddenprice.com/post52",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-27",
@@ -2918,14 +2918,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 76,
+        "EventID": "post76",
         "EventName": "8 killed in Farah, Afghanistan",
         "Latitude": 32.607111,
         "Location": "Farah",
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/76",
+        "PostURL": "https://thehiddenprice.com/post76",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-23",
@@ -2942,7 +2942,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 13,
+        "EventID": "post13",
         "EventName": "Civilians killed in Maryanivka",
         "InjuredCount": 15,
         "Latitude": 48.718899,
@@ -2950,7 +2950,7 @@
         "Longitude": 35.21225,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/13",
+        "PostURL": "https://thehiddenprice.com/post13",
         "SourceA": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -2968,14 +2968,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 81,
+        "EventID": "post81",
         "EventName": "7 killed, including 1 child, in Kunduz, Afghanistan",
         "Latitude": 36.8707187,
         "Location": "Kunduz",
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/81",
+        "PostURL": "https://thehiddenprice.com/post81",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-01-30",
@@ -2993,14 +2993,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 91,
+        "EventID": "post91",
         "EventName": "6 killed, including 1 child, in Kapisa, Afghanistan",
         "Latitude": 34.905556,
         "Location": "Kapisa",
         "Longitude": 69.741667,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/91",
+        "PostURL": "https://thehiddenprice.com/post91",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-12-23",
@@ -3017,14 +3017,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 136,
+        "EventID": "post136",
         "EventName": "1 killed in Wardak, Afghanistan",
         "Latitude": 34.3191345,
         "Location": "Wardak",
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/136",
+        "PostURL": "https://thehiddenprice.com/post136",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-05-08",
@@ -3040,14 +3040,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 6,
+        "EventID": "post6",
         "EventName": "Attacks on Chernihiv apartment buildings",
         "Latitude": 51.272593,
         "Location": "Chernihiv",
         "Longitude": 31.7417235,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/6",
+        "PostURL": "https://thehiddenprice.com/post6",
         "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
         "airtable_createdTime": "2022-09-08T06:09:28.000Z",
         "airtable_id": "recjDuyoIVkj78GbI"
@@ -3060,14 +3060,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 97,
+        "EventID": "post97",
         "EventName": "5 killed, including 1 child, in Surobi, Afghanistan",
         "Latitude": 34.6278463,
         "Location": "Surobi",
         "Longitude": 69.7177027,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/97",
+        "PostURL": "https://thehiddenprice.com/post97",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-25",
@@ -3085,7 +3085,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 48,
+        "EventID": "post48",
         "EventName": "33 killed, including 20 children, and 62 injured in Kunduz city, Afghanistan",
         "InjuredCount": 62,
         "Latitude": 36.72895,
@@ -3094,7 +3094,7 @@
         "Notes": "Early morning. Civilian houses",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/48",
+        "PostURL": "https://thehiddenprice.com/post48",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-11-03",
@@ -3111,7 +3111,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 115,
+        "EventID": "post115",
         "EventName": "2 killed and 4 injured in Nangarhar, Afghanistan",
         "InjuredCount": 4,
         "Latitude": 34.220389,
@@ -3119,7 +3119,7 @@
         "Longitude": 70.3800314,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/115",
+        "PostURL": "https://thehiddenprice.com/post115",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-01-01",
@@ -3136,7 +3136,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 156,
+        "EventID": "post156",
         "EventName": "16 civilians were killed and many were injured in Coalition and Iraqi government airstrikes on Al-Shafaa neighbourhood in West Mosul",
         "InjuredCount": 5,
         "Latitude": 36.3535643,
@@ -3144,7 +3144,7 @@
         "Longitude": 43.12323,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/156",
+        "PostURL": "https://thehiddenprice.com/post156",
         "SourceA": "https://airwars.org/civilian-casualties/ci610-april-5-2017/",
         "StartDate": "2017-04-05",
         "Tags": [
@@ -3161,14 +3161,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 133,
+        "EventID": "post133",
         "EventName": "1 killed in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/133",
+        "PostURL": "https://thehiddenprice.com/post133",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-02-16",
@@ -3185,7 +3185,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 49,
+        "EventID": "post49",
         "EventName": "30 killed and 40 injured in Khogyani, Afghanistan via drone strike",
         "InjuredCount": 40,
         "Latitude": 33.559046,
@@ -3193,7 +3193,7 @@
         "Longitude": 68.298941,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/49",
+        "PostURL": "https://thehiddenprice.com/post49",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-19",
@@ -3212,7 +3212,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 41,
+        "EventID": "post41",
         "EventName": "Shelling of a residential area kills at least 7",
         "InjuredCount": 34,
         "Latitude": 49.9923181,
@@ -3221,7 +3221,7 @@
         "Notes": "7-month-old and 15-year-old among those killed.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/41",
+        "PostURL": "https://thehiddenprice.com/post41",
         "SourceA": "https://www.ocregister.com/2022/04/15/police-more-than-900-civilian-bodies-found-in-kyiv-region/",
         "StartDate": "2022-04-15",
         "Tags": [
@@ -3238,7 +3238,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 130,
+        "EventID": "post130",
         "EventName": "1 killed in Zurmat, Afghanistan",
         "Latitude": 33.436035,
         "Location": "Zurmat",
@@ -3246,7 +3246,7 @@
         "Notes": "Hit during a clash between ANSF and Taliban",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/130",
+        "PostURL": "https://thehiddenprice.com/post130",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-07-08",
@@ -3263,14 +3263,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 18,
+        "EventID": "post18",
         "EventName": "Three people died during a shelling of a private house",
         "Latitude": 50.64398193359375,
         "Location": "Borodyanka",
         "Longitude": 29.894670486450195,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/18",
+        "PostURL": "https://thehiddenprice.com/post18",
         "SourceA": "https://hindustannewshub.com/russia-ukraine-news/in-borodyanka-three-people-died-during-a-shelling-of-a-residential-building/",
         "SourceB": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-26",
@@ -3288,7 +3288,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 12,
+        "EventID": "post12",
         "EventName": "Shelling kills one, injures three at Kharkiv blood bank",
         "InjuredCount": 3,
         "Latitude": 49.9923181,
@@ -3296,7 +3296,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/12",
+        "PostURL": "https://thehiddenprice.com/post12",
         "SourceA": "https://www.africanews.com/2022/02/27/kharkiv-blood-donation-centre-hit-by-shelling/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -3314,14 +3314,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 35,
+        "EventID": "post35",
         "EventName": "Attack on residential building kills two children",
         "Latitude": 48.9801314,
         "Location": "Lyman",
         "Longitude": 37.8168012,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/35",
+        "PostURL": "https://thehiddenprice.com/post35",
         "SourceA": "https://www.knkx.org/2022-04-26/photos-russian-missiles-strike-kyiv-as-battle-slows-down-in-eastern-ukraine",
         "StartDate": "2022-04-25",
         "Tags": [
@@ -3339,7 +3339,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-08-10",
-        "EventID": 27,
+        "EventID": "post27",
         "EventName": "Seven killed in Russian shelling in Bakhmut",
         "InjuredCount": 6,
         "Latitude": 48.5894123,
@@ -3347,7 +3347,7 @@
         "Longitude": 38.0020994,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/27",
+        "PostURL": "https://thehiddenprice.com/post27",
         "SourceA": "https://www.nytimes.com/2022/08/11/world/europe/ukraine-war-frontline.html",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3547712-7-killed-6-injured-in-russias-attack-on-bakhmut.html#:~:text=Law%20enforcement%20officers%20have%20opened,killed%20and%20six%20more%20injured.",
         "StartDate": "2022-08-10",
@@ -3365,14 +3365,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 116,
+        "EventID": "post116",
         "EventName": "2 killed in Helmand, Afghanistan",
         "Latitude": 31.18504524230957,
         "Location": "Helmand",
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/116",
+        "PostURL": "https://thehiddenprice.com/post116",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-23",
@@ -3390,7 +3390,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 51,
+        "EventID": "post51",
         "EventName": "26 killed, including 19 children, and 6 injured in Sangin, Afghanistan",
         "InjuredCount": 6,
         "Latitude": 32.123611,
@@ -3398,7 +3398,7 @@
         "Longitude": 64.996532,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/51",
+        "PostURL": "https://thehiddenprice.com/post51",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-02-10",
@@ -3416,14 +3416,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 120,
+        "EventID": "post120",
         "EventName": "2 killed, including 2 children, in Kapisa, Afghanistan",
         "Latitude": 34.905556,
         "Location": "Kapisa",
         "Longitude": 69.741667,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/120",
+        "PostURL": "https://thehiddenprice.com/post120",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-26",
@@ -3440,14 +3440,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 83,
+        "EventID": "post83",
         "EventName": "6 killed in Zurmat, Afghanistan",
         "Latitude": 33.436035,
         "Location": "Zurmat",
         "Longitude": 69.0323827,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/83",
+        "PostURL": "https://thehiddenprice.com/post83",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-12-31",
@@ -3464,7 +3464,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 85,
+        "EventID": "post85",
         "EventName": "6 killed and 88 injured in Kunduz, Afghanistan",
         "InjuredCount": 88,
         "Latitude": 36.8707187,
@@ -3472,7 +3472,7 @@
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/85",
+        "PostURL": "https://thehiddenprice.com/post85",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-13",
@@ -3489,7 +3489,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 10,
+        "EventID": "post10",
         "EventName": "Russian Cluster Munition Hits Hospital",
         "InjuredCount": 10,
         "Latitude": 47.7805058,
@@ -3498,7 +3498,7 @@
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/10",
+        "PostURL": "https://thehiddenprice.com/post10",
         "SourceA": "https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital",
         "SourceB": "https://www.emergency-live.com/news/ukraine-russian-bombardment-hits-hospital-four-dead-and-ten-wounded-martial-law-in-force/",
         "StartDate": "2022-02-24",
@@ -3517,7 +3517,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 44,
+        "EventID": "post44",
         "EventName": "64 killed and 52 injured in Farah, Afghanistan",
         "InjuredCount": 52,
         "Latitude": 32.607111,
@@ -3525,7 +3525,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/44",
+        "PostURL": "https://thehiddenprice.com/post44",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-05",
@@ -3543,7 +3543,7 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-08-30",
-        "EventID": 25,
+        "EventID": "post25",
         "EventName": "Four people killed in shelling of Kharkiv residential area",
         "InjuredCount": 7,
         "Latitude": 49.9923181,
@@ -3551,7 +3551,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/25",
+        "PostURL": "https://thehiddenprice.com/post25",
         "SourceA": "https://www.anews.com.tr/world/2022/08/30/at-least-four-killed-in-russian-shelling-of-ukraines-city-of-kharkiv-governor-says",
         "SourceB": "https://uk.movies.yahoo.com/kharkiv-least-four-killed-russian-103410103.html",
         "StartDate": "2022-08-30",
@@ -3569,14 +3569,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 138,
+        "EventID": "post138",
         "EventName": "1 killed in Farah, Afghanistan",
         "Latitude": 32.607111,
         "Location": "Farah",
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/138",
+        "PostURL": "https://thehiddenprice.com/post138",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-06-30",
@@ -3594,14 +3594,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 70,
+        "EventID": "post70",
         "EventName": "11 killed, including 3 children, in Zurmat, Afghanistan",
         "Latitude": 33.436035,
         "Location": "Zurmat",
         "Longitude": 69.0323827,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/70",
+        "PostURL": "https://thehiddenprice.com/post70",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-12",
@@ -3619,7 +3619,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 104,
+        "EventID": "post104",
         "EventName": "3 killed, including 2 children, and 4 injured in Achin, Afghanistan",
         "InjuredCount": 4,
         "Latitude": 34.0454314,
@@ -3627,7 +3627,7 @@
         "Longitude": 70.6692329,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/104",
+        "PostURL": "https://thehiddenprice.com/post104",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-04-04",
@@ -3644,7 +3644,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 106,
+        "EventID": "post106",
         "EventName": "3 killed and 7 injured in Nad Ali, Afghanistan",
         "InjuredCount": 7,
         "Latitude": 31.6434234,
@@ -3652,7 +3652,7 @@
         "Longitude": 64.237812,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/106",
+        "PostURL": "https://thehiddenprice.com/post106",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-08-16",
@@ -3669,7 +3669,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 107,
+        "EventID": "post107",
         "EventName": "3 killed in Kunar, Afghanistan",
         "Latitude": 34.95,
         "Location": "Kunar",
@@ -3677,7 +3677,7 @@
         "Notes": "Two buildings, two rocket systems, one weapons cache and one fighting position",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/107",
+        "PostURL": "https://thehiddenprice.com/post107",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-20",
@@ -3694,7 +3694,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 127,
+        "EventID": "post127",
         "EventName": "1 killed in Chapahar, Afghanistan via drone strike",
         "Latitude": 34.27638474242447,
         "Location": "Chapahar",
@@ -3702,7 +3702,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/127",
+        "PostURL": "https://thehiddenprice.com/post127",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-04",
@@ -3721,14 +3721,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 90,
+        "EventID": "post90",
         "EventName": "6 killed, including 3 children, in Badghis, Afghanistan",
         "Latitude": 35.10459899902344,
         "Location": "Badghis",
         "Longitude": 63.523677825927734,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/90",
+        "PostURL": "https://thehiddenprice.com/post90",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-07",
@@ -3745,7 +3745,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 140,
+        "EventID": "post140",
         "EventName": "1 killed and 2 injured in Helmand, Afghanistan",
         "InjuredCount": 2,
         "Latitude": 31.18504524230957,
@@ -3753,7 +3753,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/140",
+        "PostURL": "https://thehiddenprice.com/post140",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-28",
@@ -3770,14 +3770,14 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 20,
+        "EventID": "post20",
         "EventName": "Vadim Shishimarin kills 62 year old unarmed Ukrainian man",
         "Latitude": 50.379852,
         "Location": "Chupakhivka",
         "Longitude": 34.584534,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/20",
+        "PostURL": "https://thehiddenprice.com/post20",
         "SourceA": "https://www.washingtonpost.com/world/2022/05/23/ukraine-russia-soldier-war-crimes-verdict/",
         "SourceB": "https://www.bbc.com/news/world-europe-61549569",
         "SourceC": "https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial",
@@ -3796,7 +3796,7 @@
         "CountryTable": [
             "recdUBhXBZVyiwNjT"
         ],
-        "EventID": 154,
+        "EventID": "post154",
         "EventName": "Coalition airstrike on an electricity generating facility reportedly killed up to 35 civilians and injured 22 more when nearby apartments were caught in the blast.",
         "InjuredCount": 22,
         "Latitude": 36.35132,
@@ -3804,7 +3804,7 @@
         "Longitude": 43.21243,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/154",
+        "PostURL": "https://thehiddenprice.com/post154",
         "SourceA": "https://airwars.org/civilian-casualties/ci060-april-20-2015/",
         "StartDate": "2015-04-20",
         "Tags": [
@@ -3821,14 +3821,14 @@
             "recYV9FOGTfp2C8TR"
         ],
         "EndDate": "2022-08-31",
-        "EventID": 24,
+        "EventID": "post24",
         "EventName": "Civilian tortured, executed by Russian troops",
         "Latitude": 50.67502,
         "Location": "Zdvyzhivka",
         "Longitude": 30.06642,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/24",
+        "PostURL": "https://thehiddenprice.com/post24",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/09/1/7365702/",
         "SourceB": "https://finance.yahoo.com/news/body-another-man-tortured-murdered-184800930.html",
         "StartDate": "2022-08-31",
@@ -3846,14 +3846,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 108,
+        "EventID": "post108",
         "EventName": "3 killed in Laghman, Afghanistan",
         "Latitude": 34.783333,
         "Location": "Laghman",
         "Longitude": 70.183333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/108",
+        "PostURL": "https://thehiddenprice.com/post108",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-19",
@@ -3871,7 +3871,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 124,
+        "EventID": "post124",
         "EventName": "2 killed and 10 injured in Faryab, Afghanistan via drone strike",
         "InjuredCount": 10,
         "Latitude": 36.03603744506836,
@@ -3879,7 +3879,7 @@
         "Longitude": 64.89441680908203,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/124",
+        "PostURL": "https://thehiddenprice.com/post124",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-08-04",
@@ -3897,14 +3897,14 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 135,
+        "EventID": "post135",
         "EventName": "1 killed in Herat, Afghanistan",
         "Latitude": 34.3508273,
         "Location": "Herat",
         "Longitude": 62.2164003,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/135",
+        "PostURL": "https://thehiddenprice.com/post135",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-31",
@@ -3922,7 +3922,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 56,
+        "EventID": "post56",
         "EventName": "16 killed, including 2 children, and 3 injured in Haska Mena, Afghanistan",
         "InjuredCount": 3,
         "Latitude": 34.116985,
@@ -3931,7 +3931,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/56",
+        "PostURL": "https://thehiddenprice.com/post56",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-08-10",
@@ -3949,7 +3949,7 @@
         "CountryTable": [
             "recYV9FOGTfp2C8TR"
         ],
-        "EventID": 2,
+        "EventID": "post2",
         "EventName": "Independence Day attack on Ukraine's train system",
         "InjuredCount": 50,
         "Latitude": 48.12836,
@@ -3957,7 +3957,7 @@
         "Longitude": 36.22673,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
-        "PostURL": "https://thehiddenprice.com/2",
+        "PostURL": "https://thehiddenprice.com/post2",
         "SourceA": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-3507728aeaf8ebfc68a1cdbd3aa8c30e",
         "SourceB": "https://apnews.com/article/russia-ukraine-war-crimes-government-and-politics-0abd99fd89a62042287341e88758d32f",
         "StartDate": "2022-08-24",
@@ -3975,7 +3975,7 @@
         "CountryTable": [
             "recU6zcKTJxGA3GEL"
         ],
-        "EventID": 119,
+        "EventID": "post119",
         "EventName": "2 killed, including 1 child, and 13 injured in Nad Ali, Afghanistan",
         "InjuredCount": 13,
         "Latitude": 31.6434234,
@@ -3984,7 +3984,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/119",
+        "PostURL": "https://thehiddenprice.com/post119",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-24",
@@ -4002,7 +4002,7 @@
         "CountryTable": [
             "recec93hV8Wd0U36f"
         ],
-        "EventID": 147,
+        "EventID": "post147",
         "EventName": "A child and a humanitarian worker were reported killed, in addition to two leaders from Al Qaeda affiliated Hurras Addin group",
         "InjuredCount": 5,
         "Latitude": 31.25573,
@@ -4010,7 +4010,7 @@
         "Longitude": 32.28738,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/147",
+        "PostURL": "https://thehiddenprice.com/post147",
         "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
         "StartDate": "2020-10-15",
         "Tags": [
@@ -4027,7 +4027,7 @@
         "CountryTable": [
             "recfHOOJhdZOyMmis"
         ],
-        "EventID": 150,
+        "EventID": "post150",
         "EventName": "At least 15 civilians, including at least 10 children and four women, were reportedly killed in a US Navy special forces operation in al-Ghayil village",
         "InjuredCount": 7,
         "Latitude": 14.592945,
@@ -4035,7 +4035,7 @@
         "Longitude": 45.038975,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
-        "PostURL": "https://thehiddenprice.com/150",
+        "PostURL": "https://thehiddenprice.com/post150",
         "SourceA": "https://airwars.org/civilian-casualties/usyemtr006-c-january-29-2017/",
         "StartDate": "2017-01-29",
         "Tags": [
