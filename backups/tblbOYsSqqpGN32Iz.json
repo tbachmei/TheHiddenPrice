@@ -15,6 +15,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/88",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-21",
@@ -22,8 +23,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:11.000Z",
-        "airtable_id": "rec0ERrwGF5dft2DX",
-        "url": "https://thehiddenprice.com/88"
+        "airtable_id": "rec0ERrwGF5dft2DX"
     },
     {
         "CivilianDeathCount": 5,
@@ -39,6 +39,7 @@
         "Longitude": 64.89441680908203,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/96",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-06",
@@ -46,8 +47,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:18.000Z",
-        "airtable_id": "rec0giZSKJaivFffM",
-        "url": "https://thehiddenprice.com/96"
+        "airtable_id": "rec0giZSKJaivFffM"
     },
     {
         "ChildDeathCount": 2,
@@ -65,6 +65,7 @@
         "Longitude": 70.461125,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/75",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-07-23",
@@ -73,8 +74,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:53.000Z",
-        "airtable_id": "rec0uy3HOJUcnqWz5",
-        "url": "https://thehiddenprice.com/75"
+        "airtable_id": "rec0uy3HOJUcnqWz5"
     },
     {
         "ChildDeathCount": 11,
@@ -92,6 +92,7 @@
         "Notes": "house was hit in the strike that killed civilians",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/68",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-23",
@@ -99,8 +100,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:39.000Z",
-        "airtable_id": "rec15I4q8r8kfOV2w",
-        "url": "https://thehiddenprice.com/68"
+        "airtable_id": "rec15I4q8r8kfOV2w"
     },
     {
         "ChildDeathCount": 1,
@@ -117,6 +117,7 @@
         "Longitude": 71.24458926267408,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/129",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-01-09",
@@ -125,8 +126,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:13.000Z",
-        "airtable_id": "rec1DUxf4uUHqaeLJ",
-        "url": "https://thehiddenprice.com/129"
+        "airtable_id": "rec1DUxf4uUHqaeLJ"
     },
     {
         "CivilianDeathCount": 1,
@@ -143,6 +143,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/128",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-10-27",
@@ -150,8 +151,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:13.000Z",
-        "airtable_id": "rec1FpZlxgCoYOFt9",
-        "url": "https://thehiddenprice.com/128"
+        "airtable_id": "rec1FpZlxgCoYOFt9"
     },
     {
         "ChildDeathCount": 1,
@@ -169,14 +169,14 @@
         "Notes": "15-year-old girl among those found.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/38",
         "SourceA": "https://timesofindia.indiatimes.com/world/europe/ukraine-says-9-bodies-found-outside-kyiv-some-with-signs-of-torture/articleshow/90975737.cms",
         "StartDate": "2022-04-20",
         "Tags": [
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-29T03:56:11.000Z",
-        "airtable_id": "rec217ZU3qP88jKm0",
-        "url": "https://thehiddenprice.com/38"
+        "airtable_id": "rec217ZU3qP88jKm0"
     },
     {
         "ChildDeathCount": 1,
@@ -194,6 +194,7 @@
         "Longitude": 36.6898157,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/9",
         "SourceA": "https://www.thenationalnews.com/world/2022/02/24/civilians-killed-as-stray-russian-missile-hits-apartment-block-in-ukraine/",
         "SourceB": "https://vchasnoua.com/en/392-russia-attacked-ukraine-online-update",
         "SourceC": "https://nypost.com/2022/02/24/ukraine-teacher-credits-guardian-angel-for-surviving-russia-missile-strike/",
@@ -203,8 +204,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T04:25:45.000Z",
-        "airtable_id": "rec2X1z4auZMmLWJo",
-        "url": "https://thehiddenprice.com/9"
+        "airtable_id": "rec2X1z4auZMmLWJo"
     },
     {
         "CivilianDeathCount": 4,
@@ -220,6 +220,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/100",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-06",
@@ -227,8 +228,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:21.000Z",
-        "airtable_id": "rec2fZyxHfa6Fbaml",
-        "url": "https://thehiddenprice.com/100"
+        "airtable_id": "rec2fZyxHfa6Fbaml"
     },
     {
         "CivilianDeathCount": 55,
@@ -245,6 +245,7 @@
         "Longitude": 68.72015309005414,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/45",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-11-04",
@@ -252,8 +253,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:06:45.000Z",
-        "airtable_id": "rec2gYqjXfvjFV7vu",
-        "url": "https://thehiddenprice.com/45"
+        "airtable_id": "rec2gYqjXfvjFV7vu"
     },
     {
         "ChildDeathCount": 5,
@@ -271,6 +271,7 @@
         "Notes": "Hideout",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/92",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-08",
@@ -279,8 +280,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:14.000Z",
-        "airtable_id": "rec306RSLH7H8xcko",
-        "url": "https://thehiddenprice.com/92"
+        "airtable_id": "rec306RSLH7H8xcko"
     },
     {
         "ChildDeathCount": 4,
@@ -298,6 +298,7 @@
         "Longitude": 70.349632,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/72",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-22",
@@ -305,8 +306,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:46.000Z",
-        "airtable_id": "rec39VoI24BZ0Kgnt",
-        "url": "https://thehiddenprice.com/72"
+        "airtable_id": "rec39VoI24BZ0Kgnt"
     },
     {
         "ChildDeathCount": 9,
@@ -323,6 +323,7 @@
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/66",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-22",
@@ -330,8 +331,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:35.000Z",
-        "airtable_id": "rec3CS8vDmCCCaiIO",
-        "url": "https://thehiddenprice.com/66"
+        "airtable_id": "rec3CS8vDmCCCaiIO"
     },
     {
         "CivilianDeathCount": 1,
@@ -348,6 +348,7 @@
         "Longitude": 70.3800314,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/137",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-06-01",
@@ -355,8 +356,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:18.000Z",
-        "airtable_id": "rec3GGXVM1aHMjdE8",
-        "url": "https://thehiddenprice.com/137"
+        "airtable_id": "rec3GGXVM1aHMjdE8"
     },
     {
         "CivilianDeathCount": 12,
@@ -373,14 +373,14 @@
         "Longitude": 43.11644,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/160",
         "SourceA": "https://airwars.org/civilian-casualties/ci417-january-12-2017/",
         "StartDate": "2017-01-12",
         "Tags": [
             "Shelling"
         ],
         "airtable_createdTime": "2022-10-17T08:41:57.000Z",
-        "airtable_id": "rec3b9cmDPFSM4vLq",
-        "url": "https://thehiddenprice.com/160"
+        "airtable_id": "rec3b9cmDPFSM4vLq"
     },
     {
         "CivilianDeathCount": 2,
@@ -397,6 +397,7 @@
         "Notes": "Building housing NGO",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/121",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-24",
@@ -404,8 +405,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:09.000Z",
-        "airtable_id": "rec43ZchE3mNSAGZZ",
-        "url": "https://thehiddenprice.com/121"
+        "airtable_id": "rec43ZchE3mNSAGZZ"
     },
     {
         "CivilianDeathCount": 8,
@@ -421,6 +421,7 @@
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/77",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-07",
@@ -428,8 +429,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:54.000Z",
-        "airtable_id": "rec4U12LE6QkF8hqm",
-        "url": "https://thehiddenprice.com/77"
+        "airtable_id": "rec4U12LE6QkF8hqm"
     },
     {
         "CivilianDeathCount": 2,
@@ -445,6 +445,7 @@
         "Longitude": 67.828989,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/122",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-07",
@@ -452,8 +453,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:09.000Z",
-        "airtable_id": "rec4feI3OG8XaU3rM",
-        "url": "https://thehiddenprice.com/122"
+        "airtable_id": "rec4feI3OG8XaU3rM"
     },
     {
         "CivilianDeathCount": 2,
@@ -470,6 +470,7 @@
         "Longitude": 67.987402,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/114",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-09-04",
@@ -477,8 +478,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:05.000Z",
-        "airtable_id": "rec4swOM3Sgy4XGRf",
-        "url": "https://thehiddenprice.com/114"
+        "airtable_id": "rec4swOM3Sgy4XGRf"
     },
     {
         "CivilianDeathCount": 13,
@@ -494,6 +494,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/65",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-25",
@@ -501,8 +502,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:16:48.000Z",
-        "airtable_id": "rec5XHvq2qnjy6Jc9",
-        "url": "https://thehiddenprice.com/65"
+        "airtable_id": "rec5XHvq2qnjy6Jc9"
     },
     {
         "ChildDeathCount": 1,
@@ -519,6 +519,7 @@
         "Longitude": 68.446963,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/142",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-10-06",
@@ -526,8 +527,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:21.000Z",
-        "airtable_id": "rec5b61FL1KPeASn0",
-        "url": "https://thehiddenprice.com/142"
+        "airtable_id": "rec5b61FL1KPeASn0"
     },
     {
         "CivilianDeathCount": 2,
@@ -543,6 +543,7 @@
         "Longitude": 64.6119531,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/113",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-08-31",
@@ -550,8 +551,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:04.000Z",
-        "airtable_id": "rec5cmUprQh8yV49d",
-        "url": "https://thehiddenprice.com/113"
+        "airtable_id": "rec5cmUprQh8yV49d"
     },
     {
         "ChildDeathCount": 22,
@@ -569,14 +569,14 @@
         "Longitude": 43.130001,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/143",
         "SourceA": "https://airwars.org/civilian-casualties/ci550-march-17-2017/",
         "StartDate": "2017-03-17",
         "Tags": [
             "Shelling"
         ],
         "airtable_createdTime": "2022-10-11T05:12:21.000Z",
-        "airtable_id": "rec6JdRwPZckhYZcD",
-        "url": "https://thehiddenprice.com/143"
+        "airtable_id": "rec6JdRwPZckhYZcD"
     },
     {
         "AbductedCount": 5,
@@ -594,6 +594,7 @@
         "Longitude": 30.0573963,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/7",
         "SourceA": "https://www.mirror.co.uk/news/world-news/russian-forces-chernobyl-killed-9-27136555",
         "SourceB": "https://apnews.com/article/russia-ukraine-business-health-europe-accidents-edcd5bc0e6bde3cbf6d7300bebc9343f",
         "StartDate": "2022-02-24",
@@ -601,8 +602,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T04:09:43.000Z",
-        "airtable_id": "rec6M2SVFjdp1qUvy",
-        "url": "https://thehiddenprice.com/7"
+        "airtable_id": "rec6M2SVFjdp1qUvy"
     },
     {
         "CivilianDeathCount": 2,
@@ -619,14 +619,14 @@
         "Longitude": 34.43224,
         "Perpetrator": "Palestinian Militants",
         "PerpetratorID": "PS",
+        "PostURL": "https://thehiddenprice.com/145",
         "SourceA": "https://airwars.org/civilian-casualties/palis028-may-18-2021/",
         "StartDate": "2021-05-18",
         "Tags": [
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-13T20:09:22.000Z",
-        "airtable_id": "rec6mXPJugDmxsH25",
-        "url": "https://thehiddenprice.com/145"
+        "airtable_id": "rec6mXPJugDmxsH25"
     },
     {
         "CivilianDeathCount": 21,
@@ -643,6 +643,7 @@
         "Longitude": 68.7036514,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/54",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-05",
@@ -650,8 +651,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:23.000Z",
-        "airtable_id": "rec7tSpLAMSjCxMRH",
-        "url": "https://thehiddenprice.com/54"
+        "airtable_id": "rec7tSpLAMSjCxMRH"
     },
     {
         "CivilianDeathCount": 7,
@@ -668,6 +668,7 @@
         "Notes": "Gunshot wounds to knees and head",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/32",
         "SourceA": "https://www.voanews.com/a/bucolic-ukraine-forest-is-site-of-mass-grave-exhumation-/6616015.html#:~:text=The%20horrors%20of%20Bucha%20shocked,knees%20and%20head%2C%20Nebytov%20said.",
         "SourceB": "https://www.arkansasonline.com/news/2022/jun/14/ukrainians-find-more-victims-near-bucha/",
         "StartDate": "2022-06-13",
@@ -676,8 +677,7 @@
             "Torture"
         ],
         "airtable_createdTime": "2022-09-29T03:55:57.000Z",
-        "airtable_id": "rec84WGSgbeLyfkEJ",
-        "url": "https://thehiddenprice.com/32"
+        "airtable_id": "rec84WGSgbeLyfkEJ"
     },
     {
         "ChildDeathCount": 1,
@@ -696,6 +696,7 @@
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/11",
         "SourceA": "https://www.amnesty.org/en/latest/news/2022/02/ukraine-cluster-munitions-kill-child-and-two-other-civilians-taking-shelter-at-a-preschool/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -704,8 +705,7 @@
             "Bombing"
         ],
         "airtable_createdTime": "2022-09-15T04:50:15.000Z",
-        "airtable_id": "rec916puplN9Wbc9d",
-        "url": "https://thehiddenprice.com/11"
+        "airtable_id": "rec916puplN9Wbc9d"
     },
     {
         "ChildDeathCount": 1,
@@ -723,11 +723,11 @@
         "Longitude": 30.7322878,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/36",
         "SourceA": "https://thehill.com/policy/international/3461310-russian-missile-strike-on-odesa-kills-8-including-3-month-old-baby-girl-zelensky-says/",
         "StartDate": "2022-04-23",
         "airtable_createdTime": "2022-09-29T03:56:08.000Z",
-        "airtable_id": "rec98ovVmEx2nQ4oe",
-        "url": "https://thehiddenprice.com/36"
+        "airtable_id": "rec98ovVmEx2nQ4oe"
     },
     {
         "CivilianDeathCount": 7,
@@ -743,6 +743,7 @@
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/80",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-09",
@@ -750,8 +751,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:59.000Z",
-        "airtable_id": "rec99hPzINyLiQMAz",
-        "url": "https://thehiddenprice.com/80"
+        "airtable_id": "rec99hPzINyLiQMAz"
     },
     {
         "CivilianDeathCount": 3,
@@ -768,6 +768,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/103",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-06-11",
@@ -776,8 +777,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:57.000Z",
-        "airtable_id": "rec9RuNqKiYgX8yk2",
-        "url": "https://thehiddenprice.com/103"
+        "airtable_id": "rec9RuNqKiYgX8yk2"
     },
     {
         "CivilianDeathCount": 4,
@@ -795,6 +795,7 @@
         "Longitude": 38.42538070678711,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/31",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/06/16/7352858/",
         "SourceB": "https://www.dw.com/en/ukraine-war-russia-strikes-lysychansk/av-62166615",
         "StartDate": "2022-06-16",
@@ -803,8 +804,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T03:55:53.000Z",
-        "airtable_id": "rec9oouYUfb6SUJ7Q",
-        "url": "https://thehiddenprice.com/31"
+        "airtable_id": "rec9oouYUfb6SUJ7Q"
     },
     {
         "CivilianDeathCount": 7,
@@ -821,6 +821,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/79",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-12",
@@ -828,8 +829,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:57.000Z",
-        "airtable_id": "rec9zPDSRdc3JFNBK",
-        "url": "https://thehiddenprice.com/79"
+        "airtable_id": "rec9zPDSRdc3JFNBK"
     },
     {
         "ChildDeathCount": 8,
@@ -847,6 +847,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/87",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-20",
@@ -854,8 +855,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:10.000Z",
-        "airtable_id": "recArqszJSuuxmvSY",
-        "url": "https://thehiddenprice.com/87"
+        "airtable_id": "recArqszJSuuxmvSY"
     },
     {
         "CivilianDeathCount": 10,
@@ -872,6 +872,7 @@
         "Longitude": 37.7466719,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/34",
         "SourceA": "https://www.timesnownews.com/world/russia-ukraine-war-10-killed-15-wounded-in-russian-strike-at-avdiivka-coke-plant-in-eastern-ukraine-article-91295318",
         "StartDate": "2022-05-03",
         "Tags": [
@@ -879,8 +880,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T03:56:04.000Z",
-        "airtable_id": "recB4vEukVq0zHJy0",
-        "url": "https://thehiddenprice.com/34"
+        "airtable_id": "recB4vEukVq0zHJy0"
     },
     {
         "CivilianDeathCount": 3,
@@ -897,14 +897,14 @@
         "Notes": "\"Turkey and the PKK have fought a cat-and-mouse war since the rebels launched a full-scale, Marxist-inspired insurgency against the Turkish state\u2019s repression in 1984. More than 40,000 people have died in the violence since then, the vast majority civilians, and the PKK has been designated as a terrorist organisation by Turkey and most of its western allies.\"",
         "Perpetrator": "Turkey",
         "PerpetratorID": "TR",
+        "PostURL": "https://thehiddenprice.com/1",
         "SourceA": "https://www.theguardian.com/world/2021/apr/04/iraq-turkey-pkk-drones-kurds-kurdistan",
         "StartDate": "2021-12-07",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-09-06T03:10:39.000Z",
-        "airtable_id": "recBUyajm43Nyuk49",
-        "url": "https://thehiddenprice.com/1"
+        "airtable_id": "recBUyajm43Nyuk49"
     },
     {
         "ChildDeathCount": 10,
@@ -922,6 +922,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/59",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-24",
@@ -929,8 +930,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:44:50.000Z",
-        "airtable_id": "recCK4y166eIuobl6",
-        "url": "https://thehiddenprice.com/59"
+        "airtable_id": "recCK4y166eIuobl6"
     },
     {
         "ChildDeathCount": 5,
@@ -948,6 +948,7 @@
         "Longitude": 37.75664,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/157",
         "SourceA": "https://airwars.org/civilian-casualties/cs285-july-28-2016/",
         "StartDate": "2016-07-28",
         "Tags": [
@@ -955,8 +956,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-17T08:27:47.000Z",
-        "airtable_id": "recCKGoayKIx7k7Wq",
-        "url": "https://thehiddenprice.com/157"
+        "airtable_id": "recCKGoayKIx7k7Wq"
     },
     {
         "CivilianDeathCount": 10,
@@ -975,6 +975,7 @@
         "Notes": "At least 10 dead and 40 injured",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/30",
         "SourceA": "https://www.columbian.com/news/2022/jun/27/officials-russian-missile-strike-hits-crowded-shopping-mall/",
         "StartDate": "2022-06-27",
         "Tags": [
@@ -982,8 +983,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-28T23:47:38.000Z",
-        "airtable_id": "recCSagIZtEnnFvE6",
-        "url": "https://thehiddenprice.com/30"
+        "airtable_id": "recCSagIZtEnnFvE6"
     },
     {
         "ChildDeathCount": 2,
@@ -1001,6 +1001,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/123",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-15",
@@ -1008,8 +1009,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:10.000Z",
-        "airtable_id": "recCfyw3MhIoWAFXU",
-        "url": "https://thehiddenprice.com/123"
+        "airtable_id": "recCfyw3MhIoWAFXU"
     },
     {
         "ChildDeathCount": 1,
@@ -1027,14 +1027,14 @@
         "Longitude": 54.11094,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/152",
         "SourceA": "https://airwars.org/civilian-casualties/ussom195-c-february-23-2019/",
         "StartDate": "2019-02-23",
         "Tags": [
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-13T21:12:04.000Z",
-        "airtable_id": "recChC6qdHVDP7b6l",
-        "url": "https://thehiddenprice.com/152"
+        "airtable_id": "recChC6qdHVDP7b6l"
     },
     {
         "CivilianDeathCount": 2,
@@ -1050,6 +1050,7 @@
         "Longitude": 68.490564,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/112",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-15",
@@ -1057,8 +1058,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:03.000Z",
-        "airtable_id": "recCvRBVTdokCNaZY",
-        "url": "https://thehiddenprice.com/112"
+        "airtable_id": "recCvRBVTdokCNaZY"
     },
     {
         "ChildDeathCount": 26,
@@ -1076,14 +1076,14 @@
         "Longitude": 44.0369,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/144",
         "SourceA": "https://airwars.org/civilian-casualties/ci070-june-3-2015/",
         "StartDate": "2015-06-03",
         "Tags": [
             "Shelling"
         ],
         "airtable_createdTime": "2022-10-13T20:00:29.000Z",
-        "airtable_id": "recCzbGJEHbVwE1qH",
-        "url": "https://thehiddenprice.com/144"
+        "airtable_id": "recCzbGJEHbVwE1qH"
     },
     {
         "CivilianDeathCount": 2,
@@ -1099,6 +1099,7 @@
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/21",
         "SourceA": "https://www.dailyrecord.co.uk/news/uk-world-news/horror-russian-tank-blows-up-26418918",
         "SourceB": "https://www.mirror.co.uk/news/world-news/russian-tank-caught-graphic-footage-26415984",
         "StartDate": "2022-02-28",
@@ -1107,8 +1108,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-09-15T07:51:18.000Z",
-        "airtable_id": "recDGRqRH2ISVhyNP",
-        "url": "https://thehiddenprice.com/21"
+        "airtable_id": "recDGRqRH2ISVhyNP"
     },
     {
         "Country": "Ukraine",
@@ -1124,6 +1124,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/40",
         "SourceA": "https://sports.yahoo.com/missile-struck-humanitarian-kitchen-ukraine-110802357.html",
         "StartDate": "2022-04-16",
         "Tags": [
@@ -1131,8 +1132,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-29T03:56:16.000Z",
-        "airtable_id": "recDJVvLRjV5ky3ng",
-        "url": "https://thehiddenprice.com/40"
+        "airtable_id": "recDJVvLRjV5ky3ng"
     },
     {
         "ChildDeathCount": 1,
@@ -1150,6 +1150,7 @@
         "Longitude": 30.5241361,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/14",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326263/",
         "SourceB": "https://www.nbcnews.com/news/world/blog/russia-ukraine-live-updates-n1290057/ncrd1290068#blogHeader",
         "StartDate": "2022-02-25",
@@ -1158,8 +1159,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-15T07:05:07.000Z",
-        "airtable_id": "recDgKZsu04dBfpGW",
-        "url": "https://thehiddenprice.com/14"
+        "airtable_id": "recDgKZsu04dBfpGW"
     },
     {
         "ChildDeathCount": 3,
@@ -1177,6 +1177,7 @@
         "Longitude": 62.2164003,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/50",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-01-08",
@@ -1185,8 +1186,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:21.000Z",
-        "airtable_id": "recDgyA1OchpUwDAs",
-        "url": "https://thehiddenprice.com/50"
+        "airtable_id": "recDgyA1OchpUwDAs"
     },
     {
         "ChildDeathCount": 4,
@@ -1204,14 +1204,14 @@
         "Longitude": 43.08958,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/158",
         "SourceA": "https://airwars.org/civilian-casualties/ci436-january-21-2017/",
         "StartDate": "2017-01-21",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-17T08:32:39.000Z",
-        "airtable_id": "recExXCHbMxufbcAw",
-        "url": "https://thehiddenprice.com/158"
+        "airtable_id": "recExXCHbMxufbcAw"
     },
     {
         "ChildDeathCount": 5,
@@ -1229,6 +1229,7 @@
         "Notes": "Up to three buildings - house",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/93",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-14",
@@ -1237,8 +1238,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:15.000Z",
-        "airtable_id": "recGZEaDs3wgSmtLQ",
-        "url": "https://thehiddenprice.com/93"
+        "airtable_id": "recGZEaDs3wgSmtLQ"
     },
     {
         "CivilianDeathCount": 14,
@@ -1255,6 +1255,7 @@
         "Notes": "Two vehicles",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/60",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-05",
@@ -1263,8 +1264,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:44:51.000Z",
-        "airtable_id": "recHBX7n2ZLDNelpZ",
-        "url": "https://thehiddenprice.com/60"
+        "airtable_id": "recHBX7n2ZLDNelpZ"
     },
     {
         "CivilianDeathCount": 6,
@@ -1281,6 +1281,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/82",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-11-14",
@@ -1288,8 +1289,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:01.000Z",
-        "airtable_id": "recHMz34cJPLWva3Y",
-        "url": "https://thehiddenprice.com/82"
+        "airtable_id": "recHMz34cJPLWva3Y"
     },
     {
         "CivilianDeathCount": 3,
@@ -1307,6 +1307,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/29",
         "SourceA": "https://www.reuters.com/world/europe/russian-strike-kills-three-people-kharkiv-region-governor-2022-07-16/",
         "SourceB": "https://www.usnews.com/news/world/articles/2022-07-16/russian-strike-kills-three-people-in-kharkiv-region-governor",
         "StartDate": "2022-07-16",
@@ -1315,8 +1316,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-28T20:56:27.000Z",
-        "airtable_id": "recHRT4T3mt4Suh32",
-        "url": "https://thehiddenprice.com/29"
+        "airtable_id": "recHRT4T3mt4Suh32"
     },
     {
         "ChildDeathCount": 1,
@@ -1335,6 +1335,7 @@
         "Notes": "Seven people dead including a 9-year-old girl.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/33",
         "SourceA": "https://www.forbes.com/sites/katyasoldak/2022/05/26/thursday-may-26-russias-war-on-ukraine-news-and-information-from-ukraine/?sh=345a5a75475e",
         "SourceB": "https://www.upi.com/Top_News/World-News/2022/05/26/ukraine-Ukraine-Russia-war/5591653595435/",
         "StartDate": "2022-05-26",
@@ -1343,8 +1344,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T03:55:59.000Z",
-        "airtable_id": "recHY30py2DKDPaRA",
-        "url": "https://thehiddenprice.com/33"
+        "airtable_id": "recHY30py2DKDPaRA"
     },
     {
         "ChildDeathCount": 1,
@@ -1362,6 +1362,7 @@
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/84",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-01-22",
@@ -1369,8 +1370,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:04.000Z",
-        "airtable_id": "recHreU3VZhQIIggY",
-        "url": "https://thehiddenprice.com/84"
+        "airtable_id": "recHreU3VZhQIIggY"
     },
     {
         "CivilianDeathCount": 1,
@@ -1387,14 +1387,14 @@
         "Longitude": 34.815498,
         "Perpetrator": "Palestinian Militants",
         "PerpetratorID": "PS",
+        "PostURL": "https://thehiddenprice.com/146",
         "SourceA": "https://airwars.org/civilian-casualties/palis024-may-15-2021/",
         "StartDate": "2021-05-15",
         "Tags": [
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-13T20:09:23.000Z",
-        "airtable_id": "recIF9EVMlz1eaMzK",
-        "url": "https://thehiddenprice.com/146"
+        "airtable_id": "recIF9EVMlz1eaMzK"
     },
     {
         "CivilianDeathCount": 13,
@@ -1412,6 +1412,7 @@
         "Longitude": 34.3917272,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/26",
         "SourceA": "https://babel.ua/en/news/82725-russia-again-shelled-the-nikopol-district-in-the-dnipropetrovsk-oblast-during-the-night-11-killed#:~:text=There%20are%2011%20killed%20during%20the%20night&text=On%20the%20night%20of%20August,Valentin%20Reznichenko%2C%20reported%20on%20this.",
         "SourceB": "https://ru.interfax.com.ua/news/general/851503.html",
         "StartDate": "2022-08-10",
@@ -1420,8 +1421,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-27T21:17:30.000Z",
-        "airtable_id": "recImKmvV1JTLArRF",
-        "url": "https://thehiddenprice.com/26"
+        "airtable_id": "recImKmvV1JTLArRF"
     },
     {
         "CivilianDeathCount": 2,
@@ -1438,6 +1438,7 @@
         "Longitude": 38.9150477,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/39",
         "SourceA": "https://www.upi.com/Top_News/World-News/2022/04/17/ukraine-russian-forces-fire-on-civilians-luhansk-region-fighting-easter/3541650212190/",
         "StartDate": "2022-04-17",
         "Tags": [
@@ -1445,8 +1446,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-09-29T03:56:15.000Z",
-        "airtable_id": "recJ5KfwSLrBnNYwc",
-        "url": "https://thehiddenprice.com/39"
+        "airtable_id": "recJ5KfwSLrBnNYwc"
     },
     {
         "CivilianDeathCount": 8,
@@ -1463,6 +1463,7 @@
         "Notes": "Taliban HQ and bomb making factory or prison",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/74",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-08-25",
@@ -1471,8 +1472,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:48.000Z",
-        "airtable_id": "recJ93YVHwESedyxL",
-        "url": "https://thehiddenprice.com/74"
+        "airtable_id": "recJ93YVHwESedyxL"
     },
     {
         "ChildDeathCount": 8,
@@ -1490,14 +1490,14 @@
         "Longitude": 38.53727,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/155",
         "SourceA": "https://airwars.org/civilian-casualties/cs734-april-26-2017/",
         "StartDate": "2017-04-26",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-17T08:18:31.000Z",
-        "airtable_id": "recJtAzmf99c8JP9P",
-        "url": "https://thehiddenprice.com/155"
+        "airtable_id": "recJtAzmf99c8JP9P"
     },
     {
         "ChildDeathCount": 1,
@@ -1515,14 +1515,14 @@
         "Longitude": 43.124298,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/151",
         "SourceA": "https://airwars.org/civilian-casualties/ussom274-c-february-2-2020/",
         "StartDate": "2020-02-02",
         "Tags": [
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-13T21:03:53.000Z",
-        "airtable_id": "recK2cxjDoCM5VmHc",
-        "url": "https://thehiddenprice.com/151"
+        "airtable_id": "recK2cxjDoCM5VmHc"
     },
     {
         "CivilianDeathCount": 3,
@@ -1538,6 +1538,7 @@
         "Longitude": 70.183333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/109",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-10-09",
@@ -1545,8 +1546,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:01.000Z",
-        "airtable_id": "recK8efXmil6CCamJ",
-        "url": "https://thehiddenprice.com/109"
+        "airtable_id": "recK8efXmil6CCamJ"
     },
     {
         "CivilianDeathCount": 15,
@@ -1563,6 +1563,7 @@
         "Notes": "Taliban prison",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/57",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-06-25",
@@ -1571,8 +1572,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:26.000Z",
-        "airtable_id": "recKAjEvXbsNb1FDS",
-        "url": "https://thehiddenprice.com/57"
+        "airtable_id": "recKAjEvXbsNb1FDS"
     },
     {
         "ChildDeathCount": 2,
@@ -1589,10 +1589,10 @@
         "Longitude": 34.8027723,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/4",
         "SourceA": "https://www.theguardian.com/world/2022/mar/08/two-children-among-killed-in-sumy-airstrikes-officials-say",
         "airtable_createdTime": "2022-09-08T05:59:28.000Z",
-        "airtable_id": "recKQppAKmCXcIVzh",
-        "url": "https://thehiddenprice.com/4"
+        "airtable_id": "recKQppAKmCXcIVzh"
     },
     {
         "ChildDeathCount": 5,
@@ -1611,6 +1611,7 @@
         "Notes": "5 children among those killed",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/42",
         "SourceA": "https://abcnews.go.com/International/50-killed-attack-ukrainian-train-station/story?id=83960097#:~:text=Ukrainian%20officials%20say%20two%20Russian,Ukraine%20on%20Friday%2C%20authorities%20said.",
         "StartDate": "2022-04-11",
         "Tags": [
@@ -1618,8 +1619,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T05:07:35.000Z",
-        "airtable_id": "recKYZRYM57gmFRiD",
-        "url": "https://thehiddenprice.com/42"
+        "airtable_id": "recKYZRYM57gmFRiD"
     },
     {
         "CivilianDeathCount": 3,
@@ -1635,6 +1635,7 @@
         "Longitude": 69.4083555,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/110",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-18",
@@ -1642,8 +1643,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:02.000Z",
-        "airtable_id": "recLKzwMmtr6HlGnr",
-        "url": "https://thehiddenprice.com/110"
+        "airtable_id": "recLKzwMmtr6HlGnr"
     },
     {
         "ChildDeathCount": 0,
@@ -1661,6 +1661,7 @@
         "Longitude": 66.0183185,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/67",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-02",
@@ -1668,8 +1669,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:38.000Z",
-        "airtable_id": "recLYyIu69HYymI2V",
-        "url": "https://thehiddenprice.com/67"
+        "airtable_id": "recLYyIu69HYymI2V"
     },
     {
         "ChildDeathCount": 1,
@@ -1687,6 +1687,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/126",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-05-07",
@@ -1695,8 +1696,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:12.000Z",
-        "airtable_id": "recLiNONKWoZF5glJ",
-        "url": "https://thehiddenprice.com/126"
+        "airtable_id": "recLiNONKWoZF5glJ"
     },
     {
         "CivilianDeathCount": 12,
@@ -1714,6 +1714,7 @@
         "Longitude": 37.6952892,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/16",
         "SourceA": "https://neoskosmos.com/en/2022/03/02/news/world/dead-bodies-lie-in-the-streets-of-the-greek-village-of-sartana-dragged-by-dogs/",
         "SourceB": "https://geopolitiki.com/ukraine-greek-minority-village-of-sartana/",
         "StartDate": "2022-02-26",
@@ -1722,8 +1723,7 @@
             "Bombing"
         ],
         "airtable_createdTime": "2022-09-15T07:28:54.000Z",
-        "airtable_id": "recN57z43rm9T86S0",
-        "url": "https://thehiddenprice.com/16"
+        "airtable_id": "recN57z43rm9T86S0"
     },
     {
         "ChildDeathCount": 2,
@@ -1740,6 +1740,7 @@
         "Longitude": 68.885233,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/102",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-05-31",
@@ -1747,8 +1748,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:56.000Z",
-        "airtable_id": "recNAE68estbCOV6h",
-        "url": "https://thehiddenprice.com/102"
+        "airtable_id": "recNAE68estbCOV6h"
     },
     {
         "CivilianDeathCount": 1,
@@ -1765,6 +1765,7 @@
         "Notes": "Two buildings, two tactical units and one staging area",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/139",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-10",
@@ -1772,8 +1773,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:19.000Z",
-        "airtable_id": "recNZPK9jxNOnmlzM",
-        "url": "https://thehiddenprice.com/139"
+        "airtable_id": "recNZPK9jxNOnmlzM"
     },
     {
         "CivilianDeathCount": 767,
@@ -1789,6 +1789,7 @@
         "Longitude": 38.6521203,
         "Notes": "Look into other Tigray events",
         "Perpetrator": "Samri and other Tigrayan civilians, police and militia",
+        "PostURL": "https://thehiddenprice.com/3",
         "SourceA": "https://www.washingtonpost.com/world/africa/ethiopia-tigray-mai-kadra-massacre/2020/11/24/2fcb4218-2e76-11eb-9dd6-2d0179981719_story.html",
         "SourceB": "https://www.reuters.com/investigates/special-report/ethiopia-conflict-expulsions/",
         "StartDate": "2020-11-09",
@@ -1796,8 +1797,7 @@
             "EthnicCleansing"
         ],
         "airtable_createdTime": "2022-09-06T03:34:35.000Z",
-        "airtable_id": "recOAcgdesjMQs21b",
-        "url": "https://thehiddenprice.com/3"
+        "airtable_id": "recOAcgdesjMQs21b"
     },
     {
         "CivilianDeathCount": 7,
@@ -1814,6 +1814,7 @@
         "Longitude": 69.80944563985746,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/78",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-10",
@@ -1821,8 +1822,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:56.000Z",
-        "airtable_id": "recOXbEPgWXTAhw5r",
-        "url": "https://thehiddenprice.com/78"
+        "airtable_id": "recOXbEPgWXTAhw5r"
     },
     {
         "CivilianDeathCount": 40,
@@ -1838,6 +1838,7 @@
         "Longitude": 64.7300131,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/47",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-22",
@@ -1845,8 +1846,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:06:50.000Z",
-        "airtable_id": "recOj0em8iOcPWi8M",
-        "url": "https://thehiddenprice.com/47"
+        "airtable_id": "recOj0em8iOcPWi8M"
     },
     {
         "CivilianDeathCount": 10,
@@ -1863,6 +1863,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/71",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-23",
@@ -1870,8 +1871,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:46.000Z",
-        "airtable_id": "recOkXTdPr8bfLxJn",
-        "url": "https://thehiddenprice.com/71"
+        "airtable_id": "recOkXTdPr8bfLxJn"
     },
     {
         "CivilianDeathCount": 3,
@@ -1888,6 +1888,7 @@
         "Longitude": 33.4079326,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/15",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/02/26/7326302/",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3414210-journalist-shot-dead-by-russian-occupiers-in-kherson-region.html",
         "StartDate": "2022-02-26",
@@ -1895,8 +1896,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T07:15:49.000Z",
-        "airtable_id": "recPUfkZj6BRaoc4l",
-        "url": "https://thehiddenprice.com/15"
+        "airtable_id": "recPUfkZj6BRaoc4l"
     },
     {
         "ChildDeathCount": 10,
@@ -1915,6 +1915,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/62",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-23",
@@ -1922,8 +1923,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:44:53.000Z",
-        "airtable_id": "recPqGr6jdI6ouqCT",
-        "url": "https://thehiddenprice.com/62"
+        "airtable_id": "recPqGr6jdI6ouqCT"
     },
     {
         "CivilianDeathCount": 2,
@@ -1939,6 +1939,7 @@
         "Longitude": 38.0027664,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/17",
         "SourceA": "https://tass.com/politics/1410695",
         "SourceB": "https://www.express.co.uk/news/world/1573271/russia-ukraine-news-vladimir-putin-kyv-invasion-world-war-3",
         "StartDate": "2022-02-25",
@@ -1947,8 +1948,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-15T07:40:05.000Z",
-        "airtable_id": "recPyCH2CU1CMKRU6",
-        "url": "https://thehiddenprice.com/17"
+        "airtable_id": "recPyCH2CU1CMKRU6"
     },
     {
         "Country": "Ukraine",
@@ -1963,10 +1963,10 @@
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/5",
         "SourceA": "https://apnews.com/article/Russia-ukraine-war-mariupol-theater-c321a196fbd568899841b506afcac7a1",
         "airtable_createdTime": "2022-09-08T06:05:14.000Z",
-        "airtable_id": "recQ1Z6nDG5MffYqW",
-        "url": "https://thehiddenprice.com/5"
+        "airtable_id": "recQ1Z6nDG5MffYqW"
     },
     {
         "CivilianDeathCount": 4,
@@ -1982,6 +1982,7 @@
         "Longitude": 63.523677825927734,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/101",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-27",
@@ -1989,8 +1990,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:22.000Z",
-        "airtable_id": "recQTHPBexaQRoUKP",
-        "url": "https://thehiddenprice.com/101"
+        "airtable_id": "recQTHPBexaQRoUKP"
     },
     {
         "CivilianDeathCount": 15,
@@ -2008,6 +2008,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/58",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-09-28",
@@ -2016,8 +2017,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:44:50.000Z",
-        "airtable_id": "recQWSl48uvbb1iYF",
-        "url": "https://thehiddenprice.com/58"
+        "airtable_id": "recQWSl48uvbb1iYF"
     },
     {
         "CivilianDeathCount": 2,
@@ -2034,6 +2034,7 @@
         "Longitude": 35.3825,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/23",
         "SourceA": "https://www.straitstimes.com/world/europe/explosions-everywhere-as-ukraine-forces-recapture-village",
         "SourceB": "https://www.france24.com/en/live-news/20220910-explosions-everywhere-as-ukraine-forces-recapture-village",
         "StartDate": "2022-09-07",
@@ -2042,8 +2043,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-27T20:29:33.000Z",
-        "airtable_id": "recQdvHYpNvSHL5Uv",
-        "url": "https://thehiddenprice.com/23"
+        "airtable_id": "recQdvHYpNvSHL5Uv"
     },
     {
         "CivilianDeathCount": 2,
@@ -2059,6 +2059,7 @@
         "Longitude": 67.129904,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/117",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-08-26",
@@ -2066,8 +2067,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:06.000Z",
-        "airtable_id": "recR2kVwd7EChZ3LG",
-        "url": "https://thehiddenprice.com/117"
+        "airtable_id": "recR2kVwd7EChZ3LG"
     },
     {
         "ChildDeathCount": 2,
@@ -2084,14 +2084,14 @@
         "Longitude": 43.135051,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/159",
         "SourceA": "https://airwars.org/civilian-casualties/ci500-march-1-2017/",
         "StartDate": "2017-03-01",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-17T08:38:24.000Z",
-        "airtable_id": "recRQvyHPU20Xr8MH",
-        "url": "https://thehiddenprice.com/159"
+        "airtable_id": "recRQvyHPU20Xr8MH"
     },
     {
         "ChildDeathCount": 7,
@@ -2110,6 +2110,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/61",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-19",
@@ -2117,8 +2118,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:44:52.000Z",
-        "airtable_id": "recRXNLYyBzK16nWa",
-        "url": "https://thehiddenprice.com/61"
+        "airtable_id": "recRXNLYyBzK16nWa"
     },
     {
         "CivilianDeathCount": 6,
@@ -2134,6 +2134,7 @@
         "Longitude": 67.828989,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/89",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-28",
@@ -2141,8 +2142,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:12.000Z",
-        "airtable_id": "recT5B5M9rX0UbFFR",
-        "url": "https://thehiddenprice.com/89"
+        "airtable_id": "recT5B5M9rX0UbFFR"
     },
     {
         "ChildDeathCount": 4,
@@ -2161,6 +2161,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/94",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-08-12",
@@ -2169,8 +2170,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:16.000Z",
-        "airtable_id": "recTWZ4FQw5PXgWGQ",
-        "url": "https://thehiddenprice.com/94"
+        "airtable_id": "recTWZ4FQw5PXgWGQ"
     },
     {
         "CivilianDeathCount": 4,
@@ -2188,6 +2188,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/99",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-10-28",
@@ -2195,8 +2196,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:20.000Z",
-        "airtable_id": "recTdoRlyBzngcBEk",
-        "url": "https://thehiddenprice.com/99"
+        "airtable_id": "recTdoRlyBzngcBEk"
     },
     {
         "ChildDeathCount": 1,
@@ -2213,6 +2213,7 @@
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/111",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-12-06",
@@ -2220,8 +2221,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:03.000Z",
-        "airtable_id": "recTso91Dyzu1Lr6U",
-        "url": "https://thehiddenprice.com/111"
+        "airtable_id": "recTso91Dyzu1Lr6U"
     },
     {
         "ChildDeathCount": 1,
@@ -2239,6 +2239,7 @@
         "Notes": "Training camp",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/134",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-07",
@@ -2247,8 +2248,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:16.000Z",
-        "airtable_id": "recU4TVmZ2oCGEPHW",
-        "url": "https://thehiddenprice.com/134"
+        "airtable_id": "recU4TVmZ2oCGEPHW"
     },
     {
         "CivilianDeathCount": 1,
@@ -2264,6 +2264,7 @@
         "Longitude": 30.2203052,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/8",
         "SourceA": "https://www.mirror.co.uk/news/world-news/cyclist-seen-being-hit-explosive-26318197",
         "SourceB": "https://www.dailystar.co.uk/news/world-news/horror-moment-ukrainian-cyclist-hit-26318118",
         "StartDate": "2022-02-24",
@@ -2272,8 +2273,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T04:15:54.000Z",
-        "airtable_id": "recUlOqTuToOq1lhP",
-        "url": "https://thehiddenprice.com/8"
+        "airtable_id": "recUlOqTuToOq1lhP"
     },
     {
         "CivilianDeathCount": 5,
@@ -2291,6 +2291,7 @@
         "Notes": "Four caves including weapons caches",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/95",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-02",
@@ -2298,8 +2299,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:17.000Z",
-        "airtable_id": "recXAkITJF4JpCfYx",
-        "url": "https://thehiddenprice.com/95"
+        "airtable_id": "recXAkITJF4JpCfYx"
     },
     {
         "CivilianDeathCount": 3,
@@ -2316,6 +2316,7 @@
         "Longitude": 71.133333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/105",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-14",
@@ -2323,8 +2324,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:58.000Z",
-        "airtable_id": "recXKfpJ67XXvtE2r",
-        "url": "https://thehiddenprice.com/105"
+        "airtable_id": "recXKfpJ67XXvtE2r"
     },
     {
         "CivilianDeathCount": 2,
@@ -2340,6 +2340,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/37",
         "SourceA": "https://apnews.com/article/russia-ukraine-putin-kyiv-business-europe-f0e1cd893715eda1e6bef696d9c47db3",
         "StartDate": "2022-04-21",
         "Tags": [
@@ -2347,8 +2348,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T03:56:11.000Z",
-        "airtable_id": "recXeCUTS7DoPythl",
-        "url": "https://thehiddenprice.com/37"
+        "airtable_id": "recXeCUTS7DoPythl"
     },
     {
         "ChildDeathCount": 12,
@@ -2366,6 +2366,7 @@
         "Longitude": 71.225047,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/64",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-12-14",
@@ -2373,8 +2374,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:16:47.000Z",
-        "airtable_id": "recY8Yipjg1PyjTxU",
-        "url": "https://thehiddenprice.com/64"
+        "airtable_id": "recY8Yipjg1PyjTxU"
     },
     {
         "CivilianDeathCount": 1,
@@ -2390,6 +2390,7 @@
         "Longitude": 68.857,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/141",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-08",
@@ -2397,8 +2398,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:21.000Z",
-        "airtable_id": "recYm1NOAx1qwXN7T",
-        "url": "https://thehiddenprice.com/141"
+        "airtable_id": "recYm1NOAx1qwXN7T"
     },
     {
         "CivilianDeathCount": 1,
@@ -2415,6 +2415,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/131",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-01-03",
@@ -2422,8 +2423,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:14.000Z",
-        "airtable_id": "recb4V8jESXwy7gIY",
-        "url": "https://thehiddenprice.com/131"
+        "airtable_id": "recb4V8jESXwy7gIY"
     },
     {
         "CivilianDeathCount": 2,
@@ -2440,6 +2440,7 @@
         "Notes": "One structure, motorcycle, tactical unit",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/118",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-29",
@@ -2447,8 +2448,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:07.000Z",
-        "airtable_id": "recbVgIrrmf6yU8eh",
-        "url": "https://thehiddenprice.com/118"
+        "airtable_id": "recbVgIrrmf6yU8eh"
     },
     {
         "CivilianDeathCount": 21,
@@ -2464,6 +2464,7 @@
         "Longitude": 68.946651,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/53",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-04-07",
@@ -2472,8 +2473,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:23.000Z",
-        "airtable_id": "recc9weLh0Q2aysxq",
-        "url": "https://thehiddenprice.com/53"
+        "airtable_id": "recc9weLh0Q2aysxq"
     },
     {
         "CivilianDeathCount": 9,
@@ -2490,6 +2490,7 @@
         "Longitude": 69.160172,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/73",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-07-22",
@@ -2497,8 +2498,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:47.000Z",
-        "airtable_id": "reccO2rhplGbdj7wX",
-        "url": "https://thehiddenprice.com/73"
+        "airtable_id": "reccO2rhplGbdj7wX"
     },
     {
         "ChildDeathCount": 1,
@@ -2515,6 +2515,7 @@
         "Longitude": 37.5499621,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/19",
         "SourceA": "https://www.businessinsider.com/6-year-old-ukrainian-girl-was-killed-russian-shelling-report-2022-2",
         "SourceB": "https://www.nydailynews.com/news/ny-ukraine-shelling-hospital-20220228-47df3lwex5bknonnvohinptjau-story.html",
         "SourceC": "https://www.independent.co.uk/news/world/europe/russia-ukraine-girl-killed-shelling-b2024832.html",
@@ -2524,8 +2525,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-15T07:50:45.000Z",
-        "airtable_id": "reccU1r7dla6mdHTP",
-        "url": "https://thehiddenprice.com/19"
+        "airtable_id": "reccU1r7dla6mdHTP"
     },
     {
         "ChildDeathCount": 3,
@@ -2544,6 +2544,7 @@
         "Notes": "MSF Hospital",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/46",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-10-03",
@@ -2551,8 +2552,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:06:47.000Z",
-        "airtable_id": "reccbilL9jMB1Q8QU",
-        "url": "https://thehiddenprice.com/46"
+        "airtable_id": "reccbilL9jMB1Q8QU"
     },
     {
         "CivilianDeathCount": 8,
@@ -2570,6 +2570,7 @@
         "Longitude": 37.8501378,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/28",
         "SourceA": "https://www.reuters.com/world/europe/russian-shelling-kills-eight-eastern-town-toretsk-ukrainian-governor-2022-08-04/",
         "SourceB": "https://www.dailysabah.com/world/europe/russian-shelling-kills-8-in-eastern-ukraine-town-of-toretsk",
         "StartDate": "2022-08-04",
@@ -2578,8 +2579,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-28T20:16:07.000Z",
-        "airtable_id": "recdlhfORQuDvaKir",
-        "url": "https://thehiddenprice.com/28"
+        "airtable_id": "recdlhfORQuDvaKir"
     },
     {
         "ChildDeathCount": 3,
@@ -2596,14 +2596,14 @@
         "Longitude": 40.9452778,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/148",
         "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
         "StartDate": "2019-03-13",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-13T20:32:07.000Z",
-        "airtable_id": "recdorKyyElzmTxw6",
-        "url": "https://thehiddenprice.com/148"
+        "airtable_id": "recdorKyyElzmTxw6"
     },
     {
         "CivilianDeathCount": 1,
@@ -2620,6 +2620,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/132",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-02-15",
@@ -2627,8 +2628,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:15.000Z",
-        "airtable_id": "recdy8W71UTakWpEm",
-        "url": "https://thehiddenprice.com/132"
+        "airtable_id": "recdy8W71UTakWpEm"
     },
     {
         "CivilianDeathCount": 1,
@@ -2644,6 +2644,7 @@
         "Longitude": 70.0911,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/125",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-03-02",
@@ -2652,8 +2653,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:11.000Z",
-        "airtable_id": "receAkNPlZgXj3XFD",
-        "url": "https://thehiddenprice.com/125"
+        "airtable_id": "receAkNPlZgXj3XFD"
     },
     {
         "ChildDeathCount": 4,
@@ -2670,6 +2670,7 @@
         "Longitude": 66.0183185,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/86",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-08",
@@ -2677,8 +2678,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:09.000Z",
-        "airtable_id": "receQCdB0bNGxJT1P",
-        "url": "https://thehiddenprice.com/86"
+        "airtable_id": "receQCdB0bNGxJT1P"
     },
     {
         "ChildDeathCount": 25,
@@ -2697,14 +2697,14 @@
         "Notes": "Between 78 and 203 civilians were reported killed in a catastrophic event at the village of Tokhar \u2013 the scene of a number of other recent civilian fatalities from alleged Coalition strikes.",
         "Perpetrator": " US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/153",
         "SourceA": "https://airwars.org/civilian-casualties/cs273-july-19-2016/",
         "StartDate": "2016-07-19",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-17T07:12:05.000Z",
-        "airtable_id": "receR7nVW1c6AIGP4",
-        "url": "https://thehiddenprice.com/153"
+        "airtable_id": "receR7nVW1c6AIGP4"
     },
     {
         "ChildDeathCount": 9,
@@ -2722,6 +2722,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/69",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-09",
@@ -2729,8 +2730,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:40.000Z",
-        "airtable_id": "receexjRw3uKfTDaP",
-        "url": "https://thehiddenprice.com/69"
+        "airtable_id": "receexjRw3uKfTDaP"
     },
     {
         "ChildDeathCount": 10,
@@ -2748,6 +2748,7 @@
         "Longitude": 69.01863594512659,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/63",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-08-30",
@@ -2755,8 +2756,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:16:47.000Z",
-        "airtable_id": "receg0SHEogGEhWfi",
-        "url": "https://thehiddenprice.com/63"
+        "airtable_id": "receg0SHEogGEhWfi"
     },
     {
         "CivilianDeathCount": 5,
@@ -2772,6 +2772,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/98",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-02-08",
@@ -2779,8 +2780,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:19.000Z",
-        "airtable_id": "recfDDhNilBL842Tt",
-        "url": "https://thehiddenprice.com/98"
+        "airtable_id": "recfDDhNilBL842Tt"
     },
     {
         "CivilianDeathCount": 3,
@@ -2797,6 +2797,7 @@
         "Notes": "Bodies had signs of torture and were set on fire.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/43",
         "SourceA": "https://atalayar.com/en/content/who-behind-bucha-crimes",
         "StartDate": "2022-04-07",
         "Tags": [
@@ -2804,8 +2805,7 @@
             "Torture"
         ],
         "airtable_createdTime": "2022-09-29T19:03:51.000Z",
-        "airtable_id": "recfvkYKLN6LKAV6Y",
-        "url": "https://thehiddenprice.com/43"
+        "airtable_id": "recfvkYKLN6LKAV6Y"
     },
     {
         "CivilianDeathCount": 10,
@@ -2823,6 +2823,7 @@
         "Longitude": 37.7809825,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/22",
         "SourceA": "https://sports.yahoo.com/10-civilians-killed-19-injured-085600729.html",
         "SourceB": "https://www.ctpost.com/news/article/Eastern-Ukraine-towns-hit-in-overnight-strikes-17433772.php",
         "StartDate": "2022-09-11",
@@ -2831,8 +2832,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-27T20:19:46.000Z",
-        "airtable_id": "recg0yq3ZzZXCkgT0",
-        "url": "https://thehiddenprice.com/22"
+        "airtable_id": "recg0yq3ZzZXCkgT0"
     },
     {
         "CivilianDeathCount": 1,
@@ -2848,14 +2848,14 @@
         "Longitude": 45.394422,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/149",
         "SourceA": "https://airwars.org/civilian-casualties/usyemtr186-c-january-21-2019/",
         "StartDate": "2019-01-21",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-13T20:32:09.000Z",
-        "airtable_id": "recgPAhobk3cG1dI5",
-        "url": "https://thehiddenprice.com/149"
+        "airtable_id": "recgPAhobk3cG1dI5"
     },
     {
         "ChildDeathCount": 5,
@@ -2874,6 +2874,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/55",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-02-08",
@@ -2881,8 +2882,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:24.000Z",
-        "airtable_id": "recgsydSKItDuqfQg",
-        "url": "https://thehiddenprice.com/55"
+        "airtable_id": "recgsydSKItDuqfQg"
     },
     {
         "ChildDeathCount": 10,
@@ -2901,6 +2901,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/52",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-27",
@@ -2908,8 +2909,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:22.000Z",
-        "airtable_id": "recgueoVztMaTw6sF",
-        "url": "https://thehiddenprice.com/52"
+        "airtable_id": "recgueoVztMaTw6sF"
     },
     {
         "CivilianDeathCount": 8,
@@ -2925,6 +2925,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/76",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-09-23",
@@ -2932,8 +2933,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:20:54.000Z",
-        "airtable_id": "recgzfdfZvXJxewuO",
-        "url": "https://thehiddenprice.com/76"
+        "airtable_id": "recgzfdfZvXJxewuO"
     },
     {
         "CivilianDeathCount": 4,
@@ -2950,6 +2950,7 @@
         "Longitude": 35.21225,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/13",
         "SourceA": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -2957,8 +2958,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T06:59:21.000Z",
-        "airtable_id": "rechTRhh9mmBrtYK9",
-        "url": "https://thehiddenprice.com/13"
+        "airtable_id": "rechTRhh9mmBrtYK9"
     },
     {
         "ChildDeathCount": 1,
@@ -2975,6 +2975,7 @@
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/81",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2020-01-30",
@@ -2982,8 +2983,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:00.000Z",
-        "airtable_id": "recheXHVRUjG2X17F",
-        "url": "https://thehiddenprice.com/81"
+        "airtable_id": "recheXHVRUjG2X17F"
     },
     {
         "ChildDeathCount": 1,
@@ -3000,6 +3000,7 @@
         "Longitude": 69.741667,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/91",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-12-23",
@@ -3007,8 +3008,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:13.000Z",
-        "airtable_id": "reciHaVV7OObVHrFG",
-        "url": "https://thehiddenprice.com/91"
+        "airtable_id": "reciHaVV7OObVHrFG"
     },
     {
         "CivilianDeathCount": 1,
@@ -3024,6 +3024,7 @@
         "Longitude": 68.3360426,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/136",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-05-08",
@@ -3031,8 +3032,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:17.000Z",
-        "airtable_id": "reciqWKMKmbMmQung",
-        "url": "https://thehiddenprice.com/136"
+        "airtable_id": "reciqWKMKmbMmQung"
     },
     {
         "Country": "Ukraine",
@@ -3047,10 +3047,10 @@
         "Longitude": 31.7417235,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/6",
         "SourceA": "https://www.hrw.org/news/2022/06/10/ukraine-russian-strikes-killed-scores-civilians-chernihiv",
         "airtable_createdTime": "2022-09-08T06:09:28.000Z",
-        "airtable_id": "recjDuyoIVkj78GbI",
-        "url": "https://thehiddenprice.com/6"
+        "airtable_id": "recjDuyoIVkj78GbI"
     },
     {
         "ChildDeathCount": 1,
@@ -3067,6 +3067,7 @@
         "Longitude": 69.7177027,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/97",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-03-25",
@@ -3074,8 +3075,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:18.000Z",
-        "airtable_id": "recjELX16nWt0oQvk",
-        "url": "https://thehiddenprice.com/97"
+        "airtable_id": "recjELX16nWt0oQvk"
     },
     {
         "ChildDeathCount": 20,
@@ -3094,6 +3094,7 @@
         "Notes": "Early morning. Civilian houses",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/48",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2016-11-03",
@@ -3101,8 +3102,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:21.000Z",
-        "airtable_id": "recjnbDciSpwpRZ8j",
-        "url": "https://thehiddenprice.com/48"
+        "airtable_id": "recjnbDciSpwpRZ8j"
     },
     {
         "CivilianDeathCount": 2,
@@ -3119,6 +3119,7 @@
         "Longitude": 70.3800314,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/115",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-01-01",
@@ -3126,8 +3127,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:05.000Z",
-        "airtable_id": "reck2B5piZK26YWKv",
-        "url": "https://thehiddenprice.com/115"
+        "airtable_id": "reck2B5piZK26YWKv"
     },
     {
         "CivilianDeathCount": 16,
@@ -3144,6 +3144,7 @@
         "Longitude": 43.12323,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/156",
         "SourceA": "https://airwars.org/civilian-casualties/ci610-april-5-2017/",
         "StartDate": "2017-04-05",
         "Tags": [
@@ -3151,8 +3152,7 @@
             "GroundForcesAttack"
         ],
         "airtable_createdTime": "2022-10-17T08:24:15.000Z",
-        "airtable_id": "reclCQ1WykhVmwLO4",
-        "url": "https://thehiddenprice.com/156"
+        "airtable_id": "reclCQ1WykhVmwLO4"
     },
     {
         "CivilianDeathCount": 1,
@@ -3168,6 +3168,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/133",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-02-16",
@@ -3175,8 +3176,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:15.000Z",
-        "airtable_id": "reclTD4TK073Gp8Ar",
-        "url": "https://thehiddenprice.com/133"
+        "airtable_id": "reclTD4TK073Gp8Ar"
     },
     {
         "CivilianDeathCount": 30,
@@ -3193,6 +3193,7 @@
         "Longitude": 68.298941,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/49",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-09-19",
@@ -3201,8 +3202,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:21.000Z",
-        "airtable_id": "reclbEdnytY2Cmnlv",
-        "url": "https://thehiddenprice.com/49"
+        "airtable_id": "reclbEdnytY2Cmnlv"
     },
     {
         "ChildDeathCount": 2,
@@ -3221,6 +3221,7 @@
         "Notes": "7-month-old and 15-year-old among those killed.",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/41",
         "SourceA": "https://www.ocregister.com/2022/04/15/police-more-than-900-civilian-bodies-found-in-kyiv-region/",
         "StartDate": "2022-04-15",
         "Tags": [
@@ -3228,8 +3229,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T05:02:19.000Z",
-        "airtable_id": "recmeriz8N2FsYbPI",
-        "url": "https://thehiddenprice.com/41"
+        "airtable_id": "recmeriz8N2FsYbPI"
     },
     {
         "CivilianDeathCount": 1,
@@ -3246,6 +3246,7 @@
         "Notes": "Hit during a clash between ANSF and Taliban",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/130",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-07-08",
@@ -3253,8 +3254,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:14.000Z",
-        "airtable_id": "recn1FoyWlVRb44fZ",
-        "url": "https://thehiddenprice.com/130"
+        "airtable_id": "recn1FoyWlVRb44fZ"
     },
     {
         "CivilianDeathCount": 3,
@@ -3270,6 +3270,7 @@
         "Longitude": 29.894670486450195,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/18",
         "SourceA": "https://hindustannewshub.com/russia-ukraine-news/in-borodyanka-three-people-died-during-a-shelling-of-a-residential-building/",
         "SourceB": "https://vchasnoua.com/en/394-photos-18-war-in-ukraine-russia-kills-civilians",
         "StartDate": "2022-02-26",
@@ -3278,8 +3279,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-15T07:45:53.000Z",
-        "airtable_id": "recn7GzlleR1tZidP",
-        "url": "https://thehiddenprice.com/18"
+        "airtable_id": "recn7GzlleR1tZidP"
     },
     {
         "CivilianDeathCount": 1,
@@ -3296,6 +3296,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/12",
         "SourceA": "https://www.africanews.com/2022/02/27/kharkiv-blood-donation-centre-hit-by-shelling/",
         "StartDate": "2022-02-25",
         "Tags": [
@@ -3303,8 +3304,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-15T05:13:49.000Z",
-        "airtable_id": "recoQf3eliRtW9lM3",
-        "url": "https://thehiddenprice.com/12"
+        "airtable_id": "recoQf3eliRtW9lM3"
     },
     {
         "ChildDeathCount": 2,
@@ -3321,6 +3321,7 @@
         "Longitude": 37.8168012,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/35",
         "SourceA": "https://www.knkx.org/2022-04-26/photos-russian-missiles-strike-kyiv-as-battle-slows-down-in-eastern-ukraine",
         "StartDate": "2022-04-25",
         "Tags": [
@@ -3328,8 +3329,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-29T03:56:07.000Z",
-        "airtable_id": "recohWbaV1DdFAFhQ",
-        "url": "https://thehiddenprice.com/35"
+        "airtable_id": "recohWbaV1DdFAFhQ"
     },
     {
         "CivilianDeathCount": 7,
@@ -3347,6 +3347,7 @@
         "Longitude": 38.0020994,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/27",
         "SourceA": "https://www.nytimes.com/2022/08/11/world/europe/ukraine-war-frontline.html",
         "SourceB": "https://www.ukrinform.net/rubric-ato/3547712-7-killed-6-injured-in-russias-attack-on-bakhmut.html#:~:text=Law%20enforcement%20officers%20have%20opened,killed%20and%20six%20more%20injured.",
         "StartDate": "2022-08-10",
@@ -3355,8 +3356,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-27T21:26:43.000Z",
-        "airtable_id": "recozbG15EPYj2bRh",
-        "url": "https://thehiddenprice.com/27"
+        "airtable_id": "recozbG15EPYj2bRh"
     },
     {
         "CivilianDeathCount": 2,
@@ -3372,6 +3372,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/116",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-23",
@@ -3379,8 +3380,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:06.000Z",
-        "airtable_id": "recpFZHT5q28nCOqq",
-        "url": "https://thehiddenprice.com/116"
+        "airtable_id": "recpFZHT5q28nCOqq"
     },
     {
         "ChildDeathCount": 19,
@@ -3398,6 +3398,7 @@
         "Longitude": 64.996532,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/51",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-02-10",
@@ -3405,8 +3406,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:22.000Z",
-        "airtable_id": "recpTf8ujVyNiPAWL",
-        "url": "https://thehiddenprice.com/51"
+        "airtable_id": "recpTf8ujVyNiPAWL"
     },
     {
         "ChildDeathCount": 2,
@@ -3423,6 +3423,7 @@
         "Longitude": 69.741667,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/120",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-26",
@@ -3430,8 +3431,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:08.000Z",
-        "airtable_id": "recpqrPN3EUend0Bl",
-        "url": "https://thehiddenprice.com/120"
+        "airtable_id": "recpqrPN3EUend0Bl"
     },
     {
         "CivilianDeathCount": 6,
@@ -3447,6 +3447,7 @@
         "Longitude": 69.0323827,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/83",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-12-31",
@@ -3454,8 +3455,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:02.000Z",
-        "airtable_id": "recqCCstdoeZjIa9F",
-        "url": "https://thehiddenprice.com/83"
+        "airtable_id": "recqCCstdoeZjIa9F"
     },
     {
         "CivilianDeathCount": 6,
@@ -3472,6 +3472,7 @@
         "Longitude": 68.7563528,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/85",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-04-13",
@@ -3479,8 +3480,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:07.000Z",
-        "airtable_id": "recqcYH6w4r26O290",
-        "url": "https://thehiddenprice.com/85"
+        "airtable_id": "recqcYH6w4r26O290"
     },
     {
         "CivilianDeathCount": 4,
@@ -3498,6 +3498,7 @@
         "Notes": "Used cluster munitions which is a war crime in it of itself",
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/10",
         "SourceA": "https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital",
         "SourceB": "https://www.emergency-live.com/news/ukraine-russian-bombardment-hits-hospital-four-dead-and-ten-wounded-martial-law-in-force/",
         "StartDate": "2022-02-24",
@@ -3507,8 +3508,7 @@
             "Bombing"
         ],
         "airtable_createdTime": "2022-09-15T04:47:22.000Z",
-        "airtable_id": "recqhogtitQanF3DP",
-        "url": "https://thehiddenprice.com/10"
+        "airtable_id": "recqhogtitQanF3DP"
     },
     {
         "CivilianDeathCount": 64,
@@ -3525,6 +3525,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/44",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-05-05",
@@ -3532,8 +3533,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T06:13:43.000Z",
-        "airtable_id": "recqrsh92HNw0ZgWV",
-        "url": "https://thehiddenprice.com/44"
+        "airtable_id": "recqrsh92HNw0ZgWV"
     },
     {
         "CivilianDeathCount": 4,
@@ -3551,6 +3551,7 @@
         "Longitude": 36.2310146,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/25",
         "SourceA": "https://www.anews.com.tr/world/2022/08/30/at-least-four-killed-in-russian-shelling-of-ukraines-city-of-kharkiv-governor-says",
         "SourceB": "https://uk.movies.yahoo.com/kharkiv-least-four-killed-russian-103410103.html",
         "StartDate": "2022-08-30",
@@ -3559,8 +3560,7 @@
             "Shelling"
         ],
         "airtable_createdTime": "2022-09-27T21:00:01.000Z",
-        "airtable_id": "recr8rf7S8aNuUx1L",
-        "url": "https://thehiddenprice.com/25"
+        "airtable_id": "recr8rf7S8aNuUx1L"
     },
     {
         "CivilianDeathCount": 1,
@@ -3576,6 +3576,7 @@
         "Longitude": 62.671011,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/138",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-06-30",
@@ -3583,8 +3584,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:19.000Z",
-        "airtable_id": "recrLxqJIUEeHyXKT",
-        "url": "https://thehiddenprice.com/138"
+        "airtable_id": "recrLxqJIUEeHyXKT"
     },
     {
         "ChildDeathCount": 3,
@@ -3601,6 +3601,7 @@
         "Longitude": 69.0323827,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/70",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-07-12",
@@ -3608,8 +3609,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:19:41.000Z",
-        "airtable_id": "recrgYV8M59Ui2wg9",
-        "url": "https://thehiddenprice.com/70"
+        "airtable_id": "recrgYV8M59Ui2wg9"
     },
     {
         "ChildDeathCount": 2,
@@ -3627,6 +3627,7 @@
         "Longitude": 70.6692329,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/104",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-04-04",
@@ -3634,8 +3635,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:58.000Z",
-        "airtable_id": "recrn584KuGSSfH0n",
-        "url": "https://thehiddenprice.com/104"
+        "airtable_id": "recrn584KuGSSfH0n"
     },
     {
         "CivilianDeathCount": 3,
@@ -3652,6 +3652,7 @@
         "Longitude": 64.237812,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/106",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-08-16",
@@ -3659,8 +3660,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:00.000Z",
-        "airtable_id": "recsIzTftfFJahxI2",
-        "url": "https://thehiddenprice.com/106"
+        "airtable_id": "recsIzTftfFJahxI2"
     },
     {
         "CivilianDeathCount": 3,
@@ -3677,6 +3677,7 @@
         "Notes": "Two buildings, two rocket systems, one weapons cache and one fighting position",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/107",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-10-20",
@@ -3684,8 +3685,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:00.000Z",
-        "airtable_id": "recsSndR35t3PZGEN",
-        "url": "https://thehiddenprice.com/107"
+        "airtable_id": "recsSndR35t3PZGEN"
     },
     {
         "CivilianDeathCount": 1,
@@ -3702,6 +3702,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/127",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2015-06-04",
@@ -3710,8 +3711,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:12.000Z",
-        "airtable_id": "rectGNvyUmjO022ZP",
-        "url": "https://thehiddenprice.com/127"
+        "airtable_id": "rectGNvyUmjO022ZP"
     },
     {
         "ChildDeathCount": 3,
@@ -3728,6 +3728,7 @@
         "Longitude": 63.523677825927734,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/90",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-11-07",
@@ -3735,8 +3736,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:21:13.000Z",
-        "airtable_id": "recuNvafbNE8LSDtp",
-        "url": "https://thehiddenprice.com/90"
+        "airtable_id": "recuNvafbNE8LSDtp"
     },
     {
         "CivilianDeathCount": 1,
@@ -3753,6 +3753,7 @@
         "Longitude": 64.16021728515625,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/140",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-28",
@@ -3760,8 +3761,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:20.000Z",
-        "airtable_id": "recuuGTeMtiaaURGL",
-        "url": "https://thehiddenprice.com/140"
+        "airtable_id": "recuuGTeMtiaaURGL"
     },
     {
         "CivilianDeathCount": 1,
@@ -3777,6 +3777,7 @@
         "Longitude": 34.584534,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/20",
         "SourceA": "https://www.washingtonpost.com/world/2022/05/23/ukraine-russia-soldier-war-crimes-verdict/",
         "SourceB": "https://www.bbc.com/news/world-europe-61549569",
         "SourceC": "https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial",
@@ -3785,8 +3786,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-15T07:51:16.000Z",
-        "airtable_id": "recvMv7BCFngguOSw",
-        "url": "https://thehiddenprice.com/20"
+        "airtable_id": "recvMv7BCFngguOSw"
     },
     {
         "ChildDeathCount": 4,
@@ -3804,14 +3804,14 @@
         "Longitude": 43.21243,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/154",
         "SourceA": "https://airwars.org/civilian-casualties/ci060-april-20-2015/",
         "StartDate": "2015-04-20",
         "Tags": [
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-17T07:41:54.000Z",
-        "airtable_id": "recvalGITKvDl8ioT",
-        "url": "https://thehiddenprice.com/154"
+        "airtable_id": "recvalGITKvDl8ioT"
     },
     {
         "CivilianDeathCount": 1,
@@ -3828,6 +3828,7 @@
         "Longitude": 30.06642,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/24",
         "SourceA": "https://www.pravda.com.ua/eng/news/2022/09/1/7365702/",
         "SourceB": "https://finance.yahoo.com/news/body-another-man-tortured-murdered-184800930.html",
         "StartDate": "2022-08-31",
@@ -3836,8 +3837,7 @@
             "Invasion"
         ],
         "airtable_createdTime": "2022-09-27T20:48:49.000Z",
-        "airtable_id": "recvdyip9uYiZ37e8",
-        "url": "https://thehiddenprice.com/24"
+        "airtable_id": "recvdyip9uYiZ37e8"
     },
     {
         "CivilianDeathCount": 3,
@@ -3853,6 +3853,7 @@
         "Longitude": 70.183333,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/108",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-19",
@@ -3860,8 +3861,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:01.000Z",
-        "airtable_id": "recvk10Mr5OWVDQsw",
-        "url": "https://thehiddenprice.com/108"
+        "airtable_id": "recvk10Mr5OWVDQsw"
     },
     {
         "ChildDeathCount": 0,
@@ -3879,6 +3879,7 @@
         "Longitude": 64.89441680908203,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/124",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2019-08-04",
@@ -3887,8 +3888,7 @@
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:10.000Z",
-        "airtable_id": "recvwct34UpkYWC6t",
-        "url": "https://thehiddenprice.com/124"
+        "airtable_id": "recvwct34UpkYWC6t"
     },
     {
         "CivilianDeathCount": 1,
@@ -3904,6 +3904,7 @@
         "Longitude": 62.2164003,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/135",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-03-31",
@@ -3911,8 +3912,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:17.000Z",
-        "airtable_id": "recwh4KT2q2pHXfKk",
-        "url": "https://thehiddenprice.com/135"
+        "airtable_id": "recwh4KT2q2pHXfKk"
     },
     {
         "ChildDeathCount": 2,
@@ -3931,6 +3931,7 @@
         "Notes": "Vehicle",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/56",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2017-08-10",
@@ -3938,8 +3939,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-02T07:08:25.000Z",
-        "airtable_id": "recxrGKO37laY4LOD",
-        "url": "https://thehiddenprice.com/56"
+        "airtable_id": "recxrGKO37laY4LOD"
     },
     {
         "ChildDeathCount": 1,
@@ -3957,6 +3957,7 @@
         "Longitude": 36.22673,
         "Perpetrator": "Russia",
         "PerpetratorID": "RU",
+        "PostURL": "https://thehiddenprice.com/2",
         "SourceA": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-moscow-3507728aeaf8ebfc68a1cdbd3aa8c30e",
         "SourceB": "https://apnews.com/article/russia-ukraine-war-crimes-government-and-politics-0abd99fd89a62042287341e88758d32f",
         "StartDate": "2022-08-24",
@@ -3964,8 +3965,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-09-06T03:10:39.000Z",
-        "airtable_id": "recz5x2SuilaF4Ccv",
-        "url": "https://thehiddenprice.com/2"
+        "airtable_id": "recz5x2SuilaF4Ccv"
     },
     {
         "ChildDeathCount": 1,
@@ -3984,6 +3984,7 @@
         "Notes": "House",
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/119",
         "SourceA": "https://www.thebureauinvestigates.com/projects/drone-war/afghanistan",
         "SourceB": "https://docs.google.com/spreadsheets/d/1Q1eBZ275Znlpn05PnPO7Q1BkI3yJZbvB3JycywAmqWc/edit#gid=0",
         "StartDate": "2018-11-24",
@@ -3991,8 +3992,7 @@
             "ProjectileStrike"
         ],
         "airtable_createdTime": "2022-10-05T07:22:08.000Z",
-        "airtable_id": "recz6MTZ4jj1Gxzyj",
-        "url": "https://thehiddenprice.com/119"
+        "airtable_id": "recz6MTZ4jj1Gxzyj"
     },
     {
         "ChildDeathCount": 1,
@@ -4010,14 +4010,14 @@
         "Longitude": 32.28738,
         "Perpetrator": "US-led Coalition",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/147",
         "SourceA": "https://airwars.org/civilian-casualties/cs1950-october-15-2020/",
         "StartDate": "2020-10-15",
         "Tags": [
             "DroneStrike"
         ],
         "airtable_createdTime": "2022-10-13T20:22:52.000Z",
-        "airtable_id": "reczgg4eXaHWWZJGn",
-        "url": "https://thehiddenprice.com/147"
+        "airtable_id": "reczgg4eXaHWWZJGn"
     },
     {
         "ChildDeathCount": 10,
@@ -4035,13 +4035,13 @@
         "Longitude": 45.038975,
         "Perpetrator": "United States",
         "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/150",
         "SourceA": "https://airwars.org/civilian-casualties/usyemtr006-c-january-29-2017/",
         "StartDate": "2017-01-29",
         "Tags": [
             "GroundForcesAttack"
         ],
         "airtable_createdTime": "2022-10-13T20:32:10.000Z",
-        "airtable_id": "reczjsqbKGxT7v8a6",
-        "url": "https://thehiddenprice.com/150"
+        "airtable_id": "reczjsqbKGxT7v8a6"
     }
 ]
