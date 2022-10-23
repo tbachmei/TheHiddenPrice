@@ -1823,10 +1823,11 @@
             "recdorKyyElzmTxw6",
             "receR7nVW1c6AIGP4",
             "recJtAzmf99c8JP9P",
-            "recCKGoayKIx7k7Wq"
+            "recCKGoayKIx7k7Wq",
+            "rec4GwhGWCUDfh4Pf"
         ],
         "MapID": "[display-map id=\"953\"]",
-        "RecordCount": 5,
+        "RecordCount": 6,
         "TotalDeaths": 140,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recec93hV8Wd0U36f"
@@ -2181,11 +2182,12 @@
         "CountryID": "IL",
         "LinkedRecords": [
             "rec6mXPJugDmxsH25",
-            "recIF9EVMlz1eaMzK"
+            "recIF9EVMlz1eaMzK",
+            "recreXTlvC8sSzNPy"
         ],
         "MapID": "[display-map id=\"952\"]",
-        "RecordCount": 2,
-        "TotalDeaths": 3,
+        "RecordCount": 3,
+        "TotalDeaths": 4,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recmfqqMTbEuQSWAg"
     },

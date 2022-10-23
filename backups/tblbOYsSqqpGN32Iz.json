@@ -408,6 +408,21 @@
         "airtable_id": "rec43ZchE3mNSAGZZ"
     },
     {
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": "post162",
+        "EventName": "Airstrikes hit oil installation workers and fuel truck drivers, killing at least ten.",
+        "Latitude": 34.4744641,
+        "Location": "al Baghouz desert",
+        "Longitude": 41.01115,
+        "PostURL": "https://thehiddenprice.com/post162",
+        "airtable_createdTime": "2022-10-23T19:07:28.000Z",
+        "airtable_id": "rec4GwhGWCUDfh4Pf"
+    },
+    {
         "CivilianDeathCount": 8,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -3598,6 +3613,30 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:19.000Z",
         "airtable_id": "recrLxqJIUEeHyXKT"
+    },
+    {
+        "CivilianDeathCount": 1,
+        "Country": "Israel",
+        "CountryID": "IL",
+        "CountryTable": [
+            "recmfqqMTbEuQSWAg"
+        ],
+        "EventID": "post161",
+        "EventName": "One to two civilians were killed and three others were injured in alleged Israeli strikes.",
+        "InjuredCount": 3,
+        "Latitude": 31.49299934,
+        "Location": "The Gaza Strip",
+        "Longitude": 34.476063,
+        "Perpetrator": "Israeli Military",
+        "PerpetratorID": "IL",
+        "PostURL": "https://thehiddenprice.com/post161",
+        "SourceA": "https://airwars.org/civilian-casualties/ispt010-may-11-2021/",
+        "StartDate": "2021-05-11",
+        "Tags": [
+            "Shelling"
+        ],
+        "airtable_createdTime": "2022-10-23T18:59:13.000Z",
+        "airtable_id": "recreXTlvC8sSzNPy"
     },
     {
         "ChildDeathCount": 3,
