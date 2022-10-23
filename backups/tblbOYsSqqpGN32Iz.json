@@ -256,6 +256,31 @@
         "airtable_id": "rec2gYqjXfvjFV7vu"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 5,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": "post163",
+        "EventName": "Up to five civilians died, and 14 were wounded in an airstrike on Daranj",
+        "InjuredCount": 14,
+        "Latitude": 34.914434,
+        "Location": "Daranj",
+        "Longitude": 40.5851,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/post163",
+        "SourceA": "https://airwars.org/civilian-casualties/cs1687-rs2771-november-30-2017/",
+        "StartDate": "2017-11-30",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-23T19:26:15.000Z",
+        "airtable_id": "rec2vPe8qDcC51nGp"
+    },
+    {
         "ChildDeathCount": 5,
         "CivilianDeathCount": 5,
         "Country": "Afghanistan",
@@ -408,6 +433,7 @@
         "airtable_id": "rec43ZchE3mNSAGZZ"
     },
     {
+        "CivilianDeathCount": 10,
         "Country": "Syria",
         "CountryID": "SY",
         "CountryTable": [
@@ -418,7 +444,14 @@
         "Latitude": 34.4744641,
         "Location": "al Baghouz desert",
         "Longitude": 41.01115,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
         "PostURL": "https://thehiddenprice.com/post162",
+        "SourceA": "https://airwars.org/civilian-casualties/cs339-october-16-2016/",
+        "StartDate": "2016-10-16",
+        "Tags": [
+            "DroneStrike"
+        ],
         "airtable_createdTime": "2022-10-23T19:07:28.000Z",
         "airtable_id": "rec4GwhGWCUDfh4Pf"
     },
@@ -769,6 +802,12 @@
         "airtable_id": "rec99hPzINyLiQMAz"
     },
     {
+        "EventID": "post165",
+        "PostURL": "https://thehiddenprice.com/post165",
+        "airtable_createdTime": "2022-10-23T19:37:01.000Z",
+        "airtable_id": "rec9KjUSqkn2m3w5T"
+    },
+    {
         "CivilianDeathCount": 3,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -999,6 +1038,29 @@
         ],
         "airtable_createdTime": "2022-09-28T23:47:38.000Z",
         "airtable_id": "recCSagIZtEnnFvE6"
+    },
+    {
+        "CivilianDeathCount": 5,
+        "Country": "Iraq",
+        "CountryID": "IQ",
+        "CountryTable": [
+            "recdUBhXBZVyiwNjT"
+        ],
+        "EventID": "post164",
+        "EventName": "Five civilians from one Kurdish family were killed after Coalition airstrikes hit their house in Al Saaha",
+        "Latitude": 36.341943,
+        "Location": "Al Saaha",
+        "Longitude": 43.12685,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/post164",
+        "SourceA": "https://airwars.org/civilian-casualties/ci782-june-23-2017/",
+        "StartDate": "2017-06-23",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-10-23T19:32:53.000Z",
+        "airtable_id": "recCbqQ8jjLhZZqHV"
     },
     {
         "ChildDeathCount": 2,
