@@ -1787,11 +1787,13 @@
             "recExXCHbMxufbcAw",
             "recRQvyHPU20Xr8MH",
             "rec3b9cmDPFSM4vLq",
-            "recCbqQ8jjLhZZqHV"
+            "recCbqQ8jjLhZZqHV",
+            "recB8lt3lYEKlPzHH",
+            "rec27w5BSll2iVrrN"
         ],
         "MapID": "[display-map id=\"62\"]",
-        "RecordCount": 9,
-        "TotalDeaths": 292,
+        "RecordCount": 11,
+        "TotalDeaths": 313,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
@@ -1826,11 +1828,13 @@
             "recJtAzmf99c8JP9P",
             "recCKGoayKIx7k7Wq",
             "rec4GwhGWCUDfh4Pf",
-            "rec2vPe8qDcC51nGp"
+            "rec2vPe8qDcC51nGp",
+            "rec9KjUSqkn2m3w5T",
+            "rec7PmQLqDz6R7n9k"
         ],
         "MapID": "[display-map id=\"953\"]",
-        "RecordCount": 7,
-        "TotalDeaths": 155,
+        "RecordCount": 9,
+        "TotalDeaths": 177,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recec93hV8Wd0U36f"
     },
