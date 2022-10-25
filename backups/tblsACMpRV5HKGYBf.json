@@ -1793,7 +1793,7 @@
         ],
         "MapID": "[display-map id=\"62\"]",
         "RecordCount": 11,
-        "TotalDeaths": 313,
+        "TotalDeaths": 324,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recdUBhXBZVyiwNjT"
     },
@@ -1830,11 +1830,12 @@
             "rec4GwhGWCUDfh4Pf",
             "rec2vPe8qDcC51nGp",
             "rec9KjUSqkn2m3w5T",
-            "rec7PmQLqDz6R7n9k"
+            "rec7PmQLqDz6R7n9k",
+            "recaGzsAvfuFpudtL"
         ],
         "MapID": "[display-map id=\"953\"]",
-        "RecordCount": 9,
-        "TotalDeaths": 177,
+        "RecordCount": 10,
+        "TotalDeaths": 187,
         "airtable_createdTime": "2022-10-06T19:44:11.000Z",
         "airtable_id": "recec93hV8Wd0U36f"
     },

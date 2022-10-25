@@ -179,6 +179,8 @@
         "airtable_id": "rec217ZU3qP88jKm0"
     },
     {
+        "ChildDeathCount": 5,
+        "CivilianDeathCount": 11,
         "Country": "Iraq",
         "CountryID": "IQ",
         "CountryTable": [
@@ -186,8 +188,18 @@
         ],
         "EventID": "post168",
         "EventName": "11 civilians killed after an airstrike hit an ISIL checkpoint which had 2 civilian cars present as well.",
+        "Latitude": 35.4695742,
+        "Location": "Hatra",
+        "Longitude": 42.45308,
         "Notes": "Also present at the enemy checkpoint were two civilian vehicles, which aircrews and analysts failed to properly identify in the short time between the release of a GBU-38 missile and impact.",
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
         "PostURL": "https://thehiddenprice.com/post168",
+        "SourceA": "https://airwars.org/civilian-casualties/ci051-march-13-2015/",
+        "StartDate": "2015-03-13",
+        "Tags": [
+            "ProjectileStrike"
+        ],
         "airtable_createdTime": "2022-10-25T20:58:57.000Z",
         "airtable_id": "rec27w5BSll2iVrrN"
     },
@@ -2598,8 +2610,28 @@
         "airtable_id": "recYm1NOAx1qwXN7T"
     },
     {
+        "ChildDeathCount": 1,
+        "CivilianDeathCount": 10,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
         "EventID": "post169",
+        "EventName": "Between 10 and 20 civilians were killed and dozens more injured from airstrikes on multiple locations in Tabaqa.",
+        "InjuredCount": 2,
+        "Latitude": 35.8344438,
+        "Location": "Tabaqa",
+        "Longitude": 38.5466,
+        "Notes": "The monitor put the death toll for the day at 20 non-combatants, with dozens more injured.",
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
         "PostURL": "https://thehiddenprice.com/post169",
+        "SourceA": "https://airwars.org/civilian-casualties/cs603-march-21-2017/",
+        "StartDate": "2017-03-21",
+        "Tags": [
+            "DroneStrike"
+        ],
         "airtable_createdTime": "2022-10-25T20:58:58.000Z",
         "airtable_id": "recaGzsAvfuFpudtL"
     },
