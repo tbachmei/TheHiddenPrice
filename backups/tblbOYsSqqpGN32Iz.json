@@ -529,12 +529,6 @@
         "airtable_id": "rec4feI3OG8XaU3rM"
     },
     {
-        "EventID": "post170",
-        "PostURL": "https://thehiddenprice.com/post170",
-        "airtable_createdTime": "2022-10-25T20:59:00.000Z",
-        "airtable_id": "rec4hOwkWxnU0mHN6"
-    },
-    {
         "CivilianDeathCount": 2,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -782,12 +776,6 @@
         ],
         "airtable_createdTime": "2022-09-29T03:55:57.000Z",
         "airtable_id": "rec84WGSgbeLyfkEJ"
-    },
-    {
-        "EventID": "post172",
-        "PostURL": "https://thehiddenprice.com/post172",
-        "airtable_createdTime": "2022-10-25T21:00:09.000Z",
-        "airtable_id": "rec8tV5t92dEuiLsz"
     },
     {
         "ChildDeathCount": 1,
@@ -1657,12 +1645,6 @@
         "airtable_id": "recJ93YVHwESedyxL"
     },
     {
-        "EventID": "post176",
-        "PostURL": "https://thehiddenprice.com/post176",
-        "airtable_createdTime": "2022-10-25T21:00:11.000Z",
-        "airtable_id": "recJFkm5PMKGMFXzX"
-    },
-    {
         "ChildDeathCount": 8,
         "CivilianDeathCount": 16,
         "Country": "Syria",
@@ -1889,18 +1871,6 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:12.000Z",
         "airtable_id": "recLiNONKWoZF5glJ"
-    },
-    {
-        "EventID": "post173",
-        "PostURL": "https://thehiddenprice.com/post173",
-        "airtable_createdTime": "2022-10-25T21:00:09.000Z",
-        "airtable_id": "recLvrJIzCqzjCoFO"
-    },
-    {
-        "EventID": "post174",
-        "PostURL": "https://thehiddenprice.com/post174",
-        "airtable_createdTime": "2022-10-25T21:00:09.000Z",
-        "airtable_id": "recMk6BTOMSaJjHLH"
     },
     {
         "CivilianDeathCount": 12,
@@ -2711,12 +2681,6 @@
         "airtable_id": "recc9weLh0Q2aysxq"
     },
     {
-        "EventID": "post178",
-        "PostURL": "https://thehiddenprice.com/post178",
-        "airtable_createdTime": "2022-10-25T21:00:14.000Z",
-        "airtable_id": "reccAYrbJZoev9rLc"
-    },
-    {
         "CivilianDeathCount": 9,
         "Country": "Afghanistan",
         "CountryID": "AF",
@@ -3022,18 +2986,6 @@
         ],
         "airtable_createdTime": "2022-10-05T07:21:19.000Z",
         "airtable_id": "recfDDhNilBL842Tt"
-    },
-    {
-        "EventID": "post175",
-        "PostURL": "https://thehiddenprice.com/post175",
-        "airtable_createdTime": "2022-10-25T21:00:10.000Z",
-        "airtable_id": "recfTbJGoPK6hwaTi"
-    },
-    {
-        "EventID": "post180",
-        "PostURL": "https://thehiddenprice.com/post180",
-        "airtable_createdTime": "2022-10-25T21:00:14.000Z",
-        "airtable_id": "recfYuX71tGTnSCaF"
     },
     {
         "CivilianDeathCount": 3,
@@ -3539,12 +3491,6 @@
         "airtable_id": "recn7GzlleR1tZidP"
     },
     {
-        "EventID": "post177",
-        "PostURL": "https://thehiddenprice.com/post177",
-        "airtable_createdTime": "2022-10-25T21:00:13.000Z",
-        "airtable_id": "recnQ8xhbLRcPeoG0"
-    },
-    {
         "CivilianDeathCount": 1,
         "Country": "Ukraine",
         "CountryID": "UA",
@@ -3644,12 +3590,6 @@
         ],
         "airtable_createdTime": "2022-10-05T07:22:06.000Z",
         "airtable_id": "recpFZHT5q28nCOqq"
-    },
-    {
-        "EventID": "post179",
-        "PostURL": "https://thehiddenprice.com/post179",
-        "airtable_createdTime": "2022-10-25T21:00:14.000Z",
-        "airtable_id": "recpJSKwn8VbUEvVW"
     },
     {
         "ChildDeathCount": 19,
@@ -4030,12 +3970,6 @@
         ],
         "airtable_createdTime": "2022-10-05T07:21:13.000Z",
         "airtable_id": "recuNvafbNE8LSDtp"
-    },
-    {
-        "EventID": "post171",
-        "PostURL": "https://thehiddenprice.com/post171",
-        "airtable_createdTime": "2022-10-25T20:59:41.000Z",
-        "airtable_id": "recuV3CfAVcNyiil8"
     },
     {
         "CivilianDeathCount": 1,
