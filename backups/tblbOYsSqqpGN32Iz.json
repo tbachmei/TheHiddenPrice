@@ -4124,6 +4124,30 @@
         "airtable_id": "recvwct34UpkYWC6t"
     },
     {
+        "ChildDeathCount": 6,
+        "CivilianDeathCount": 8,
+        "Country": "Syria",
+        "CountryID": "SY",
+        "CountryTable": [
+            "recec93hV8Wd0U36f"
+        ],
+        "EventID": "post170",
+        "EventName": "8 civilians killed by Coalition air strike on a house in Dali Hasan",
+        "Latitude": 36.5630138,
+        "Location": "Dali Hasan",
+        "Longitude": 38.369558,
+        "Perpetrator": "US-led Coalition",
+        "PerpetratorID": "US",
+        "PostURL": "https://thehiddenprice.com/post170",
+        "SourceA": "https://airwars.org/civilian-casualties/cs074-june-7-2015/",
+        "StartDate": "2015-06-07",
+        "Tags": [
+            "DroneStrike"
+        ],
+        "airtable_createdTime": "2022-11-03T04:35:28.000Z",
+        "airtable_id": "recwK5S2bzRR3sud0"
+    },
+    {
         "CivilianDeathCount": 1,
         "Country": "Afghanistan",
         "CountryID": "AF",
