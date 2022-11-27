@@ -2126,6 +2126,7 @@
         "airtable_id": "recPyCH2CU1CMKRU6"
     },
     {
+        "CivilianDeathCount": 600,
         "Country": "Ukraine",
         "CountryID": "UA",
         "CountryTable": [
@@ -3240,6 +3241,7 @@
         "airtable_id": "reciqWKMKmbMmQung"
     },
     {
+        "CivilianDeathCount": 47,
         "Country": "Ukraine",
         "CountryID": "UA",
         "CountryTable": [
